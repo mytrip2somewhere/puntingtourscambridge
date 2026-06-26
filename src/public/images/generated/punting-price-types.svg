@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 440" role="img" aria-label="How Cambridge punting is priced, by tour type. Student-guided shared punting is charged per person and is the cheapest seat. Shared chauffeured punting is charged per person and is the best value. Private punting is charged per punt, so it gets cheaper per head with a full boat. Self-hire is charged per hour and suits confident punters. All prices are dynamic, so check the live price.">
+  <defs>
+    <style>
+      .t{font-family:Futura,'Trebuchet MS','Segoe UI',sans-serif;font-weight:800;fill:#14110f}
+      .sub{font-family:ui-sans-serif,system-ui,Arial,sans-serif;fill:#433d38}
+      .h{font-family:Futura,'Trebuchet MS','Segoe UI',sans-serif;font-weight:800;fill:#ffffff}
+      .per{font-family:ui-sans-serif,system-ui,Arial,sans-serif;fill:#f7f4ef;font-weight:700}
+      .bf{font-family:ui-sans-serif,system-ui,Arial,sans-serif;fill:#433d38}
+      .lab{font-family:Futura,'Trebuchet MS','Segoe UI',sans-serif;font-weight:700;fill:#14110f}
+    </style>
+  </defs>
+  <rect x="0" y="0" width="900" height="440" rx="16" fill="#f7f4ef"/>
+  <text x="40" y="44" class="t" font-size="24">How Cambridge punting is priced</text>
+  <text x="40" y="66" class="sub" font-size="13.5">Four tour types, three different ways of charging</text>
+
+  <!-- 4 panels -->
+  <!-- panel 1: student (cheapest) -->
+  <rect x="40" y="92" width="195" height="234" rx="12" fill="#2f6f57"/>
+  <text x="137" y="128" text-anchor="middle" class="h" font-size="15">Student-guided</text>
+  <rect x="92" y="146" width="90" height="24" rx="12" fill="#214f3e"/>
+  <text x="137" y="163" text-anchor="middle" class="per" font-size="12.5">per person</text>
+  <g><circle cx="118" cy="206" r="9" fill="#e8a33d"/><circle cx="137" cy="206" r="9" fill="#cdbfa6"/><circle cx="156" cy="206" r="9" fill="#cdbfa6"/></g>
+  <text x="137" y="246" text-anchor="middle" class="per" font-size="13" font-weight="800">Cheapest seat</text>
+
+  <!-- panel 2: shared (best value) -->
+  <rect x="247" y="92" width="195" height="234" rx="12" fill="#2f6f57"/>
+  <text x="344" y="128" text-anchor="middle" class="h" font-size="15">Shared chauffeured</text>
+  <rect x="299" y="146" width="90" height="24" rx="12" fill="#214f3e"/>
+  <text x="344" y="163" text-anchor="middle" class="per" font-size="12.5">per person</text>
+  <g><circle cx="325" cy="206" r="9" fill="#e8a33d"/><circle cx="344" cy="206" r="9" fill="#e8a33d"/><circle cx="363" cy="206" r="9" fill="#cdbfa6"/></g>
+  <text x="344" y="246" text-anchor="middle" class="per" font-size="13" font-weight="800">Best value</text>
+
+  <!-- panel 3: private (per punt) -->
+  <rect x="454" y="92" width="195" height="234" rx="12" fill="#e8a33d"/>
+  <text x="551" y="128" text-anchor="middle" class="lab" font-size="15">Private</text>
+  <rect x="506" y="146" width="90" height="24" rx="12" fill="#14110f"/>
+  <text x="551" y="163" text-anchor="middle" class="per" font-size="12.5">per punt</text>
+  <g><circle cx="532" cy="206" r="9" fill="#2f6f57"/><circle cx="551" cy="206" r="9" fill="#2f6f57"/><circle cx="570" cy="206" r="9" fill="#2f6f57"/></g>
+  <text x="551" y="240" text-anchor="middle" class="lab" font-size="12.5">Cheaper per head</text>
+  <text x="551" y="258" text-anchor="middle" class="lab" font-size="12.5">with a full boat</text>
+
+  <!-- panel 4: self-hire (per hour) -->
+  <rect x="661" y="92" width="199" height="234" rx="12" fill="#1565ff"/>
+  <text x="760" y="128" text-anchor="middle" class="h" font-size="15">Self-hire</text>
+  <rect x="713" y="146" width="94" height="24" rx="12" fill="#0d49c4"/>
+  <text x="760" y="163" text-anchor="middle" class="per" font-size="12.5">per hour</text>
+  <circle cx="760" cy="208" r="20" fill="none" stroke="#f7f4ef" stroke-width="3"/>
+  <line x1="760" y1="208" x2="760" y2="196" stroke="#f7f4ef" stroke-width="3" stroke-linecap="round"/>
+  <line x1="760" y1="208" x2="770" y2="214" stroke="#f7f4ef" stroke-width="3" stroke-linecap="round"/>
+  <text x="760" y="252" text-anchor="middle" class="per" font-size="12.5">You pole it</text>
+
+  <!-- footer -->
+  <rect x="40" y="344" width="820" height="58" rx="12" fill="#14110f"/>
+  <text x="60" y="370" class="h" font-size="14">Prices are dynamic</text>
+  <text x="60" y="390" class="bf" font-size="13" fill="#ece4d8">They change by season, date and group size. Always check the live price on the official listing before you book.</text>
+</svg>
