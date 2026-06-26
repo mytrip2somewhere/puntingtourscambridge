@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 470" role="img" aria-label="The Cambridge punting route along the College Backs, in order: it starts near Queens' College and the Mathematical Bridge, then passes King's College and its chapel, Clare College and Clare Bridge, Trinity College, and finishes at St John's College and the Bridge of Sighs. A guided tour takes about 45 to 50 minutes.">
+  <defs>
+    <style>
+      .t{font-family:Futura,'Trebuchet MS','Segoe UI',sans-serif;font-weight:800;fill:#14110f}
+      .sub{font-family:ui-sans-serif,system-ui,Arial,sans-serif;fill:#433d38}
+      .stop{font-family:Futura,'Trebuchet MS','Segoe UI',sans-serif;font-weight:700;fill:#14110f}
+      .br{font-family:ui-sans-serif,system-ui,Arial,sans-serif;fill:#2f6f57;font-weight:700}
+      .sm{font-family:ui-sans-serif,system-ui,Arial,sans-serif;fill:#433d38}
+      .w{font-family:Futura,'Trebuchet MS','Segoe UI',sans-serif;font-weight:800;fill:#ffffff}
+    </style>
+  </defs>
+  <rect x="0" y="0" width="900" height="470" rx="16" fill="#f7f4ef"/>
+  <text x="40" y="44" class="t" font-size="24">The College Backs route</text>
+  <text x="40" y="66" class="sub" font-size="13.5">What a punt glides past, in order, on a 45 to 50 minute tour</text>
+
+  <!-- river band -->
+  <path d="M40 250 q120 -40 220 0 q120 40 220 0 q120 -40 220 0 q70 24 160 6" fill="none" stroke="#bfe0e6" stroke-width="34" stroke-linecap="round"/>
+  <path d="M40 250 q120 -40 220 0 q120 40 220 0 q120 -40 220 0 q70 24 160 6" fill="none" stroke="#8fc6d0" stroke-width="2" stroke-dasharray="2 10" opacity="0.7"/>
+
+  <!-- punt at the start -->
+  <g transform="translate(70,250)">
+    <rect x="-22" y="-5" width="44" height="11" rx="4" fill="#7a4a25"/>
+    <line x1="16" y1="-22" x2="2" y2="4" stroke="#e8a33d" stroke-width="2.2" stroke-linecap="round"/>
+  </g>
+
+  <!-- stops -->
+  <!-- 1 Queens (below) -->
+  <circle cx="150" cy="232" r="9" fill="#2f6f57"/>
+  <text x="150" y="300" text-anchor="middle" class="stop" font-size="13.5">Queens' College</text>
+  <text x="150" y="318" text-anchor="middle" class="br" font-size="12.5">Mathematical Bridge</text>
+
+  <!-- 2 King's (above) -->
+  <circle cx="320" cy="252" r="9" fill="#2f6f57"/>
+  <text x="320" y="190" text-anchor="middle" class="stop" font-size="13.5">King's College</text>
+  <text x="320" y="208" text-anchor="middle" class="sm" font-size="12.5">the famous Chapel</text>
+
+  <!-- 3 Clare (below) -->
+  <circle cx="490" cy="232" r="9" fill="#2f6f57"/>
+  <text x="490" y="300" text-anchor="middle" class="stop" font-size="13.5">Clare College</text>
+  <text x="490" y="318" text-anchor="middle" class="br" font-size="12.5">Clare Bridge</text>
+
+  <!-- 4 Trinity (above) -->
+  <circle cx="640" cy="250" r="9" fill="#2f6f57"/>
+  <text x="640" y="190" text-anchor="middle" class="stop" font-size="13.5">Trinity College</text>
+  <text x="640" y="208" text-anchor="middle" class="sm" font-size="12.5">Wren Library</text>
+
+  <!-- 5 St John's (below) -->
+  <circle cx="800" cy="252" r="11" fill="#e8a33d"/>
+  <text x="800" y="300" text-anchor="middle" class="stop" font-size="13.5">St John's College</text>
+  <text x="800" y="318" text-anchor="middle" class="br" font-size="12.5">Bridge of Sighs</text>
+
+  <!-- footer note -->
+  <rect x="40" y="404" width="820" height="44" rx="12" fill="#2f6f57"/>
+  <text x="450" y="431" text-anchor="middle" class="w" font-size="14">Around 7 colleges and 9 bridges in under an hour, told from the water.</text>
+</svg>

@@ -1,0 +1,5 @@
+[
+{"tour": "Cambridge Shared Punting Tour", "price_gbp": null, "rating": 4.7, "reviews": 1521, "duration": "50 minutes", "group_type": "Shared", "source_url": "https://www.getyourguide.com/cambridge-england-l439/cambridge-shared-punting-tour-t137081/"},
+{"tour": "Cambridge Shared Guided Punting by University Students", "price_gbp": null, "rating": 4.9, "reviews": 38, "duration": "50 minutes", "group_type": "Shared", "source_url": "https://www.getyourguide.com/cambridge-england-l439/cambridge-shared-guided-punting-by-university-students-t1258374/"},
+{"tour": "Private Cambridge Punting Tour", "price_gbp": null, "rating": 4.9, "reviews": 339, "duration": "50 minutes", "group_type": "Private", "source_url": "https://www.viator.com/tours/Cambridge/Private-Cambridge-Punting-Tour/d22327-8978P2"}
+]

@@ -1,0 +1,9 @@
+[
+{"fact":"Punting operates year-round except Christmas Day, typically 9am until dusk, with extended summer hours March-September.","source_name":"Scudamore’s Punting Company","url":"https://www.scudamores.com/opening-times","date":"2026"},
+{"fact":"The Conservators of the River Cam have licensed exactly six punting stations in Cambridge: La Mimosa (Jesus Green), Quayside, Trinity College, Mill Pond (Silver Street), Mill Lane, and Granta mill pond (Sheeps Green).","source_name":"Cambridge City Council","url":"https://www.cambridge.gov.uk/punting","date":"2026"},
+{"fact":"Guided punting tours along the College Backs pass 7 colleges (including King’s, Clare, Trinity, St John’s and Queens’) and 9 bridges (including the Bridge of Sighs at St John’s and the Mathematical Bridge at Queens’).","source_name":"Let’s Go Punting","url":"https://letsgopunting.co.uk/","date":"2026"},
+{"fact":"Shared chauffeured punting tours start from £11–£12 per person; private tours and self-hire punts are available at higher rates with dynamic pricing.","source_name":"Traditional Punting Company / Rutherford’s Punting","url":"https://traditionalpuntingcompany.com/","date":"2026"},
+{"fact":"Typical guided tours last 50 minutes and run regularly throughout the day.","source_name":"Traditional Punting Company","url":"https://traditionalpuntingcompany.com/","date":"2026"},
+{"fact":"The river is busiest in summer with large crowds; spring and autumn are recommended for fewer people and pleasant weather.","source_name":"Veggie Vagabonds","url":"https://veggievagabonds.com/insiders-guide-to-punting-in-cambridge/","date":"2026"},
+{"fact":"Evening punting tours are offered during the summer months.","source_name":"Traditional Punting Company","url":"https://traditionalpuntingcompany.com/","date":"2026"}
+]
