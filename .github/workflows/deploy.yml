@@ -15,8 +15,9 @@ jobs:
         with:
           node-version: '20'
       - run: npm ci
-      # Launch: production build is indexable. Local/dev builds stay noindex by default.
-      - run: SITE_INDEXABLE=true npm run build
+      # PRE-LAUNCH: site ships noindex while images are placeholders and the domain/GA
+      # are not wired. AT LAUNCH, flip this back to `SITE_INDEXABLE=true npm run build`.
+      - run: npm run build
       - uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}

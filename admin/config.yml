@@ -1,13 +1,15 @@
-# Sveltia CMS - IMAGE-ONLY, LABELED SLOTS (Phase 8.3).
-# Content managers see one "Site images" screen with a labeled picker per slot
-# and upload a photo to each. No price / rating / text editing: the only fields
-# are image pickers. Uploads are committed to the repo and auto-deploy.
+# Sveltia CMS - images + blog (Phase 8.3).
+# Content managers get two things: a "Site images" screen with a labelled picker +
+# alt-text field per slot, and a "Blog posts" collection (write the body, set a hero,
+# pick a related tour). Money-page text/prices/schema stay in code. Commits auto-deploy.
 
 backend:
   name: github
   repo: mytrip2somewhere/puntingtourscambridge
   branch: main
-  # Deployed Sveltia OAuth worker (live, domain-locked):
+  # Sveltia OAuth worker for GitHub sign-in.
+  # NOTE FOR OLEG: deploy a sveltia-cms-auth worker (GitHub OAuth app) for this site and
+  # put its URL here, or reuse an existing worker that allows this repo.
   base_url: https://sveltia-cms-auth.mytrip2somewhere.workers.dev
 
 # Where uploaded files are committed, and how they resolve on the live site.
@@ -17,12 +19,12 @@ public_folder: "/images/uploaded"
 collections:
   - name: site_images
     label: "Site images"
-    description: "Replace the photos shown across the site. Slots are grouped by page, and each one tells you where it appears and the best shape to upload. Tour photography only."
+    description: "Replace the photos shown across the site. Slots are grouped by page; each tells you where it appears and the best shape to upload. Tour and Cambridge photography only (never AI-generated)."
     files:
       - name: images
         label: "All site images"
         file: "src/data/images.json"
-        description: "Open a section, open a slot, upload the photo and write its alt text. Heroes are wide (16:9), cards are 4:3, Mia's photos are square. Alt text describes the photo for Google and screen readers — keep it natural and include a keyword like 'Shibuya go-kart' where it fits."
+        description: "Open a section, open a slot, upload the photo and write its alt text. Heroes are wide (16:9), cards are 4:3, Jordan's photos are square. Alt text describes the photo for Google and screen readers, kept natural and including a keyword like 'Cambridge punting' where it fits."
         fields:
           - name: homepage
             label: "🏠 Homepage"
@@ -31,12 +33,40 @@ collections:
               - name: home_hero
                 label: "Hero banner (very top of the homepage)"
                 widget: object
-                hint: "The big banner visitors see first. Wide 16:9, ~1600×900px. Page: /"
+                hint: "The big banner visitors see first. Wide 16:9, ~1600x900px. Page: /"
                 fields:
                   - { name: src, label: "Photo", widget: image }
                   - { name: alt, label: "Alt text (describe it, include a keyword)", widget: string, required: true }
+              - name: jordan_thumb
+                label: "Jordan — small round photo (square)"
+                widget: object
+                hint: "Shown next to Jordan's name across the site. ~160x160px."
+                fields:
+                  - { name: src, label: "Photo", widget: image }
+                  - { name: alt, label: "Alt text (include a keyword)", widget: string, required: true }
+              - name: shared_card
+                label: "Shared tour — card photo (4:3)"
+                widget: object
+                hint: "Card on the homepage and tours page. Page: /tours/cambridge-shared-punting-tour/"
+                fields:
+                  - { name: src, label: "Photo", widget: image }
+                  - { name: alt, label: "Alt text (include a keyword)", widget: string, required: true }
+              - name: private_card
+                label: "Private tour — card photo (4:3)"
+                widget: object
+                hint: "Card on the homepage and tours page. Page: /tours/private-cambridge-punting-tour/"
+                fields:
+                  - { name: src, label: "Photo", widget: image }
+                  - { name: alt, label: "Alt text (include a keyword)", widget: string, required: true }
+              - name: student_card
+                label: "Student tour — card photo (4:3)"
+                widget: object
+                hint: "Card on the homepage and tours page. Page: /tours/cambridge-student-guided-punting/"
+                fields:
+                  - { name: src, label: "Photo", widget: image }
+                  - { name: alt, label: "Alt text (include a keyword)", widget: string, required: true }
           - name: tours
-            label: "🏎️ Tour pages"
+            label: "⛵ Tour pages"
             widget: object
             fields:
               - name: tours_hub_hero
@@ -46,45 +76,24 @@ collections:
                 fields:
                   - { name: src, label: "Photo", widget: image }
                   - { name: alt, label: "Alt text (include a keyword)", widget: string, required: true }
-              - name: shibuya_hero
-                label: "Shibuya tour — hero banner (16:9)"
+              - name: shared_hero
+                label: "Shared tour — hero banner (16:9)"
                 widget: object
-                hint: "Top banner on the Shibuya tour page. Page: /tours/shibuya-street-kart-experience/"
+                hint: "Top banner on the shared tour page. Page: /tours/cambridge-shared-punting-tour/"
                 fields:
                   - { name: src, label: "Photo", widget: image }
                   - { name: alt, label: "Alt text (include a keyword)", widget: string, required: true }
-              - name: shibuya_card
-                label: "Shibuya — small card photo (4:3)"
+              - name: private_hero
+                label: "Private tour — hero banner (16:9)"
                 widget: object
-                hint: "Used on the homepage, Tours page and several blog posts."
+                hint: "Top banner on the private tour page. Page: /tours/private-cambridge-punting-tour/"
                 fields:
                   - { name: src, label: "Photo", widget: image }
                   - { name: alt, label: "Alt text (include a keyword)", widget: string, required: true }
-              - name: akihabara_hero
-                label: "Akihabara tour — hero banner (16:9)"
+              - name: student_hero
+                label: "Student tour — hero banner (16:9)"
                 widget: object
-                hint: "Top banner on the Akihabara tour page. Page: /tours/akihabara-go-karting-experience/"
-                fields:
-                  - { name: src, label: "Photo", widget: image }
-                  - { name: alt, label: "Alt text (include a keyword)", widget: string, required: true }
-              - name: akihabara_card
-                label: "Akihabara — small card photo (4:3)"
-                widget: object
-                hint: "Used on the homepage, Tours page and blog posts."
-                fields:
-                  - { name: src, label: "Photo", widget: image }
-                  - { name: alt, label: "Alt text (include a keyword)", widget: string, required: true }
-              - name: electric_hero
-                label: "Electric tour — hero banner (16:9)"
-                widget: object
-                hint: "Top banner on the electric kart tour page. Page: /tours/tokyo-guided-electric-kart-tour/"
-                fields:
-                  - { name: src, label: "Photo", widget: image }
-                  - { name: alt, label: "Alt text (include a keyword)", widget: string, required: true }
-              - name: electric_card
-                label: "Electric — small card photo (4:3)"
-                widget: object
-                hint: "Used on the homepage, Tours page and blog posts."
+                hint: "Top banner on the student-guided tour page. Page: /tours/cambridge-student-guided-punting/"
                 fields:
                   - { name: src, label: "Photo", widget: image }
                   - { name: alt, label: "Alt text (include a keyword)", widget: string, required: true }
@@ -99,35 +108,34 @@ collections:
                 fields:
                   - { name: src, label: "Photo", widget: image }
                   - { name: alt, label: "Alt text (include a keyword)", widget: string, required: true }
-              - name: license_hero
-                label: "License guide — hero banner (16:9)"
+              - name: prices_hero
+                label: "Prices guide — hero banner (16:9)"
                 widget: object
-                hint: "Top banner on the license guide. Page: /guides/tokyo-go-kart-license-idp/"
+                hint: "Top banner on the punting prices guide. Page: /guides/cambridge-punting-prices/"
+                fields:
+                  - { name: src, label: "Photo", widget: image }
+                  - { name: alt, label: "Alt text (include a keyword)", widget: string, required: true }
+              - name: backs_hero
+                label: "College Backs guide — hero banner (16:9)"
+                widget: object
+                hint: "Top banner on the College Backs guide. Page: /guides/cambridge-college-backs/"
                 fields:
                   - { name: src, label: "Photo", widget: image }
                   - { name: alt, label: "Alt text (include a keyword)", widget: string, required: true }
           - name: author
-            label: "👤 Author (Mia)"
+            label: "👤 Author (Jordan)"
             widget: object
             fields:
-              - name: mia_thumb
-                label: "Mia — small round photo (square)"
+              - name: jordan_portrait
+                label: "Jordan — large portrait, About page (square)"
                 widget: object
-                hint: "Shown next to Mia's name across the site. ~160×160px."
-                fields:
-                  - { name: src, label: "Photo", widget: image }
-                  - { name: alt, label: "Alt text (include a keyword)", widget: string, required: true }
-              - name: mia_portrait
-                label: "Mia — large portrait, About page (square)"
-                widget: object
-                hint: "Larger portrait on the About page. ~600×600px. Page: /about/"
+                hint: "Larger portrait on the About page. ~600x600px. Page: /about/"
                 fields:
                   - { name: src, label: "Photo", widget: image }
                   - { name: alt, label: "Alt text (include a keyword)", widget: string, required: true }
 
-  # Blog: full posts. Managers write the body in a rich editor and can insert
-  # images anywhere (after any paragraph or heading). Each post can point at a
-  # tour for the conversion call-to-action.
+  # Blog: full posts. Managers write the body in a rich editor and can insert images
+  # anywhere. Each post can point at a tour for the conversion call-to-action.
   - name: blog
     label: "Blog posts"
     label_singular: "Blog post"
@@ -149,11 +157,10 @@ collections:
         widget: select
         required: false
         options:
-          - { label: "Shibuya Street Kart Experience", value: "shibuya-street-kart-experience" }
-          - { label: "Akihabara Go-Karting Experience", value: "akihabara-go-karting-experience" }
-          - { label: "Tokyo Guided Electric Kart Tour", value: "tokyo-guided-electric-kart-tour" }
-      - { name: related_tour_label, label: "CTA tour label (e.g. Shibuya Street Kart)", widget: string, required: false }
+          - { label: "Cambridge Shared Punting Tour", value: "cambridge-shared-punting-tour" }
+          - { label: "Private Cambridge Punting Tour", value: "private-cambridge-punting-tour" }
+          - { label: "Cambridge Student-Guided Shared Punting", value: "cambridge-student-guided-punting" }
+      - { name: related_tour_label, label: "CTA tour label (e.g. Cambridge Shared Punting Tour)", widget: string, required: false }
       - { name: related_tour_blurb, label: "CTA blurb", widget: text, required: false }
       - { name: draft, label: "Draft (uncheck to publish)", widget: boolean, default: true, required: false }
-      # The body: rich text / Markdown. Insert images inline anywhere here.
       - { name: body, label: "Body", widget: markdown }
