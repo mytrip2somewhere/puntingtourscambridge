@@ -5,7 +5,7 @@
       .sub{font-family:ui-sans-serif,system-ui,Arial,sans-serif;fill:#433d38}
       .h{font-family:Futura,'Trebuchet MS','Segoe UI',sans-serif;font-weight:800;fill:#ffffff}
       .per{font-family:ui-sans-serif,system-ui,Arial,sans-serif;fill:#f7f4ef;font-weight:700}
-      .bf{font-family:ui-sans-serif,system-ui,Arial,sans-serif;fill:#433d38}
+      .bf{font-family:ui-sans-serif,system-ui,Arial,sans-serif}
       .lab{font-family:Futura,'Trebuchet MS','Segoe UI',sans-serif;font-weight:700;fill:#14110f}
     </style>
   </defs>

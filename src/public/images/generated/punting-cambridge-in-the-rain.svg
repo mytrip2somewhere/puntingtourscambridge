@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 440" role="img" aria-label="Does punting run in the rain? In light rain or drizzle the answer is usually yes, with covered punts, blankets and ponchos. In a storm or high water it may pause, so check the operator's cancellation policy. Punting runs year-round except Christmas Day, and a rainy Cam is quiet and atmospheric.">
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0 L10 5 L0 10 z" fill="#433d38"/>
+    </marker>
+    <style>
+      .ttl{font-family:Futura,'Trebuchet MS','Segoe UI',sans-serif;font-weight:800;fill:#14110f}
+      .h{font-family:Futura,'Trebuchet MS','Segoe UI',sans-serif;font-weight:700;fill:#14110f}
+      .b{font-family:ui-sans-serif,system-ui,Arial,sans-serif;fill:#433d38}
+      .wh{font-family:Futura,'Trebuchet MS','Segoe UI',sans-serif;font-weight:800;fill:#fff}
+      .w{font-family:ui-sans-serif,system-ui,Arial,sans-serif;fill:#fff}
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="900" height="440" rx="16" fill="#f7f4ef"/>
+  <text x="450" y="44" text-anchor="middle" class="ttl" font-size="26">Does punting run in the rain?</text>
+  <text x="450" y="69" text-anchor="middle" class="b" font-size="14">It depends on how hard it is coming down</text>
+
+  <!-- cloud icon -->
+  <g transform="translate(450,104)">
+    <ellipse cx="-22" cy="0" rx="24" ry="17" fill="#bfe0e6"/>
+    <ellipse cx="6" cy="-6" rx="28" ry="21" fill="#bfe0e6"/>
+    <ellipse cx="30" cy="2" rx="22" ry="16" fill="#bfe0e6"/>
+    <rect x="-44" y="6" width="98" height="16" rx="8" fill="#bfe0e6"/>
+    <!-- rain lines -->
+    <line x1="-26" y1="26" x2="-32" y2="40" stroke="#1565ff" stroke-width="2.4" stroke-linecap="round"/>
+    <line x1="-2" y1="26" x2="-8" y2="42" stroke="#1565ff" stroke-width="2.4" stroke-linecap="round"/>
+    <line x1="22" y1="26" x2="16" y2="40" stroke="#1565ff" stroke-width="2.4" stroke-linecap="round"/>
+  </g>
+
+  <!-- connectors from cloud to branches -->
+  <path d="M450 156 L450 178 L250 178 L250 200" fill="none" stroke="#433d38" stroke-width="2" marker-end="url(#arrow)"/>
+  <path d="M450 156 L450 178 L650 178 L650 200" fill="none" stroke="#433d38" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- LEFT branch: light rain -->
+  <rect x="70" y="202" width="360" height="58" rx="12" fill="#fff" stroke="#e0d8cc"/>
+  <text x="250" y="227" text-anchor="middle" class="h" font-size="15">Light rain or drizzle</text>
+  <text x="250" y="247" text-anchor="middle" class="b" font-size="12.5">the usual Cambridge weather</text>
+  <path d="M250 260 L250 286" fill="none" stroke="#433d38" stroke-width="2" marker-end="url(#arrow)"/>
+  <rect x="70" y="288" width="360" height="96" rx="12" fill="#2f6f57"/>
+  <text x="250" y="320" text-anchor="middle" class="wh" font-size="17">Usually yes</text>
+  <text x="250" y="345" text-anchor="middle" class="w" font-size="13">Covered punts, blankets and ponchos</text>
+  <text x="250" y="365" text-anchor="middle" class="w" font-size="13">keep you dry on the water.</text>
+
+  <!-- RIGHT branch: storm -->
+  <rect x="470" y="202" width="360" height="58" rx="12" fill="#fff" stroke="#e0d8cc"/>
+  <text x="650" y="227" text-anchor="middle" class="h" font-size="15">Storm or high water</text>
+  <text x="650" y="247" text-anchor="middle" class="b" font-size="12.5">strong wind, lightning, fast flow</text>
+  <path d="M650 260 L650 286" fill="none" stroke="#433d38" stroke-width="2" marker-end="url(#arrow)"/>
+  <rect x="470" y="288" width="360" height="96" rx="12" fill="#e8a33d"/>
+  <text x="650" y="320" text-anchor="middle" class="wh" font-size="17">May pause</text>
+  <text x="650" y="345" text-anchor="middle" class="b" font-size="13" font-weight="700">Trips can be held for safety, so check</text>
+  <text x="650" y="365" text-anchor="middle" class="b" font-size="13" font-weight="700">the operator's cancellation policy.</text>
+
+  <!-- footer strip -->
+  <rect x="70" y="402" width="760" height="24" rx="10" fill="#214f3e"/>
+  <text x="450" y="419" text-anchor="middle" class="w" font-size="13">Punting runs year-round except Christmas Day. A rainy Cam is quiet and atmospheric.</text>
+</svg>

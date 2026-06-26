@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 470" role="img" aria-label="A verdict graphic answering whether punting in Cambridge is worth it. The verdict: worth it for most visitors, rated 4.7 to 4.9 stars across thousands of reviews. It is worth it if you want the classic view of the colleges from the water, want to relax and be told the stories, love history and architecture, or it is your first time in Cambridge. You might skip it if you want total quiet on a peak summer weekend, you are on a very tight budget and short on time, or you would rather be active than sit.">
+  <defs>
+    <style>
+      .t{font-family:Futura,'Trebuchet MS','Segoe UI',sans-serif;font-weight:800}
+      .h{font-family:Futura,'Trebuchet MS','Segoe UI',sans-serif;font-weight:700}
+      .sub{font-family:ui-sans-serif,system-ui,Arial,sans-serif}
+      .item{font-family:ui-sans-serif,system-ui,Arial,sans-serif}
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="900" height="470" rx="16" fill="#f7f4ef"/>
+
+  <!-- title -->
+  <text x="40" y="46" class="t" font-size="25" fill="#14110f">Is punting in Cambridge worth it?</text>
+
+  <!-- verdict banner -->
+  <rect x="40" y="66" width="820" height="64" rx="12" fill="#214f3e"/>
+  <circle cx="80" cy="98" r="19" fill="#e8a33d"/>
+  <path d="M71 98 l6 6 l12 -13" fill="none" stroke="#14110f" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="114" y="93" class="t" font-size="20" fill="#ffffff">Worth it for most visitors</text>
+  <text x="114" y="116" class="sub" font-size="13" fill="#bfe0e6">Rated 4.7 to 4.9 stars across thousands of reviews</text>
+
+  <!-- LEFT column: Worth it if you... -->
+  <text x="60" y="170" class="h" font-size="17" fill="#2f6f57">Worth it if you...</text>
+  <line x1="60" y1="180" x2="180" y2="180" stroke="#2f6f57" stroke-width="2.5" stroke-linecap="round"/>
+
+  <g>
+    <circle cx="66" cy="208" r="6" fill="#2f6f57"/>
+    <text x="84" y="213" class="item" font-size="14.5" fill="#14110f">want the classic view of the colleges from the water</text>
+
+    <circle cx="66" cy="248" r="6" fill="#2f6f57"/>
+    <text x="84" y="253" class="item" font-size="14.5" fill="#14110f">want to relax and be told the stories</text>
+
+    <circle cx="66" cy="288" r="6" fill="#2f6f57"/>
+    <text x="84" y="293" class="item" font-size="14.5" fill="#14110f">love history and architecture</text>
+
+    <circle cx="66" cy="328" r="6" fill="#2f6f57"/>
+    <text x="84" y="333" class="item" font-size="14.5" fill="#14110f">it's your first time in Cambridge</text>
+  </g>
+
+  <!-- divider -->
+  <line x1="450" y1="158" x2="450" y2="360" stroke="#e0d8cc" stroke-width="2"/>
+
+  <!-- RIGHT column: Maybe skip if... -->
+  <text x="478" y="170" class="h" font-size="17" fill="#e8a33d">Maybe skip if...</text>
+  <line x1="478" y1="180" x2="600" y2="180" stroke="#e8a33d" stroke-width="2.5" stroke-linecap="round"/>
+
+  <g>
+    <line x1="480" y1="204" x2="492" y2="212" stroke="#433d38" stroke-width="2.6" stroke-linecap="round"/>
+    <line x1="492" y1="212" x2="480" y2="220" stroke="#433d38" stroke-width="2.6" stroke-linecap="round"/>
+    <text x="504" y="213" class="item" font-size="14.5" fill="#433d38">you want total quiet on a peak summer weekend</text>
+
+    <line x1="480" y1="244" x2="492" y2="252" stroke="#433d38" stroke-width="2.6" stroke-linecap="round"/>
+    <line x1="492" y1="252" x2="480" y2="260" stroke="#433d38" stroke-width="2.6" stroke-linecap="round"/>
+    <text x="504" y="253" class="item" font-size="14.5" fill="#433d38">you are on a very tight budget and short on time</text>
+
+    <line x1="480" y1="284" x2="492" y2="292" stroke="#433d38" stroke-width="2.6" stroke-linecap="round"/>
+    <line x1="492" y1="292" x2="480" y2="300" stroke="#433d38" stroke-width="2.6" stroke-linecap="round"/>
+    <text x="504" y="293" class="item" font-size="14.5" fill="#433d38">you would rather be active than sit</text>
+  </g>
+
+  <!-- footer note -->
+  <rect x="40" y="404" width="820" height="44" rx="12" fill="#2f6f57"/>
+  <text x="450" y="431" text-anchor="middle" class="h" font-size="14.5" fill="#ffffff">For a first visit, the view from the river is the one most people remember.</text>
+</svg>

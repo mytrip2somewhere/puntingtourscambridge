@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 430" role="img" aria-label="Punting on the Cam, a short history shown as a timeline. Around 1900, pleasure punting reaches the Cam. Around 1903, the first Cambridge pleasure punts are built. In 1910, Scudamore's is founded at the Mill Pond. Today, punting is a Cambridge icon on the Backs. From working boat to the classic Cambridge day out.">
+  <defs>
+    <style>
+      .t{font-family:Futura,'Trebuchet MS','Segoe UI',sans-serif;font-weight:800;fill:#14110f}
+      .sub{font-family:ui-sans-serif,system-ui,Arial,sans-serif;fill:#433d38}
+      .yr{font-family:Futura,'Trebuchet MS','Segoe UI',sans-serif;font-weight:800;fill:#214f3e}
+      .yrg{font-family:Futura,'Trebuchet MS','Segoe UI',sans-serif;font-weight:800;fill:#214f3e}
+      .lbl{font-family:ui-sans-serif,system-ui,Arial,sans-serif;fill:#433d38}
+      .bnh{font-family:Futura,'Trebuchet MS','Segoe UI',sans-serif;font-weight:800}
+      .bnb{font-family:ui-sans-serif,system-ui,Arial,sans-serif}
+    </style>
+  </defs>
+  <rect x="0" y="0" width="900" height="430" rx="16" fill="#f7f4ef"/>
+  <text x="40" y="44" class="t" font-size="24">Punting on the Cam: a short history</text>
+  <text x="40" y="66" class="sub" font-size="13.5">From a working river boat to the day out everyone pictures (dates approximate)</text>
+
+  <!-- timeline base -->
+  <line x1="120" y1="196" x2="800" y2="196" stroke="#e0d8cc" stroke-width="4"/>
+  <path d="M800 196 l-12 -6 l0 12 z" fill="#e0d8cc"/>
+
+  <!-- c.1900 -->
+  <circle cx="150" cy="196" r="13" fill="#e8a33d"/>
+  <text x="150" y="150" text-anchor="middle" class="yr" font-size="18">c.1900</text>
+  <text x="150" y="232" text-anchor="middle" class="lbl" font-size="13">Pleasure punting</text>
+  <text x="150" y="250" text-anchor="middle" class="lbl" font-size="13">reaches the</text>
+  <text x="150" y="268" text-anchor="middle" class="lbl" font-size="13">River Cam</text>
+
+  <!-- c.1903 -->
+  <circle cx="370" cy="196" r="13" fill="#e8a33d"/>
+  <text x="370" y="150" text-anchor="middle" class="yr" font-size="18">c.1903</text>
+  <text x="370" y="232" text-anchor="middle" class="lbl" font-size="13">First Cambridge</text>
+  <text x="370" y="250" text-anchor="middle" class="lbl" font-size="13">pleasure punts</text>
+  <text x="370" y="268" text-anchor="middle" class="lbl" font-size="13">built</text>
+
+  <!-- 1910 -->
+  <circle cx="575" cy="196" r="13" fill="#2f6f57"/>
+  <text x="575" y="150" text-anchor="middle" class="yr" font-size="18">1910</text>
+  <text x="575" y="232" text-anchor="middle" class="lbl" font-size="13">Scudamore's</text>
+  <text x="575" y="250" text-anchor="middle" class="lbl" font-size="13">founded at the</text>
+  <text x="575" y="268" text-anchor="middle" class="lbl" font-size="13">Mill Pond</text>
+
+  <!-- Today -->
+  <circle cx="770" cy="196" r="15" fill="#214f3e"/>
+  <text x="770" y="150" text-anchor="middle" class="yrg" font-size="18">Today</text>
+  <text x="770" y="232" text-anchor="middle" class="lbl" font-size="13">A Cambridge</text>
+  <text x="770" y="250" text-anchor="middle" class="lbl" font-size="13">icon on the</text>
+  <text x="770" y="268" text-anchor="middle" class="lbl" font-size="13">Backs</text>
+
+  <!-- banner -->
+  <rect x="40" y="330" width="820" height="64" rx="12" fill="#214f3e"/>
+  <text x="450" y="360" text-anchor="middle" class="bnh" font-size="16" fill="#ffffff">From working boat to the classic Cambridge day out.</text>
+  <text x="450" y="382" text-anchor="middle" class="bnb" font-size="12.5" fill="#ece4d8">Over a century later, a chauffeured punt past the colleges is still the quintessential Cambridge experience.</text>
+</svg>

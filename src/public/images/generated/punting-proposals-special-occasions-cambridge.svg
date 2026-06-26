@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 430" role="img" aria-label="How to plan a proposal punt in Cambridge, in five steps. One, book a private punt so the boat is yours alone. Two, pick a quiet time, golden hour, early morning or late afternoon. Three, ask the operator about add-ons such as champagne and decorations. Four, choose the spot, under a famous bridge or by King's College. Five, the moment, with the colleges behind you. A private punt gives you the boat, the timing and the privacy.">
+  <defs>
+    <linearGradient id="ppline" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2f6f57"/>
+      <stop offset="0.55" stop-color="#e8a33d"/>
+      <stop offset="1" stop-color="#214f3e"/>
+    </linearGradient>
+    <style>
+      .t{font-family:Futura,'Trebuchet MS','Segoe UI',sans-serif;font-weight:800;fill:#14110f}
+      .num{font-family:Futura,'Trebuchet MS','Segoe UI',sans-serif;font-weight:800;fill:#ffffff}
+      .h{font-family:Futura,'Trebuchet MS','Segoe UI',sans-serif;font-weight:700;fill:#14110f}
+      .sm{font-family:ui-sans-serif,system-ui,Arial,sans-serif;fill:#433d38}
+      .w{font-family:Futura,'Trebuchet MS','Segoe UI',sans-serif;font-weight:800;fill:#ffffff}
+    </style>
+  </defs>
+  <rect x="0" y="0" width="900" height="430" rx="16" fill="#f7f4ef"/>
+  <text x="40" y="44" class="t" font-size="24">Plan a proposal punt in Cambridge</text>
+  <text x="40" y="66" class="sm" font-size="13.5">Five steps to a private moment on the river</text>
+
+  <!-- step path -->
+  <path d="M100 188 H800" fill="none" stroke="url(#ppline)" stroke-width="6" stroke-linecap="round"/>
+
+  <!-- small gold hearts riding the path -->
+  <path d="M174 168 c-4 -6 -13 -3 -13 4 c0 5 8 10 13 14 c5 -4 13 -9 13 -14 c0 -7 -9 -10 -13 -4 z" fill="#e8a33d" opacity="0.85"/>
+  <path d="M448 168 c-4 -6 -13 -3 -13 4 c0 5 8 10 13 14 c5 -4 13 -9 13 -14 c0 -7 -9 -10 -13 -4 z" fill="#e8a33d" opacity="0.85"/>
+  <path d="M722 168 c-4 -6 -13 -3 -13 4 c0 5 8 10 13 14 c5 -4 13 -9 13 -14 c0 -7 -9 -10 -13 -4 z" fill="#e8a33d" opacity="0.85"/>
+
+  <g>
+    <!-- step 1 -->
+    <circle cx="100" cy="188" r="22" fill="#2f6f57"/>
+    <text x="100" y="195" text-anchor="middle" class="num" font-size="19">1</text>
+    <text x="100" y="240" text-anchor="middle" class="h" font-size="13.5">Book private</text>
+    <text x="100" y="259" text-anchor="middle" class="sm" font-size="12">The whole punt</text>
+    <text x="100" y="275" text-anchor="middle" class="sm" font-size="12">is yours alone</text>
+
+    <!-- step 2 -->
+    <circle cx="275" cy="188" r="22" fill="#2f6f57"/>
+    <text x="275" y="195" text-anchor="middle" class="num" font-size="19">2</text>
+    <text x="275" y="240" text-anchor="middle" class="h" font-size="13.5">Pick a quiet time</text>
+    <text x="275" y="259" text-anchor="middle" class="sm" font-size="12">Golden hour,</text>
+    <text x="275" y="275" text-anchor="middle" class="sm" font-size="12">early or late</text>
+
+    <!-- step 3 -->
+    <circle cx="450" cy="188" r="22" fill="#e8a33d"/>
+    <text x="450" y="195" text-anchor="middle" class="num" font-size="19">3</text>
+    <text x="450" y="240" text-anchor="middle" class="h" font-size="13.5">Ask about add-ons</text>
+    <text x="450" y="259" text-anchor="middle" class="sm" font-size="12">Champagne and</text>
+    <text x="450" y="275" text-anchor="middle" class="sm" font-size="12">decorations</text>
+
+    <!-- step 4 -->
+    <circle cx="625" cy="188" r="22" fill="#e8a33d"/>
+    <text x="625" y="195" text-anchor="middle" class="num" font-size="19">4</text>
+    <text x="625" y="240" text-anchor="middle" class="h" font-size="13.5">Choose the spot</text>
+    <text x="625" y="259" text-anchor="middle" class="sm" font-size="12">A famous bridge,</text>
+    <text x="625" y="275" text-anchor="middle" class="sm" font-size="12">or by King's</text>
+
+    <!-- step 5 -->
+    <circle cx="800" cy="188" r="24" fill="#214f3e"/>
+    <text x="800" y="196" text-anchor="middle" class="num" font-size="20">5</text>
+    <text x="800" y="240" text-anchor="middle" class="h" font-size="13.5">The moment</text>
+    <text x="800" y="259" text-anchor="middle" class="sm" font-size="12">Colleges</text>
+    <text x="800" y="275" text-anchor="middle" class="sm" font-size="12">behind you</text>
+  </g>
+
+  <rect x="40" y="344" width="820" height="50" rx="12" fill="#2f6f57"/>
+  <text x="450" y="375" text-anchor="middle" class="w" font-size="14">A private punt gives you the boat, the timing and the privacy.</text>
+</svg>

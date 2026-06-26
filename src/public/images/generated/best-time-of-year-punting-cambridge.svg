@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 470" role="img" aria-label="When to punt in Cambridge across the four seasons. Spring is fresh, quiet and full of blossom; Summer is warm and the busiest; Autumn is golden and calmer; Winter is bare, quietest and brings some closures. Spring and early Autumn are the sweet spot. Within a day, the river is calm with soft light in the morning, busiest at midday, golden with the best light in late afternoon, and quiet at dusk. Punting runs year-round except Christmas Day.">
+  <defs>
+    <style>
+      .t{font-family:Futura,'Trebuchet MS','Segoe UI',sans-serif;font-weight:800}
+      .lbl{font-family:Futura,'Trebuchet MS','Segoe UI',sans-serif;font-weight:700}
+      .sub{font-family:ui-sans-serif,system-ui,Arial,sans-serif}
+      .sm{font-family:ui-sans-serif,system-ui,Arial,sans-serif}
+    </style>
+    <linearGradient id="dayArc" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#bfe0e6"/>
+      <stop offset="0.46" stop-color="#e8a33d"/>
+      <stop offset="0.72" stop-color="#e8a33d"/>
+      <stop offset="1" stop-color="#214f3e"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="900" height="470" rx="16" fill="#f7f4ef"/>
+  <text x="40" y="44" class="t" font-size="24" fill="#14110f">When to punt in Cambridge</text>
+  <text x="40" y="66" class="sub" font-size="13.5" fill="#433d38">The season for the weather and quiet you want, and the hour for the best light</text>
+
+  <!-- four-season strip -->
+  <!-- Spring (sweet spot) -->
+  <rect x="40" y="86" width="195" height="172" rx="12" fill="#ffffff" stroke="#2f6f57" stroke-width="2"/>
+  <rect x="40" y="86" width="195" height="34" rx="12" fill="#2f6f57"/>
+  <rect x="40" y="104" width="195" height="16" fill="#2f6f57"/>
+  <text x="137.5" y="109" text-anchor="middle" class="lbl" font-size="15" fill="#ffffff">SPRING</text>
+  <text x="137.5" y="156" text-anchor="middle" class="sm" font-size="13" fill="#14110f">fresh</text>
+  <text x="137.5" y="178" text-anchor="middle" class="sm" font-size="13" fill="#14110f">quiet</text>
+  <text x="137.5" y="200" text-anchor="middle" class="sm" font-size="13" fill="#14110f">blossom</text>
+  <!-- sweet-spot badge -->
+  <rect x="74" y="220" width="127" height="24" rx="12" fill="#e8a33d"/>
+  <text x="137.5" y="237" text-anchor="middle" class="lbl" font-size="12" fill="#14110f">&#9733; sweet spot</text>
+
+  <!-- Summer -->
+  <rect x="247" y="86" width="195" height="172" rx="12" fill="#ffffff" stroke="#e0d8cc" stroke-width="2"/>
+  <rect x="247" y="86" width="195" height="34" rx="12" fill="#e8a33d"/>
+  <rect x="247" y="104" width="195" height="16" fill="#e8a33d"/>
+  <text x="344.5" y="109" text-anchor="middle" class="lbl" font-size="15" fill="#14110f">SUMMER</text>
+  <text x="344.5" y="162" text-anchor="middle" class="sm" font-size="13" fill="#14110f">warm</text>
+  <text x="344.5" y="190" text-anchor="middle" class="lbl" font-size="13" fill="#214f3e">busiest</text>
+
+  <!-- Autumn (sweet spot, early) -->
+  <rect x="454" y="86" width="195" height="172" rx="12" fill="#ffffff" stroke="#2f6f57" stroke-width="2"/>
+  <rect x="454" y="86" width="195" height="34" rx="12" fill="#214f3e"/>
+  <rect x="454" y="104" width="195" height="16" fill="#214f3e"/>
+  <text x="551.5" y="109" text-anchor="middle" class="lbl" font-size="15" fill="#ffffff">AUTUMN</text>
+  <text x="551.5" y="156" text-anchor="middle" class="sm" font-size="13" fill="#14110f">golden</text>
+  <text x="551.5" y="178" text-anchor="middle" class="sm" font-size="13" fill="#14110f">calmer</text>
+  <!-- sweet-spot badge (early autumn) -->
+  <rect x="481" y="220" width="143" height="24" rx="12" fill="#e8a33d"/>
+  <text x="552.5" y="237" text-anchor="middle" class="lbl" font-size="12" fill="#14110f">&#9733; early = sweet spot</text>
+
+  <!-- Winter -->
+  <rect x="661" y="86" width="199" height="172" rx="12" fill="#ffffff" stroke="#e0d8cc" stroke-width="2"/>
+  <rect x="661" y="86" width="199" height="34" rx="12" fill="#1565ff"/>
+  <rect x="661" y="104" width="199" height="16" fill="#1565ff"/>
+  <text x="760.5" y="109" text-anchor="middle" class="lbl" font-size="15" fill="#ffffff">WINTER</text>
+  <text x="760.5" y="150" text-anchor="middle" class="sm" font-size="13" fill="#14110f">bare</text>
+  <text x="760.5" y="172" text-anchor="middle" class="sm" font-size="13" fill="#14110f">quietest</text>
+  <text x="760.5" y="194" text-anchor="middle" class="sm" font-size="13" fill="#433d38">some closures</text>
+
+  <!-- day-arc section -->
+  <text x="40" y="298" class="lbl" font-size="15" fill="#14110f">Across a single day</text>
+
+  <!-- slim day-arc bar morning -> evening -->
+  <rect x="40" y="312" width="820" height="20" rx="10" fill="url(#dayArc)"/>
+  <!-- tick markers -->
+  <circle cx="120" cy="322" r="5" fill="#ffffff" stroke="#433d38" stroke-width="1.5"/>
+  <circle cx="385" cy="322" r="5" fill="#ffffff" stroke="#433d38" stroke-width="1.5"/>
+  <circle cx="640" cy="322" r="6" fill="#ffffff" stroke="#214f3e" stroke-width="2"/>
+  <circle cx="820" cy="322" r="5" fill="#ffffff" stroke="#433d38" stroke-width="1.5"/>
+
+  <!-- day-arc labels -->
+  <text x="120" y="360" text-anchor="middle" class="lbl" font-size="13" fill="#14110f">morning</text>
+  <text x="120" y="378" text-anchor="middle" class="sm" font-size="12" fill="#433d38">calm, soft light</text>
+
+  <text x="385" y="360" text-anchor="middle" class="lbl" font-size="13" fill="#14110f">midday</text>
+  <text x="385" y="378" text-anchor="middle" class="sm" font-size="12" fill="#433d38">busiest</text>
+
+  <text x="640" y="360" text-anchor="middle" class="lbl" font-size="13" fill="#214f3e">late afternoon</text>
+  <text x="640" y="378" text-anchor="middle" class="sm" font-size="12" fill="#214f3e">golden, best light</text>
+
+  <text x="820" y="360" text-anchor="middle" class="lbl" font-size="13" fill="#14110f">dusk</text>
+  <text x="820" y="378" text-anchor="middle" class="sm" font-size="12" fill="#433d38">quiet, fading</text>
+
+  <!-- footer note -->
+  <rect x="40" y="404" width="820" height="44" rx="12" fill="#2f6f57"/>
+  <text x="450" y="431" text-anchor="middle" class="lbl" font-size="14" fill="#ffffff">Punts run year-round, every day except Christmas Day.</text>
+</svg>

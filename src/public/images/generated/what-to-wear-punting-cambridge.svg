@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 470" role="img" aria-label="What to wear punting in Cambridge, by season. Spring: light layers and a jacket. Summer: a hat, sunglasses and sun cream. Autumn: warm layers and a scarf. Winter: a coat, gloves and a blanket. Whatever the season, wear closed shoes and nothing you would hate to drop in the river.">
+  <defs>
+    <style>
+      .ttl{font-family:Futura,'Trebuchet MS','Segoe UI',sans-serif;font-weight:800;fill:#14110f}
+      .sub{font-family:ui-sans-serif,system-ui,Arial,sans-serif;fill:#433d38}
+      .season{font-family:Futura,'Trebuchet MS','Segoe UI',sans-serif;font-weight:800;fill:#14110f}
+      .item{font-family:ui-sans-serif,system-ui,Arial,sans-serif;fill:#433d38}
+      .wh{font-family:Futura,'Trebuchet MS','Segoe UI',sans-serif;font-weight:800;fill:#fff}
+    </style>
+  </defs>
+  <rect x="0" y="0" width="900" height="470" rx="16" fill="#f7f4ef"/>
+  <text x="40" y="46" class="ttl" font-size="25">What to wear punting, by season</text>
+  <text x="40" y="68" class="sub" font-size="13.5">A short kit list for each time of year on the river</text>
+
+  <!-- SPRING -->
+  <rect x="30" y="92" width="200" height="246" rx="14" fill="#fff" stroke="#e0d8cc"/>
+  <rect x="30" y="92" width="200" height="6" rx="3" fill="#2f6f57"/>
+  <text x="50" y="132" class="season" font-size="17">Spring</text>
+  <circle cx="56" cy="170" r="4" fill="#2f6f57"/>
+  <text x="72" y="175" class="item" font-size="14">Light layers</text>
+  <circle cx="56" cy="202" r="4" fill="#2f6f57"/>
+  <text x="72" y="207" class="item" font-size="14">A jacket</text>
+
+  <!-- SUMMER -->
+  <rect x="245" y="92" width="200" height="246" rx="14" fill="#fff" stroke="#e0d8cc"/>
+  <rect x="245" y="92" width="200" height="6" rx="3" fill="#e8a33d"/>
+  <text x="265" y="132" class="season" font-size="17">Summer</text>
+  <circle cx="271" cy="170" r="4" fill="#e8a33d"/>
+  <text x="287" y="175" class="item" font-size="14">A hat</text>
+  <circle cx="271" cy="202" r="4" fill="#e8a33d"/>
+  <text x="287" y="207" class="item" font-size="14">Sunglasses</text>
+  <circle cx="271" cy="234" r="4" fill="#e8a33d"/>
+  <text x="287" y="239" class="item" font-size="14">Sun cream</text>
+
+  <!-- AUTUMN -->
+  <rect x="460" y="92" width="200" height="246" rx="14" fill="#fff" stroke="#e0d8cc"/>
+  <rect x="460" y="92" width="200" height="6" rx="3" fill="#214f3e"/>
+  <text x="480" y="132" class="season" font-size="17">Autumn</text>
+  <circle cx="486" cy="170" r="4" fill="#214f3e"/>
+  <text x="502" y="175" class="item" font-size="14">Warm layers</text>
+  <circle cx="486" cy="202" r="4" fill="#214f3e"/>
+  <text x="502" y="207" class="item" font-size="14">A scarf</text>
+
+  <!-- WINTER -->
+  <rect x="675" y="92" width="200" height="246" rx="14" fill="#fff" stroke="#e0d8cc"/>
+  <rect x="675" y="92" width="200" height="6" rx="3" fill="#1565ff"/>
+  <text x="695" y="132" class="season" font-size="17">Winter</text>
+  <circle cx="701" cy="170" r="4" fill="#1565ff"/>
+  <text x="717" y="175" class="item" font-size="14">A coat</text>
+  <circle cx="701" cy="202" r="4" fill="#1565ff"/>
+  <text x="717" y="207" class="item" font-size="14">Gloves</text>
+  <circle cx="701" cy="234" r="4" fill="#1565ff"/>
+  <text x="717" y="239" class="item" font-size="14">A blanket</text>
+
+  <!-- footer rule -->
+  <rect x="30" y="384" width="840" height="58" rx="12" fill="#2f6f57"/>
+  <text x="450" y="419" text-anchor="middle" class="wh" font-size="15">Closed shoes, and nothing you would hate to drop in the river.</text>
+</svg>

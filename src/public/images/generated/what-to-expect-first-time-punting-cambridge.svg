@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 430" role="img" aria-label="Your first punt, step by step. First, arrive at a station. Then step aboard and sit. Then glide the College Backs for about 45 to 50 minutes. The guide tells the stories as you go. You take photos along the way. Finally you step off where you started, about an hour after you arrived. No paddling, no balance, no effort: the chauffeur does it all.">
+  <defs>
+    <linearGradient id="punttime" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2f6f57"/>
+      <stop offset="0.6" stop-color="#214f3e"/>
+      <stop offset="1" stop-color="#e8a33d"/>
+    </linearGradient>
+    <style>
+      .t{font-family:Futura,'Trebuchet MS','Segoe UI',sans-serif;font-weight:800;fill:#14110f}
+      .num{font-family:Futura,'Trebuchet MS','Segoe UI',sans-serif;font-weight:800;fill:#ffffff}
+      .h{font-family:Futura,'Trebuchet MS','Segoe UI',sans-serif;font-weight:700;fill:#14110f}
+      .sm{font-family:ui-sans-serif,system-ui,Arial,sans-serif;fill:#433d38}
+      .w{font-family:Futura,'Trebuchet MS','Segoe UI',sans-serif;font-weight:800;fill:#ffffff}
+    </style>
+  </defs>
+  <rect x="0" y="0" width="900" height="430" rx="16" fill="#f7f4ef"/>
+  <text x="40" y="44" class="t" font-size="24">Your first punt, step by step</text>
+  <text x="40" y="66" class="sm" font-size="13.5">What actually happens, from the bank to the river and back</text>
+
+  <!-- timeline line connecting the circles -->
+  <line x1="100" y1="170" x2="800" y2="170" stroke="#e0d8cc" stroke-width="3"/>
+
+  <g>
+    <!-- step 1 -->
+    <circle cx="100" cy="170" r="20" fill="#2f6f57"/>
+    <text x="100" y="176" text-anchor="middle" class="num" font-size="18">1</text>
+    <text x="100" y="220" text-anchor="middle" class="h" font-size="13.5">Arrive</text>
+    <text x="100" y="240" text-anchor="middle" class="sm" font-size="12">At a punt</text>
+    <text x="100" y="256" text-anchor="middle" class="sm" font-size="12">station</text>
+
+    <!-- step 2 -->
+    <circle cx="240" cy="170" r="20" fill="#2f6f57"/>
+    <text x="240" y="176" text-anchor="middle" class="num" font-size="18">2</text>
+    <text x="240" y="220" text-anchor="middle" class="h" font-size="13.5">Step aboard</text>
+    <text x="240" y="240" text-anchor="middle" class="sm" font-size="12">Sit down</text>
+    <text x="240" y="256" text-anchor="middle" class="sm" font-size="12">and settle in</text>
+
+    <!-- step 3 -->
+    <circle cx="380" cy="170" r="20" fill="#214f3e"/>
+    <text x="380" y="176" text-anchor="middle" class="num" font-size="18">3</text>
+    <text x="380" y="220" text-anchor="middle" class="h" font-size="13.5">Glide the Backs</text>
+    <text x="380" y="240" text-anchor="middle" class="sm" font-size="12">About 45 to</text>
+    <text x="380" y="256" text-anchor="middle" class="sm" font-size="12">50 minutes</text>
+
+    <!-- step 4 -->
+    <circle cx="520" cy="170" r="20" fill="#214f3e"/>
+    <text x="520" y="176" text-anchor="middle" class="num" font-size="18">4</text>
+    <text x="520" y="220" text-anchor="middle" class="h" font-size="13.5">The stories</text>
+    <text x="520" y="240" text-anchor="middle" class="sm" font-size="12">The guide</text>
+    <text x="520" y="256" text-anchor="middle" class="sm" font-size="12">talks you through</text>
+
+    <!-- step 5 -->
+    <circle cx="660" cy="170" r="20" fill="#e8a33d"/>
+    <text x="660" y="176" text-anchor="middle" class="num" font-size="18">5</text>
+    <text x="660" y="220" text-anchor="middle" class="h" font-size="13.5">Photos</text>
+    <text x="660" y="240" text-anchor="middle" class="sm" font-size="12">Snap away</text>
+    <text x="660" y="256" text-anchor="middle" class="sm" font-size="12">as you go</text>
+
+    <!-- step 6 -->
+    <circle cx="800" cy="170" r="20" fill="#e8a33d"/>
+    <text x="800" y="176" text-anchor="middle" class="num" font-size="18">6</text>
+    <text x="800" y="220" text-anchor="middle" class="h" font-size="13.5">Step off</text>
+    <text x="800" y="240" text-anchor="middle" class="sm" font-size="12">Where you</text>
+    <text x="800" y="256" text-anchor="middle" class="sm" font-size="12">started</text>
+  </g>
+
+  <!-- progress bar (time) -->
+  <rect x="60" y="298" width="780" height="10" rx="5" fill="url(#punttime)"/>
+  <text x="60" y="330" class="sm" font-size="12">Arrive</text>
+  <text x="840" y="330" text-anchor="end" class="sm" font-size="12">About an hour later</text>
+
+  <!-- footer note -->
+  <rect x="40" y="356" width="820" height="46" rx="12" fill="#1565ff"/>
+  <text x="450" y="384" text-anchor="middle" class="w" font-size="14">No paddling, no balance, no effort: the chauffeur does it all.</text>
+</svg>

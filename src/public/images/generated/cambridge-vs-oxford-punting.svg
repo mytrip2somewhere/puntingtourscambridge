@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 470" role="img" aria-label="Cambridge versus Oxford punting compared. Cambridge: you punt on the River Cam, along the College Backs, past famous colleges and bridges, and you stand on the till, the flat inside end of the punt. Oxford: you punt on the River Cherwell, through leafy rural meadows, past the Botanic Garden and Magdalen, and you stand on the sloped end. In short, Cambridge for the famous college views, Oxford for the quieter, greener river.">
+  <defs>
+    <style>
+      .t{font-family:Futura,'Trebuchet MS','Segoe UI',sans-serif;font-weight:800;fill:#14110f}
+      .sub{font-family:ui-sans-serif,system-ui,Arial,sans-serif;fill:#433d38}
+      .head{font-family:Futura,'Trebuchet MS','Segoe UI',sans-serif;font-weight:800;fill:#ffffff}
+      .rowlbl{font-family:Futura,'Trebuchet MS','Segoe UI',sans-serif;font-weight:700}
+      .rowval{font-family:ui-sans-serif,system-ui,Arial,sans-serif}
+      .vs{font-family:Futura,'Trebuchet MS','Segoe UI',sans-serif;font-weight:800;fill:#14110f}
+      .note{font-family:Futura,'Trebuchet MS','Segoe UI',sans-serif;font-weight:700;fill:#ffffff}
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="900" height="470" rx="16" fill="#f7f4ef"/>
+  <text x="40" y="44" class="t" font-size="24">Cambridge vs Oxford punting</text>
+  <text x="40" y="66" class="sub" font-size="13.5">Two great punting cities, two quite different days on the water</text>
+
+  <!-- CAMBRIDGE column (green) -->
+  <rect x="40" y="92" width="375" height="306" rx="14" fill="#ffffff" stroke="#e0d8cc" stroke-width="1.5"/>
+  <rect x="40" y="92" width="375" height="52" rx="14" fill="#2f6f57"/>
+  <rect x="40" y="120" width="375" height="24" fill="#2f6f57"/>
+  <text x="227" y="125" text-anchor="middle" class="head" font-size="20">CAMBRIDGE</text>
+
+  <!-- Cambridge rows -->
+  <g transform="translate(64,168)">
+    <circle cx="8" cy="-4" r="6" fill="#2f6f57"/>
+    <text x="26" y="0" class="rowlbl" font-size="14" fill="#214f3e">River Cam</text>
+    <text x="26" y="19" class="rowval" font-size="12.5" fill="#433d38">The famous waterway through the city centre</text>
+  </g>
+  <g transform="translate(64,228)">
+    <circle cx="8" cy="-4" r="6" fill="#2f6f57"/>
+    <text x="26" y="0" class="rowlbl" font-size="14" fill="#214f3e">The College Backs</text>
+    <text x="26" y="19" class="rowval" font-size="12.5" fill="#433d38">Packed with famous colleges and old stone bridges</text>
+  </g>
+  <g transform="translate(64,288)">
+    <circle cx="8" cy="-4" r="6" fill="#2f6f57"/>
+    <text x="26" y="0" class="rowlbl" font-size="14" fill="#214f3e">King's, Trinity, St John's</text>
+    <text x="26" y="19" class="rowval" font-size="12.5" fill="#433d38">Chapels and the Bridge of Sighs, all from the water</text>
+  </g>
+  <g transform="translate(64,348)">
+    <circle cx="8" cy="-4" r="6" fill="#e8a33d"/>
+    <text x="26" y="0" class="rowlbl" font-size="14" fill="#214f3e">You punt from the till</text>
+    <text x="26" y="19" class="rowval" font-size="12.5" fill="#433d38">Standing on the flat inside end of the punt</text>
+  </g>
+
+  <!-- OXFORD column (blue) -->
+  <rect x="485" y="92" width="375" height="306" rx="14" fill="#ffffff" stroke="#e0d8cc" stroke-width="1.5"/>
+  <rect x="485" y="92" width="375" height="52" rx="14" fill="#1565ff"/>
+  <rect x="485" y="120" width="375" height="24" fill="#1565ff"/>
+  <text x="672" y="125" text-anchor="middle" class="head" font-size="20">OXFORD</text>
+
+  <!-- Oxford rows -->
+  <g transform="translate(509,168)">
+    <circle cx="8" cy="-4" r="6" fill="#1565ff"/>
+    <text x="26" y="0" class="rowlbl" font-size="14" fill="#1565ff">River Cherwell</text>
+    <text x="26" y="19" class="rowval" font-size="12.5" fill="#433d38">A smaller, winding river off the main Thames</text>
+  </g>
+  <g transform="translate(509,228)">
+    <circle cx="8" cy="-4" r="6" fill="#1565ff"/>
+    <text x="26" y="0" class="rowlbl" font-size="14" fill="#1565ff">Leafy, rural meadows</text>
+    <text x="26" y="19" class="rowval" font-size="12.5" fill="#433d38">Greener and quieter, more countryside than city</text>
+  </g>
+  <g transform="translate(509,288)">
+    <circle cx="8" cy="-4" r="6" fill="#1565ff"/>
+    <text x="26" y="0" class="rowlbl" font-size="14" fill="#1565ff">Botanic Garden &amp; Magdalen</text>
+    <text x="26" y="19" class="rowval" font-size="12.5" fill="#433d38">The landmarks you drift past, fewer bridges</text>
+  </g>
+  <g transform="translate(509,348)">
+    <circle cx="8" cy="-4" r="6" fill="#e8a33d"/>
+    <text x="26" y="0" class="rowlbl" font-size="14" fill="#1565ff">You punt from the sloped end</text>
+    <text x="26" y="19" class="rowval" font-size="12.5" fill="#433d38">The opposite end to Cambridge tradition</text>
+  </g>
+
+  <!-- vs badge between columns -->
+  <circle cx="450" cy="245" r="30" fill="#f7f4ef" stroke="#14110f" stroke-width="2.5"/>
+  <text x="450" y="253" text-anchor="middle" class="vs" font-size="20">vs</text>
+
+  <!-- bottom note -->
+  <rect x="40" y="418" width="820" height="34" rx="10" fill="#214f3e"/>
+  <text x="450" y="440" text-anchor="middle" class="note" font-size="13.5">Cambridge for the famous college views; Oxford for the quieter, greener river.</text>
+</svg>
