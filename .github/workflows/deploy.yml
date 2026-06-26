@@ -18,6 +18,13 @@ jobs:
       # PRE-LAUNCH: site ships noindex while images are placeholders and the domain/GA
       # are not wired. AT LAUNCH, flip this back to `SITE_INDEXABLE=true npm run build`.
       - run: npm run build
+      # Create the Pages project on first deploy (wrangler `pages deploy` does NOT
+      # auto-create it in CI). Idempotent: a no-op once the project exists.
+      - name: Ensure Pages project exists
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: npx --yes wrangler@3 pages project create punting-tours-cambridge --production-branch=main || true
       - uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
