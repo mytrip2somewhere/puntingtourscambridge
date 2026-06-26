@@ -100,6 +100,20 @@ runs the compile (8.2) and `wrangler pages deploy dist`. Sveltia commits (images
 trigger the same workflow, so content changes go live without a human build. The PAT used to
 push the workflow file itself needs the `workflow` scope. Custom domain + HTTPS.
 
+FIRST-DEPLOY GOTCHA (learned launching Cambridge): `wrangler pages deploy` does NOT
+auto-create the Pages project in CI. A first run against a non-existent project fails with
+`Project not found [code: 8000007]`. Fix baked into the template: an idempotent step BEFORE
+the deploy that runs `npx wrangler@3 pages project create <project> --production-branch=main
+|| true` (needs `CLOUDFLARE_API_TOKEN` + `CLOUDFLARE_ACCOUNT_ID` env). It no-ops once the
+project exists. Alternative one-off: create the project via the API
+(`POST /accounts/{id}/pages/projects` with `{"name","production_branch":"main"}`) or in the
+dashboard. The `--project-name` must match across the create step and the deploy command.
+
+PRE-LAUNCH INDEXING: ship `npm run build` (defaults to `noindex,nofollow`) while images are
+placeholders and the domain/GA/verification are not wired. At launch, flip the workflow to
+`SITE_INDEXABLE=true npm run build`. The `.pages.dev` preview URL stays noindex regardless,
+which is what you want before the custom domain is live.
+
 NOTE on AI-bot access: Cloudflare can inject a managed "AI Crawl Control" block ABOVE the
 repo `robots.txt` (Disallow GPTBot/ClaudeBot/Google-Extended + Content-Signal ai-train=no).
 If the goal is AI-search visibility, the repo robots.txt alone is NOT enough — turn that
