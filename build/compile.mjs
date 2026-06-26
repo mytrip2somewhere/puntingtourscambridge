@@ -37,9 +37,9 @@ const TOURS = {
 // IF a Google Static Maps key is present (env GOOGLE_MAPS_STATIC_KEY). Without a key the
 // build skips them and the flagged placeholder stays. Coordinates match the JSON-LD geo.
 const MAPS = {
-  "shibuya-kart-route-map.png": { center: "35.6595,139.7004", zoom: 15, label: "Shibuya Crossing" },
-  "akihabara-kart-route-map.png": { center: "35.6984,139.7731", zoom: 15, label: "Akihabara" },
-  "tokyo-electric-kart-route-map.png": { center: "35.6762,139.6503", zoom: 13, label: "Central Tokyo" },
+  "cambridge-backs-map.png": { center: "35.6595,139.7004", zoom: 15, label: "The Backs, Cambridge" },
+  "cambridge-millpond-map.png": { center: "35.6984,139.7731", zoom: 15, label: "Mill Pond, Cambridge" },
+  "cambridge-quayside-map.png": { center: "35.6762,139.6503", zoom: 13, label: "Quayside, Cambridge" },
 };
 
 async function renderStaticMaps() {
@@ -240,8 +240,8 @@ function blogPostInner(d, bodyHtml) {
       <h1>${esc(d.title)}</h1>
       ${d.description ? `<p class="lede">${esc(d.description)}</p>` : ""}
       <div class="author-hook">
-        <img src="{{ img:mia_thumb }}" alt="Mia Nakamura, licensed Tokyo tour guide" width="38" height="38">
-        <span>By <a href="/about/"><strong>${esc(d.author || "Mia Nakamura")}</strong></a>, licensed Tokyo guide since 2022</span>
+        <img src="{{ img:jordan_thumb }}" alt="Jordan Harrington, Cambridge punting guide" width="38" height="38">
+        <span>By <a href="/about/"><strong>${esc(d.author || "Jordan Harrington")}</strong></a>, Cambridge punting guide since 2021</span>
       </div>
     </header>
 ${hero}
@@ -255,15 +255,15 @@ ${cta}
 
 function blogPostSchema(d, canonical) {
   const graph = [
-    { "@type": "TravelAgency", "@id": `${SITE}/#agency`, name: "Street Kart", url: `${SITE}/`, areaServed: "Tokyo, Japan", sameAs: ["https://kart.st/"] },
-    { "@type": "Person", "@id": `${SITE}/about/#mia`, name: "Mia Nakamura", jobTitle: "Licensed Tokyo tour guide", worksFor: { "@id": `${SITE}/#agency` } },
+    { "@type": "TravelAgency", "@id": `${SITE}/#agency`, name: "Punting Tours Cambridge", url: `${SITE}/`, areaServed: "Cambridge, England" },
+    { "@type": "Person", "@id": `${SITE}/about/#jordan`, name: "Jordan Harrington", jobTitle: "Cambridge punting guide", worksFor: { "@id": `${SITE}/#agency` } },
     {
       "@type": "BlogPosting",
       headline: d.title,
       description: d.description || "",
       ...(d.hero ? { image: `${SITE}${d.hero}` } : {}),
       ...(d.date ? { datePublished: d.date, dateModified: d.date } : {}),
-      author: { "@id": `${SITE}/about/#mia` },
+      author: { "@id": `${SITE}/about/#jordan` },
       publisher: { "@id": `${SITE}/#agency` },
       mainEntityOfPage: canonical,
     },
@@ -289,7 +289,7 @@ function blogHubInner(posts) {
           <p class="small mb-0">${esc(p.description || "")}</p>
         </div>
       </article>`).join("\n")
-    : `      <p>Posts are on the way. In the meantime, see the <a href="/tours/">kart tours</a> and the <a href="/guides/tokyo-go-kart-license-idp/">license guide</a>.</p>`;
+    : `      <p>Posts are on the way. In the meantime, see the <a href="/tours/">punting tours</a> and the <a href="/guides/cambridge-punting-prices/">prices guide</a>.</p>`;
   return `
   <div class="wrap">
     <nav class="crumbs" aria-label="Breadcrumb">
@@ -298,9 +298,9 @@ function blogHubInner(posts) {
   </div>
 
   <section class="wrap" style="padding-top:var(--s6)">
-    <p class="eyebrow" style="font-family:var(--display); text-transform:uppercase; letter-spacing:.12em; color:var(--brand-deep); font-weight:700">Tokyo go-karting</p>
+    <p class="eyebrow" style="font-family:var(--display); text-transform:uppercase; letter-spacing:.12em; color:var(--brand-deep); font-weight:700">Cambridge punting</p>
     <h1>The blog</h1>
-    <p class="lede" style="max-width:62ch">Stories, tips and local detail on driving Tokyo by go-kart, from the people who guide it.</p>
+    <p class="lede" style="max-width:62ch">Stories, tips and local detail on punting the River Cam in Cambridge, from the people who guide it.</p>
   </section>
 
   <section class="section wrap">
@@ -399,8 +399,8 @@ async function main() {
   {
     const canonical = `${SITE}/blog/`;
     const html = await buildHtml(layout, images, {
-      title: "Tokyo Go-Kart Blog: Tips, Stories & Local Guides | Punting Tours Cambridge",
-      description: "Stories, tips and local detail on driving Tokyo by go-kart, from the guides who run the tours.",
+      title: "Cambridge Punting Blog: Tips, Stories & Local Guides | Punting Tours Cambridge",
+      description: "Stories, tips and local detail on punting the River Cam in Cambridge, from the guides who run the tours.",
       canonical,
       og_image: `${SITE}{{ img:home_hero }}`,
       schema: blogHubSchema(posts),
