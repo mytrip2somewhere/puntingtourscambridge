@@ -1,0 +1,7 @@
+[
+{"fact":"12 pm to 4 pm is the busiest time on the River Cam for punting.","source_name":"veggievagabonds.com","url":"https://veggievagabonds.com/insiders-guide-to-punting-in-cambridge/","date":"2025"},
+{"fact":"October and November offer quieter punting on the River Cam with fewer tourists than summer.","source_name":"Cambridge Punt Company","url":"https://www.cambridgepuntcompany.co.uk/a-seasonal-delight-why-october-and-november-are-perfect-for-punting-in-cambridge/","date":"2025"},
+{"fact":"Long-term average maximum temperature in Cambridge is 7.65°C in January and 17.37°C in May.","source_name":"Met Office","url":"https://www.metoffice.gov.uk/research/climate/maps-and-data/location-specific-long-term-averages/u1214qgj0","date":"2025"},
+{"fact":"In early June 2026, sunset in Cambridge occurs around 9:13 pm.","source_name":"timeanddate.com","url":"https://www.timeanddate.com/sun/uk/cambridge","date":"2026"},
+{"fact":"Early mornings (8-10 AM) or after 4 PM provide near-private punting experiences on the River Cam with minimal crowds.","source_name":"traditionalpuntingcambridge.co.uk","url":"https://traditionalpuntingcambridge.co.uk/how-to-avoid-punting-crowds-in-cambridge/","date":"2025"}
+]

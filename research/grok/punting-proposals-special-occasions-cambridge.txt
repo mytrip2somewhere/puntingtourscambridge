@@ -1,0 +1,7 @@
+[
+{"fact":"Scudamore's Proposal Punt Tour is a 45-minute private chauffeured punt including a bouquet of fresh flowers and a bottle of Champagne with flutes, priced at £295 on weekdays and £310 on weekends.","source_name":"Scudamore's Punting Cambridge","url":"https://www.scudamores.com/proposal-punt-tour","date":"2026"},
+{"fact":"Scudamore's Champagne Punt Tours start from £239 for a 60-minute private chauffeured punt with 2 glasses of Champagne per person.","source_name":"Scudamore's Punting Cambridge","url":"https://www.scudamores.com/champagne-punt-tours","date":"2026"},
+{"fact":"Rutherford's Punting offers dedicated proposal punting experiences alongside other private options like champagne and cream tea punting for special occasions.","source_name":"Rutherford's Punting","url":"https://rutherfordspunting.com/private-punting/","date":"2026"},
+{"fact":"Cambridge Punters private 45-minute tours start at £99 online, with guests welcome to bring their own champagne and food.","source_name":"Cambridge Punters","url":"https://www.cambridgepunters.com/tours/private-tours/","date":"2026"},
+{"fact":"Traditional Punting Company private tours for up to 12 people are priced £89-£109 on weekdays.","source_name":"Traditional Punting Company","url":"https://traditionalpuntingcompany.com/tours/private-punting-cambridge/","date":"2026"}
+]

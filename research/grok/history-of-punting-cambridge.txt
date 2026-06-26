@@ -1,0 +1,7 @@
+[
+{"fact":"Punting in Cambridge began around the year 1900 with Maurice Jack Scudamore building his first punt in Chesterton boatyard in 1903.","source_name":"Museum of Cambridge","url":"https://www.museumofcambridge.org.uk/2025/04/a-history-of-punting-in-cambridge/","date":"2025-04-30"},
+{"fact":"Traditional River Thames pleasure punts were not introduced to Cambridge until about 1902–1904.","source_name":"Wikipedia","url":"https://en.wikipedia.org/wiki/Punt_(boat)","date":"2026-06-21"},
+{"fact":"The first punting company (Scudamore's Punting Company) in the UK was founded in 1910.","source_name":"Wikipedia","url":"https://en.wikipedia.org/wiki/Punt_(boat)","date":"2026-06-21"},
+{"fact":"The first company was Scudamores which was founded in 1910 at the Mill pond.","source_name":"Scholars Punting Cambridge","url":"https://www.scholarspuntingcambridge.co.uk/blog/facts-about-cambridge-punting/","date":"2026-06-26"},
+{"fact":"Punts were introduced to Cambridge as pleasure craft at the start of the 20th century (c. 1900).","source_name":"Punt Cambridge","url":"https://puntcambridge.co.uk/a-brief-history-of-punting-part-i/","date":"2026-06-15"}
+]

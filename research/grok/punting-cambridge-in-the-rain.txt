@@ -1,0 +1,7 @@
+[
+{"fact":"Traditional Punting Company operates every day of the year excluding Christmas Day, closing only in rare cases of extreme weather for safety.","source_name":"Traditional Punting Company","url":"https://traditionalpuntingcompany.com/cambridge-punting-season-information/","date":"2025-05-24"},
+{"fact":"Scudamore's punting tours run as normal unless river conditions are dangerous, with umbrellas and blankets provided as standard on boats.","source_name":"Scudamore's Punting Cambridge","url":"https://www.scudamores.com/champagne-punt-tours","date":"2026-06-23"},
+{"fact":"Let's Go Punting tours operate in the rain with large golf-style umbrellas provided to keep the majority of rain off.","source_name":"Let's Go Punting","url":"https://letsgopunting.co.uk/faqs/","date":"2025-07-04"},
+{"fact":"Scholars Punting Cambridge equips all punts with warm blankets and umbrellas for comfort come rain or shine.","source_name":"Scholars Punting Cambridge","url":"https://www.scholarspuntingcambridge.co.uk/faq/","date":"2026-06-23"},
+{"fact":"Cambridge Punters state there is no such thing as bad weather and allow cancellation or rescheduling with 48 hours notice.","source_name":"Cambridge Punters","url":"https://www.cambridgepunters.com/terms-conditions/","date":"2026-06-20"}
+]

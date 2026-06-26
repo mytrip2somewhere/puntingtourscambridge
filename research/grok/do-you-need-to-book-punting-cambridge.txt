@@ -1,0 +1,7 @@
+[
+{"fact":"The Conservators of the River Cam have licensed exactly six punting stations in Cambridge: La Mimosa (Jesus Green), Quayside, Trinity College, Mill Pond (Silver Street), Mill Lane and Granta (Sheeps Green).","source_name":"Cambridge City Council","url":"https://www.cambridge.gov.uk/punting","date":"2026"},
+{"fact":"Viator Cambridge punting tours are booked on average 10 days in advance.","source_name":"Viator","url":"https://www.viator.com/tours/Cambridge/Punting-Tour-in-Cambridge/d22327-7386P1","date":"2026"},
+{"fact":"Tripadvisor shared punt tours in Cambridge are booked on average 18 days in advance.","source_name":"Tripadvisor","url":"https://www.tripadvisor.com/AttractionProductReview-g186225-d21063407-Shared_Punt_Tour_Cambridge-Cambridge_Cambridgeshire_England.html","date":"2025"},
+{"fact":"Peak times for punting on the Cam are Saturday and Sunday afternoons from May to September when the river gets very busy and crowded.","source_name":"Punt Cambridge","url":"https://puntcambridge.co.uk/faqs/","date":"2020"},
+{"fact":"Tickets for punting can be bought on a walk-up basis at the licensed stations, though booking ahead is recommended for weekends and summer peak months to avoid queues.","source_name":"Marriott Activities","url":"https://activities.marriott.com/europe/united-kingdom/england/cambridge/activities/cambridge_shared_punting_tour-XMCPNQ","date":"2025"}
+]

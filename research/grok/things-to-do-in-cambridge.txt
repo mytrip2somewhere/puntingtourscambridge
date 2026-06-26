@@ -1,0 +1,6 @@
+[
+{"fact":"Cambridge attracts over 7.6 million visitors to the area annually, worth over £2 billion and growing by 3.5% every year.","source_name":"Visit Cambridge","url":"https://www.visitcambridge.org/","date":"2026"},
+{"fact":"The Conservators of the River Cam have licensed six punting stations in Cambridge.","source_name":"Cambridge City Council","url":"https://www.cambridge.gov.uk/punting","date":"2026"},
+{"fact":"Punting is the Number 1 tourist activity in Cambridge.","source_name":"Let's Go Punting","url":"https://letsgopunting.co.uk/","date":"2026"},
+{"fact":"The Fitzwilliam Museum offers free entry and is open Tuesday to Saturday 10am-5pm and Sundays 12-5pm.","source_name":"The Fitzwilliam Museum","url":"https://fitzmuseum.cam.ac.uk/plan-your-visit","date":"2026"}
+]

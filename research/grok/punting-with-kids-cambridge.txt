@@ -1,0 +1,7 @@
+[
+  {"fact":"Traditional Punting Company states there is no minimum age requirement for punting, with babies and toddlers welcome on the River Cam.","source_name":"Traditional Punting Company","url":"https://traditionalpuntingcompany.com/punting-with-kids-2/","date":"2025-10-28"},
+  {"fact":"Let's Go Punting uses large wide beam punts with a seating capacity of 12 passengers that are very stable and will not tip over.","source_name":"Let's Go Punting","url":"https://letsgopunting.co.uk/punting-tour-tickets/family-friendly-punting-tours/","date":"2026-02-02"},
+  {"fact":"Traditional Punting Company provides life jackets available in a range of children’s and adult sizes upon request with at least 24 hours’ notice.","source_name":"Traditional Punting Company","url":"https://traditionalpuntingcompany.com/punting-with-kids-2/","date":"2025-10-28"},
+  {"fact":"Let's Go Punting allows prams and buggies to be left at check-in at your own risk, and children under 1 are classified as babes in arms not included in the head count.","source_name":"Let's Go Punting","url":"https://letsgopunting.co.uk/punting-tour-tickets/family-friendly-punting-tours/","date":"2026-02-02"},
+  {"fact":"Traditional Punting Company requires all children aged 16 or under to be accompanied by an adult and asks that children remain seated and supervised.","source_name":"Traditional Punting Company","url":"https://traditionalpuntingcompany.com/punting-with-kids-2/","date":"2025-10-28"}
+]

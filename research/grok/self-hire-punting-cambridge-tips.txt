@@ -1,0 +1,7 @@
+[
+{"fact":"Scudamore's offers self-hire punts on the College Backs for 60 minutes from £28.50 per boat with a contactless card deposit required at check-in.","source_name":"Scudamore's Punting Company","url":"https://www.scudamores.com/college-backs-punt-hire","date":"2026"},
+{"fact":"Trinity College charges £24 per hour for public self-hire punts with a valid photo ID required for deposit.","source_name":"Trinity College Cambridge","url":"https://www.trin.cam.ac.uk/about/punting/","date":"2026"},
+{"fact":"Granta Moorings self-hire rates are £38 per boat for 60 minutes+ in summer 2026 (students £34 with CAMcard) requiring an ID deposit.","source_name":"Granta Moorings","url":"https://puntingincambridge.com/self-hire/","date":"2026"},
+{"fact":"Self-punting is not hard to learn but requires a short staff briefing and practice; beginners should duck for low bridges and wear non-slip shoes.","source_name":"Scudamore's Punting Company","url":"https://www.scudamores.com/college-backs-punt-hire","date":"2026"},
+{"fact":"Self-hire punts are available from Scudamore's at Mill Lane and Quayside stations or Trinity College, with max 6 people per boat and buoyancy aids available.","source_name":"Scudamore's Punting Company","url":"https://www.scudamores.com/college-backs-punt-hire","date":"2026"}
+]

@@ -1,0 +1,6 @@
+[
+{"fact":"Chauffeured punting tours in Cambridge last 45 to 50 minutes and cover seven colleges and nine bridges.","source_name":"Cambridge Punters","url":"https://www.cambridgepunters.com/tours/private-tours/","date":"2026"},
+{"fact":"Most punts have a maximum capacity of 12 people.","source_name":"Remember Cambridge","url":"https://www.remember-cambridge.co.uk/punting-in-cambridge/complete-guide-to-punting-in-2026-by-a-local/","date":"20 June 2026"},
+{"fact":"A standard chauffeured tour takes about 45 minutes along the college Backs with narration about the buildings.","source_name":"Remember Cambridge","url":"https://www.remember-cambridge.co.uk/punting-in-cambridge/complete-guide-to-punting-in-2026-by-a-local/","date":"20 June 2026"},
+{"fact":"For first-timers, a guided chauffeured tour on the lower river is recommended over self-hire.","source_name":"Remember Cambridge","url":"https://www.remember-cambridge.co.uk/punting-in-cambridge/complete-guide-to-punting-in-2026-by-a-local/","date":"20 June 2026"}
+]

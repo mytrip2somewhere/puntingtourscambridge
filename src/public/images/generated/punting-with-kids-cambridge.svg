@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 470" role="img" aria-label="Punting in Cambridge with kids at a glance. There is no fixed minimum age, so babies and toddlers are welcome on the wide, stable chauffeured punts. Children sixteen and under must be with an adult and stay seated. Children's life jackets can be requested ahead of time. A private punt is the easiest choice for a family, with your own boat and a guide who does all the punting. Prams can usually be left at check-in.">
+  <defs>
+    <style>
+      .t{font-family:Futura,'Trebuchet MS','Segoe UI',sans-serif;font-weight:800;fill:#14110f}
+      .sub{font-family:ui-sans-serif,system-ui,Arial,sans-serif;fill:#433d38}
+      .h{font-family:Futura,'Trebuchet MS','Segoe UI',sans-serif;font-weight:800;fill:#ffffff}
+      .lab{font-family:Futura,'Trebuchet MS','Segoe UI',sans-serif;font-weight:700;fill:#14110f}
+      .bd{font-family:ui-sans-serif,system-ui,Arial,sans-serif;fill:#433d38}
+      .wf{font-family:ui-sans-serif,system-ui,Arial,sans-serif;fill:#f7f4ef;font-weight:700}
+    </style>
+  </defs>
+  <rect x="0" y="0" width="900" height="470" rx="16" fill="#f7f4ef"/>
+  <text x="40" y="44" class="t" font-size="24">Punting with kids, at a glance</text>
+  <text x="40" y="66" class="sub" font-size="13.5">What families actually need to know before they book</text>
+
+  <!-- card 1: minimum age -->
+  <rect x="40" y="92" width="262" height="150" rx="12" fill="#2f6f57"/>
+  <text x="60" y="124" class="h" font-size="16">Minimum age</text>
+  <text x="60" y="152" class="h" font-size="34">None set</text>
+  <text x="60" y="182" class="wf" font-size="13">Babies and toddlers welcome</text>
+  <text x="60" y="204" class="wf" font-size="13">on the wide, stable punts</text>
+  <text x="60" y="226" class="wf" font-size="13">that hold up to 12 people</text>
+
+  <!-- card 2: supervision -->
+  <rect x="318" y="92" width="262" height="150" rx="12" fill="#e8a33d"/>
+  <text x="338" y="124" class="lab" font-size="16">Supervision</text>
+  <text x="338" y="156" class="lab" font-size="26">Age 16 and under</text>
+  <text x="338" y="184" class="bd" font-size="13" fill="#14110f">Must be with an adult,</text>
+  <text x="338" y="206" class="bd" font-size="13" fill="#14110f">stay seated and</text>
+  <text x="338" y="228" class="bd" font-size="13" fill="#14110f">supervised on the water</text>
+
+  <!-- card 3: life jackets -->
+  <rect x="596" y="92" width="264" height="150" rx="12" fill="#1565ff"/>
+  <text x="616" y="124" class="h" font-size="16">Life jackets</text>
+  <text x="616" y="156" class="h" font-size="26">Child sizes</text>
+  <text x="616" y="184" class="wf" font-size="13">Available on request,</text>
+  <text x="616" y="206" class="wf" font-size="13">ask ahead with at least</text>
+  <text x="616" y="228" class="wf" font-size="13">24 hours' notice</text>
+
+  <!-- card 4: easiest choice -->
+  <rect x="40" y="258" width="400" height="118" rx="12" fill="#14110f"/>
+  <text x="60" y="290" class="h" font-size="16">Easiest for a family</text>
+  <text x="60" y="320" class="h" font-size="22">A private punt</text>
+  <text x="60" y="346" class="bd" font-size="13" fill="#ece4d8">Your own boat, your own pace, and a guide</text>
+  <text x="60" y="366" class="bd" font-size="13" fill="#ece4d8">who does all the punting while you watch the kids.</text>
+
+  <!-- card 5: buggies -->
+  <rect x="456" y="258" width="404" height="118" rx="12" fill="#ffffff" stroke="#d8cfc0" stroke-width="1.5"/>
+  <text x="476" y="290" class="lab" font-size="16">Prams and buggies</text>
+  <text x="476" y="320" class="lab" font-size="22">Left at check-in</text>
+  <text x="476" y="346" class="bd" font-size="13">Usually stored at your own risk; babes in arms</text>
+  <text x="476" y="366" class="bd" font-size="13">under one often are not counted in the head count.</text>
+
+  <!-- footer -->
+  <rect x="40" y="392" width="820" height="50" rx="12" fill="#214f3e"/>
+  <text x="60" y="423" class="h" font-size="13.5">Rules vary by operator</text>
+  <text x="246" y="423" class="bd" font-size="13" fill="#ece4d8">Ages, life jackets and buggy policies differ between companies, so confirm with yours when you book.</text>
+</svg>

@@ -1,0 +1,6 @@
+[
+{"fact":"Cambridge shared punt tours start from £25 per person in 2026 on the River Cam.","source_name":"Punt Cambridge","url":"https://puntcambridge.co.uk/faqs/","date":"2026-05-28"},
+{"fact":"45-minute guided Cambridge punting tours pass 7 colleges and 9 bridges along the College Backs.","source_name":"Traditional Punting Company","url":"https://traditionalpuntingcompany.com/","date":"2026-06-26"},
+{"fact":"Cambridge punters stand on the flat raised platform (till) at one end of the punt, unlike Oxford's slats.","source_name":"Euronews","url":"https://www.euronews.com/travel/2024/02/28/stately-buildings-and-punting-on-the-river-is-it-better-to-visit-oxford-or-cambridge","date":"2024-02-28"},
+{"fact":"Cambridge scenery features iconic College Backs with lawns and bridges, considered superior for visitors over Oxford's Cherwell meadows.","source_name":"Tripadvisor","url":"https://www.tripadvisor.com/ShowTopic-g186338-i17-k8053342-Oxford_and_or_Cambridge_punting-London_England.html","date":"2015-01-08"}
+]

@@ -1,0 +1,6 @@
+[
+{"fact":"Cambridge NIAB station recorded a maximum temperature of 20.7°C and minimum of 8.6°C with 13.2 mm rainfall in May 2026.","source_name":"Met Office","url":"https://www.metoffice.gov.uk/pub/data/weather/uk/climate/stationdata/cambridgedata.txt","date":"2026"},
+{"fact":"In 2024 Cambridge NIAB recorded January mean max 8.1°C min 2.4°C and 51.6 mm rain.","source_name":"Met Office","url":"https://www.metoffice.gov.uk/pub/data/weather/uk/climate/stationdata/cambridgedata.txt","date":"2024"},
+{"fact":"Spring 2025 was the warmest and sunniest on record for the UK with mean temperature 9.5°C and 653.3 sunshine hours.","source_name":"The Flood Hub","url":"https://thefloodhub.co.uk/news/double-record-breaker-spring-2025-is-warmest-and-sunniest-on-uk-record/","date":"2025"},
+{"fact":"Punting tours recommend wearing rubber-soled shoes with good grip, layers for changeable weather, and sunscreen/sunglasses in summer due to water reflection.","source_name":"Scholars Punting Cambridge","url":"https://www.scholarspuntingcambridge.co.uk/blog/what-to-wear-punting/","date":"2024"}
+]

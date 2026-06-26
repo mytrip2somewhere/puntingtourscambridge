@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 470" role="img" aria-label="Self-hire punting in Cambridge step by step: brief and board with non-slip shoes and a buoyancy aid; stand on the flat deck at the back; drop the pole straight down to the riverbed; push gently and let go before it leans back; trail the pole behind you as a rudder to steer; duck low under the bridges. Steer by trailing, not stabbing, and check the live price before you book.">
+  <defs>
+    <style>
+      .t{font-family:Futura,'Trebuchet MS','Segoe UI',sans-serif;font-weight:800;fill:#14110f}
+      .sub{font-family:ui-sans-serif,system-ui,Arial,sans-serif;fill:#433d38}
+      .h{font-family:Futura,'Trebuchet MS','Segoe UI',sans-serif;font-weight:800;fill:#ffffff}
+      .num{font-family:Futura,'Trebuchet MS','Segoe UI',sans-serif;font-weight:800;fill:#2f6f57}
+      .step{font-family:Futura,'Trebuchet MS','Segoe UI',sans-serif;font-weight:800;fill:#14110f}
+      .desc{font-family:ui-sans-serif,system-ui,Arial,sans-serif;fill:#433d38}
+      .bf{font-family:ui-sans-serif,system-ui,Arial,sans-serif;fill:#ece4d8}
+    </style>
+  </defs>
+  <rect x="0" y="0" width="900" height="470" rx="16" fill="#f7f4ef"/>
+  <text x="40" y="44" class="t" font-size="24">Punting it yourself, step by step</text>
+  <text x="40" y="66" class="sub" font-size="13.5">Six things to get right before you take the pole</text>
+
+  <!-- Row 1 -->
+  <!-- step 1 -->
+  <rect x="40" y="92" width="262" height="120" rx="12" fill="#ffffff" stroke="#e3dbcd" stroke-width="1.5"/>
+  <circle cx="74" cy="126" r="17" fill="#e8a33d"/>
+  <text x="74" y="132" text-anchor="middle" class="h" font-size="17">1</text>
+  <text x="104" y="124" class="step" font-size="15">Brief and board</text>
+  <text x="104" y="148" class="desc" font-size="12.5">Take the staff demo, wear</text>
+  <text x="104" y="166" class="desc" font-size="12.5">non-slip shoes, grab a</text>
+  <text x="104" y="184" class="desc" font-size="12.5">buoyancy aid if offered.</text>
+
+  <!-- step 2 -->
+  <rect x="319" y="92" width="262" height="120" rx="12" fill="#ffffff" stroke="#e3dbcd" stroke-width="1.5"/>
+  <circle cx="353" cy="126" r="17" fill="#e8a33d"/>
+  <text x="353" y="132" text-anchor="middle" class="h" font-size="17">2</text>
+  <text x="383" y="124" class="step" font-size="15">Stand at the back</text>
+  <text x="383" y="148" class="desc" font-size="12.5">Feet on the flat deck,</text>
+  <text x="383" y="166" class="desc" font-size="12.5">knees soft, weight</text>
+  <text x="383" y="184" class="desc" font-size="12.5">centred for control.</text>
+
+  <!-- step 3 -->
+  <rect x="598" y="92" width="262" height="120" rx="12" fill="#ffffff" stroke="#e3dbcd" stroke-width="1.5"/>
+  <circle cx="632" cy="126" r="17" fill="#e8a33d"/>
+  <text x="632" y="132" text-anchor="middle" class="h" font-size="17">3</text>
+  <text x="662" y="124" class="step" font-size="15">Drop the pole</text>
+  <text x="662" y="148" class="desc" font-size="12.5">Slide it straight down</text>
+  <text x="662" y="166" class="desc" font-size="12.5">to the riverbed beside</text>
+  <text x="662" y="184" class="desc" font-size="12.5">you, not at an angle.</text>
+
+  <!-- Row 2 -->
+  <!-- step 4 -->
+  <rect x="40" y="226" width="262" height="120" rx="12" fill="#ffffff" stroke="#e3dbcd" stroke-width="1.5"/>
+  <circle cx="74" cy="260" r="17" fill="#2f6f57"/>
+  <text x="74" y="266" text-anchor="middle" class="h" font-size="17">4</text>
+  <text x="104" y="258" class="step" font-size="15">Push, then let go</text>
+  <text x="104" y="282" class="desc" font-size="12.5">A gentle even push, and</text>
+  <text x="104" y="300" class="desc" font-size="12.5">release if the pole leans</text>
+  <text x="104" y="318" class="desc" font-size="12.5">back past you.</text>
+
+  <!-- step 5 -->
+  <rect x="319" y="226" width="262" height="120" rx="12" fill="#ffffff" stroke="#e3dbcd" stroke-width="1.5"/>
+  <circle cx="353" cy="260" r="17" fill="#2f6f57"/>
+  <text x="353" y="266" text-anchor="middle" class="h" font-size="17">5</text>
+  <text x="383" y="258" class="step" font-size="15">Trail to steer</text>
+  <text x="383" y="282" class="desc" font-size="12.5">Drag the pole behind you</text>
+  <text x="383" y="300" class="desc" font-size="12.5">like a rudder. Trailing</text>
+  <text x="383" y="318" class="desc" font-size="12.5">turns; stabbing spins.</text>
+
+  <!-- step 6 -->
+  <rect x="598" y="226" width="262" height="120" rx="12" fill="#ffffff" stroke="#e3dbcd" stroke-width="1.5"/>
+  <circle cx="632" cy="260" r="17" fill="#2f6f57"/>
+  <text x="632" y="266" text-anchor="middle" class="h" font-size="17">6</text>
+  <text x="662" y="258" class="step" font-size="15">Duck the bridges</text>
+  <text x="662" y="282" class="desc" font-size="12.5">Lower yourself early; the</text>
+  <text x="662" y="300" class="desc" font-size="12.5">Cam's arches are lower</text>
+  <text x="662" y="318" class="desc" font-size="12.5">than they look.</text>
+
+  <!-- footer -->
+  <rect x="40" y="364" width="820" height="70" rx="12" fill="#14110f"/>
+  <text x="60" y="392" class="h" font-size="15">The one rule that fixes most beginners</text>
+  <text x="60" y="414" class="bf" font-size="13">Push for power, then trail the pole to steer. Prices are dynamic, so check the live price before you book.</text>
+</svg>
