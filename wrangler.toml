@@ -1,0 +1,9 @@
+# Cloudflare Pages project config (Phase 8.6).
+# Deploy with:  npx wrangler pages deploy dist --project-name=punting-tours-cambridge
+# or connect this repo in the Cloudflare Pages dashboard with:
+#   Build command:        npm run build
+#   Build output dir:     dist
+
+name = "punting-tours-cambridge"
+pages_build_output_dir = "dist"
+compatibility_date = "2026-06-21"

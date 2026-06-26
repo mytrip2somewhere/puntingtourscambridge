@@ -1,0 +1,159 @@
+# Sveltia CMS - IMAGE-ONLY, LABELED SLOTS (Phase 8.3).
+# Content managers see one "Site images" screen with a labeled picker per slot
+# and upload a photo to each. No price / rating / text editing: the only fields
+# are image pickers. Uploads are committed to the repo and auto-deploy.
+
+backend:
+  name: github
+  repo: mytrip2somewhere/puntingtourscambridge
+  branch: main
+  # Deployed Sveltia OAuth worker (live, domain-locked):
+  base_url: https://sveltia-cms-auth.mytrip2somewhere.workers.dev
+
+# Where uploaded files are committed, and how they resolve on the live site.
+media_folder: "src/public/images/uploaded"
+public_folder: "/images/uploaded"
+
+collections:
+  - name: site_images
+    label: "Site images"
+    description: "Replace the photos shown across the site. Slots are grouped by page, and each one tells you where it appears and the best shape to upload. Tour photography only."
+    files:
+      - name: images
+        label: "All site images"
+        file: "src/data/images.json"
+        description: "Open a section, open a slot, upload the photo and write its alt text. Heroes are wide (16:9), cards are 4:3, Mia's photos are square. Alt text describes the photo for Google and screen readers — keep it natural and include a keyword like 'Shibuya go-kart' where it fits."
+        fields:
+          - name: homepage
+            label: "🏠 Homepage"
+            widget: object
+            fields:
+              - name: home_hero
+                label: "Hero banner (very top of the homepage)"
+                widget: object
+                hint: "The big banner visitors see first. Wide 16:9, ~1600×900px. Page: /"
+                fields:
+                  - { name: src, label: "Photo", widget: image }
+                  - { name: alt, label: "Alt text (describe it, include a keyword)", widget: string, required: true }
+          - name: tours
+            label: "🏎️ Tour pages"
+            widget: object
+            fields:
+              - name: tours_hub_hero
+                label: "Tours page — hero banner (16:9)"
+                widget: object
+                hint: "Top banner on the 'all tours' page. Page: /tours/"
+                fields:
+                  - { name: src, label: "Photo", widget: image }
+                  - { name: alt, label: "Alt text (include a keyword)", widget: string, required: true }
+              - name: shibuya_hero
+                label: "Shibuya tour — hero banner (16:9)"
+                widget: object
+                hint: "Top banner on the Shibuya tour page. Page: /tours/shibuya-street-kart-experience/"
+                fields:
+                  - { name: src, label: "Photo", widget: image }
+                  - { name: alt, label: "Alt text (include a keyword)", widget: string, required: true }
+              - name: shibuya_card
+                label: "Shibuya — small card photo (4:3)"
+                widget: object
+                hint: "Used on the homepage, Tours page and several blog posts."
+                fields:
+                  - { name: src, label: "Photo", widget: image }
+                  - { name: alt, label: "Alt text (include a keyword)", widget: string, required: true }
+              - name: akihabara_hero
+                label: "Akihabara tour — hero banner (16:9)"
+                widget: object
+                hint: "Top banner on the Akihabara tour page. Page: /tours/akihabara-go-karting-experience/"
+                fields:
+                  - { name: src, label: "Photo", widget: image }
+                  - { name: alt, label: "Alt text (include a keyword)", widget: string, required: true }
+              - name: akihabara_card
+                label: "Akihabara — small card photo (4:3)"
+                widget: object
+                hint: "Used on the homepage, Tours page and blog posts."
+                fields:
+                  - { name: src, label: "Photo", widget: image }
+                  - { name: alt, label: "Alt text (include a keyword)", widget: string, required: true }
+              - name: electric_hero
+                label: "Electric tour — hero banner (16:9)"
+                widget: object
+                hint: "Top banner on the electric kart tour page. Page: /tours/tokyo-guided-electric-kart-tour/"
+                fields:
+                  - { name: src, label: "Photo", widget: image }
+                  - { name: alt, label: "Alt text (include a keyword)", widget: string, required: true }
+              - name: electric_card
+                label: "Electric — small card photo (4:3)"
+                widget: object
+                hint: "Used on the homepage, Tours page and blog posts."
+                fields:
+                  - { name: src, label: "Photo", widget: image }
+                  - { name: alt, label: "Alt text (include a keyword)", widget: string, required: true }
+          - name: guides
+            label: "📖 Guides"
+            widget: object
+            fields:
+              - name: guides_hub_hero
+                label: "Guides page — hero banner (16:9)"
+                widget: object
+                hint: "Top banner on the Guides page. Page: /guides/"
+                fields:
+                  - { name: src, label: "Photo", widget: image }
+                  - { name: alt, label: "Alt text (include a keyword)", widget: string, required: true }
+              - name: license_hero
+                label: "License guide — hero banner (16:9)"
+                widget: object
+                hint: "Top banner on the license guide. Page: /guides/tokyo-go-kart-license-idp/"
+                fields:
+                  - { name: src, label: "Photo", widget: image }
+                  - { name: alt, label: "Alt text (include a keyword)", widget: string, required: true }
+          - name: author
+            label: "👤 Author (Mia)"
+            widget: object
+            fields:
+              - name: mia_thumb
+                label: "Mia — small round photo (square)"
+                widget: object
+                hint: "Shown next to Mia's name across the site. ~160×160px."
+                fields:
+                  - { name: src, label: "Photo", widget: image }
+                  - { name: alt, label: "Alt text (include a keyword)", widget: string, required: true }
+              - name: mia_portrait
+                label: "Mia — large portrait, About page (square)"
+                widget: object
+                hint: "Larger portrait on the About page. ~600×600px. Page: /about/"
+                fields:
+                  - { name: src, label: "Photo", widget: image }
+                  - { name: alt, label: "Alt text (include a keyword)", widget: string, required: true }
+
+  # Blog: full posts. Managers write the body in a rich editor and can insert
+  # images anywhere (after any paragraph or heading). Each post can point at a
+  # tour for the conversion call-to-action.
+  - name: blog
+    label: "Blog posts"
+    label_singular: "Blog post"
+    folder: "src/content/blog"
+    extension: md
+    format: frontmatter
+    create: true
+    slug: "{{slug}}"
+    media_folder: "/src/public/images/uploaded/blog"
+    public_folder: "/images/uploaded/blog"
+    fields:
+      - { name: title, label: "Title", widget: string }
+      - { name: date, label: "Date", widget: datetime, format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false }
+      - { name: description, label: "Excerpt / meta description", widget: text }
+      - { name: hero, label: "Hero image", widget: image, required: false }
+      - { name: hero_alt, label: "Hero image alt text", widget: string, required: false }
+      - name: related_tour
+        label: "Related tour (conversion CTA)"
+        widget: select
+        required: false
+        options:
+          - { label: "Shibuya Street Kart Experience", value: "shibuya-street-kart-experience" }
+          - { label: "Akihabara Go-Karting Experience", value: "akihabara-go-karting-experience" }
+          - { label: "Tokyo Guided Electric Kart Tour", value: "tokyo-guided-electric-kart-tour" }
+      - { name: related_tour_label, label: "CTA tour label (e.g. Shibuya Street Kart)", widget: string, required: false }
+      - { name: related_tour_blurb, label: "CTA blurb", widget: text, required: false }
+      - { name: draft, label: "Draft (uncheck to publish)", widget: boolean, default: true, required: false }
+      # The body: rich text / Markdown. Insert images inline anywhere here.
+      - { name: body, label: "Body", widget: markdown }

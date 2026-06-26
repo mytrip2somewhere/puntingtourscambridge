@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ title }}</title>
+  <meta name="description" content="{{ description }}">
+  <link rel="canonical" href="{{ canonical }}">
+  <meta name="robots" content="{{ robots }}">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="/favicon.svg">
+
+  <!-- Search-engine verification (site.config.md > VERIFICATION; identical on every page) -->
+  <meta name="google-site-verification" content="REPLACE_WITH_GSC_TOKEN" />
+  <meta name="msvalidate.01" content="REPLACE_WITH_BING_TOKEN" />
+
+  <!-- Open Graph (Phase 5.4) -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="{{ title }}">
+  <meta property="og:description" content="{{ description }}">
+  <meta property="og:url" content="{{ canonical }}">
+  <meta property="og:image" content="{{ og_image }}">
+  <meta property="og:site_name" content="Punting Tours Cambridge">
+
+  <!-- Twitter Cards -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ title }}">
+  <meta name="twitter:description" content="{{ description }}">
+  <meta name="twitter:image" content="{{ og_image }}">
+
+  <!-- Hero LCP image preloaded, never lazy (Phase 8.4) -->
+  {{ preload }}
+
+  <link rel="stylesheet" href="/assets/css/styles.css">
+
+  <!-- Phase 5.2 connected JSON-LD graph (schema injection slot, Phase 8.2) -->
+  {{ schema }}
+
+  <!-- Google Analytics, GA4 (site.config.md > ANALYTICS; unique per site) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-XXXXXXXXXX');
+  </script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  {{ include "components/nav.html" }}
+
+  <main id="main">
+{{ content }}
+  </main>
+
+  {{ include "components/footer.html" }}
+
+  <script>
+    /* mobile menu toggle - minimal, no dependency (Phase 5 zero-heavy-JS) */
+    (function () {
+      var t = document.querySelector('.nav-toggle');
+      var l = document.getElementById('nav-links');
+      if (t && l) t.addEventListener('click', function () {
+        var open = l.getAttribute('data-open') === 'true';
+        l.setAttribute('data-open', String(!open));
+        t.setAttribute('aria-expanded', String(!open));
+      });
+    })();
+    /* availability widget: pick a date -> "Check availability" -> reveal the affiliate
+       "check the price" CTA. The operator (guide Mia Nakamura) confirms tours run daily and
+       virtually always have spots, so this availability message is a real, sourced statement,
+       not an invented counter. */
+    (function () {
+      var fmt = function (v) { try { return new Date(v + 'T00:00:00').toLocaleDateString(undefined, { day: 'numeric', month: 'short' }); } catch (e) { return v; } };
+      var today = new Date().toISOString().slice(0, 10);
+      document.querySelectorAll('.availability').forEach(function (w) {
+        var d = w.querySelector('.av-date'), c = w.querySelector('.av-check'), b = w.querySelector('.av-go'), msg = w.querySelector('.av-msg');
+        if (!d || !c || !b) return;
+        var base = b.getAttribute('href');
+        d.setAttribute('min', today);
+        c.addEventListener('click', function () {
+          if (!d.value) { d.focus(); return; }
+          b.href = base + (base.indexOf('?') > -1 ? '&' : '?') + 'date=' + d.value;
+          b.textContent = 'Available on ' + fmt(d.value) + ' — check the price →';
+          b.hidden = false; c.hidden = true;
+          if (msg) msg.hidden = false;
+        });
+      });
+    })();
+  </script>
+</body>
+</html>

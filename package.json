@@ -1,0 +1,14 @@
+{
+  "name": "punting-tours-cambridge",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Affiliate tour-content site (Punting Tours Cambridge) built on the reusable pipeline.",
+  "scripts": {
+    "build": "node build/compile.mjs",
+    "serve": "node build/compile.mjs && cd dist && python3 -m http.server 8080"
+  },
+  "dependencies": {
+    "marked": "^18.0.5"
+  }
+}

@@ -1,0 +1,9 @@
+# Allow all crawling, including search and AI answer engines. Maximum visibility.
+# NOTE: if AI bots still show as blocked, it is Cloudflare's "Manage AI bots /
+# AI Crawl Control" feature injecting a managed block above this file. Turn it
+# off in the Cloudflare dashboard (Security > Bots > AI Crawl Control).
+
+User-agent: *
+Allow: /
+
+Sitemap: https://puntingtourscambridge.com/sitemap.xml
