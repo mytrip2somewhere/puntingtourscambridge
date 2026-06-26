@@ -6,7 +6,16 @@
     "private_card": { "src": "/images/uploaded/private-punting-tour.jpg", "alt": "Private punting tour passing a historic Cambridge college bridge" },
     "student_card": { "src": "/images/uploaded/student-guided-punting.jpg", "alt": "Cambridge student guiding a shared punt along the Backs" }
   },
-  "tours": {},
-  "guides": {},
-  "author": {}
+  "tours": {
+    "shared_hero": { "src": "/images/uploaded/shared-punting-hero.jpg", "alt": "A shared chauffeured punt on the River Cam passing the College Backs in Cambridge" },
+    "private_hero": { "src": "/images/uploaded/private-punting-hero.jpg", "alt": "A private punt gliding under a historic Cambridge college bridge" },
+    "student_hero": { "src": "/images/uploaded/student-punting-hero.jpg", "alt": "A Cambridge student chauffeuring a shared punt along the River Cam" }
+  },
+  "guides": {
+    "prices_hero": { "src": "/images/uploaded/punting-prices-hero.jpg", "alt": "Punts lined up at a Cambridge punting station on the River Cam" },
+    "backs_hero": { "src": "/images/uploaded/college-backs-hero.jpg", "alt": "King's College Chapel seen from a punt on the River Cam" }
+  },
+  "author": {
+    "jordan_portrait": { "src": "/images/uploaded/jordan-harrington-portrait.jpg", "alt": "Portrait of Jordan Harrington, Cambridge punting guide" }
+  }
 }
