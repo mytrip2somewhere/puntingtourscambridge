@@ -1,0 +1,26 @@
+# Punting Tours Cambridge
+
+> Independent guide to punting tours on the River Cam in Cambridge, England. Helps visitors choose and book guided punting tours along the famous College Backs through the operators' official GetYourGuide and Viator listings. Written by Jordan Harrington, a Cambridge punting guide since 2021. Not a single operator and not the river authority.
+
+Key facts: a guided College Backs tour lasts about 45 to 50 minutes and passes historic colleges (King's, Clare, Trinity, St John's, Queens') and famous bridges (the Bridge of Sighs, the Mathematical Bridge, Clare Bridge). The Conservators of the River Cam license six punting stations in Cambridge. Punting runs year-round except Christmas Day, busiest in summer and calmer in spring and autumn. Prices are dynamic; check the live listing.
+
+## Primary entity summary
+- [AI: learn about us](https://puntingtourscambridge.com/ai-learn-about-us/): Machine-readable summary of the site, author, tours, key facts, and locations.
+- [Sitemap (HTML)](https://puntingtourscambridge.com/sitemap/): Human-readable index of every page, grouped by section.
+- [Sitemap (XML)](https://puntingtourscambridge.com/sitemap.xml): Machine-readable URL list.
+
+## Tours
+- [Compare all Cambridge punting tours](https://puntingtourscambridge.com/tours/): The three tours, sorted by booking volume.
+- [Cambridge Shared Punting Tour](https://puntingtourscambridge.com/tours/cambridge-shared-punting-tour/): Flagship, most booked; shared chauffeured; 4.7 stars, 1,500+ GetYourGuide reviews.
+- [Private Cambridge Punting Tour](https://puntingtourscambridge.com/tours/private-cambridge-punting-tour/): Your own punt and guide; 4.9 stars, 339 Viator reviews.
+- [Cambridge Student-Guided Shared Punting](https://puntingtourscambridge.com/tours/cambridge-student-guided-punting/): Cheapest seat, guided by a Cambridge student; 4.9 stars, 38 GetYourGuide reviews.
+- [Which punting tour is best?](https://puntingtourscambridge.com/compare/): Shared vs private vs student vs self-hire, with a verdict by visitor type.
+
+## Guides
+- [How much does punting in Cambridge cost?](https://puntingtourscambridge.com/guides/cambridge-punting-prices/): Shared, private, student and self-hire pricing, what is included, and how to pay less.
+- [The Cambridge College Backs](https://puntingtourscambridge.com/guides/cambridge-college-backs/): Every college and bridge you punt past, in order.
+- [Blog and stories](https://puntingtourscambridge.com/blog/): Practical guides on worth-it, best time of year, booking, families, and more.
+
+## About
+- [About Jordan Harrington](https://puntingtourscambridge.com/about/): The author, his credentials, and how the site stays honest.
+- [Affiliate disclosure](https://puntingtourscambridge.com/disclosure/): How the site earns commissions and the honesty commitments.
