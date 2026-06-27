@@ -15,9 +15,9 @@ jobs:
         with:
           node-version: '20'
       - run: npm ci
-      # PRE-LAUNCH: site ships noindex while images are placeholders and the domain/GA
-      # are not wired. AT LAUNCH, flip this back to `SITE_INDEXABLE=true npm run build`.
-      - run: npm run build
+      # LAUNCHED: production build is indexable (index,follow). To temporarily pull the
+      # site out of search, drop `SITE_INDEXABLE=true` so it builds noindex again.
+      - run: SITE_INDEXABLE=true npm run build
       # Create the Pages project on first deploy (wrangler `pages deploy` does NOT
       # auto-create it in CI). Idempotent: a no-op once the project exists.
       - name: Ensure Pages project exists

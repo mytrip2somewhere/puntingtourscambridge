@@ -1,0 +1,4 @@
+# Send the Cloudflare Pages preview hostname to the canonical custom domain so the
+# *.pages.dev URL never ranks or gets shared. Requests to puntingtourscambridge.com
+# do not match this rule, so there is no redirect loop.
+https://punting-tours-cambridge.pages.dev/* https://puntingtourscambridge.com/:splat 301
