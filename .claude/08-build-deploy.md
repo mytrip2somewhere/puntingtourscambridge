@@ -114,6 +114,28 @@ placeholders and the domain/GA/verification are not wired. At launch, flip the w
 `SITE_INDEXABLE=true npm run build`. The `.pages.dev` preview URL stays noindex regardless,
 which is what you want before the custom domain is live.
 
+CUSTOM DOMAIN (learned launching Cambridge): attach the domain to the project via the Pages
+API (`POST /accounts/{id}/pages/projects/<project>/domains` with `{"name":"<domain>"}`) for
+apex AND www. If the zone is on Cloudflare DNS, Pages then needs the DNS records: apex and
+www both as proxied `CNAME -> <project>.pages.dev` (Cloudflare flattens the apex CNAME, so
+MX/SPF email records keep working — do NOT delete them). A Pages-scoped token CANNOT edit DNS
+(needs a separate Zone > DNS > Edit token). On a registrar-imported zone (e.g. Namecheap),
+delete the parking A record and the parking `www` CNAME first. SSL auto-issues in a few mins
+once the records exist; poll the domains endpoint until status=active.
+
+NO pages.dev REDIRECT VIA _redirects: Cloudflare Pages `_redirects` matches on PATH ONLY and
+ignores the hostname in an absolute "from", so a cross-host `https://<proj>.pages.dev/* ->
+https://<domain>/:splat` rule never fires. Do NOT ship it. The canonical tags on every page
+(pointing at the custom domain) are the correct, sufficient way to stop the preview host from
+being indexed separately. A hard 301 would require a Pages Function/`_worker.js` (not worth
+the added risk to a live site).
+
+SEARCH-ENGINE VERIFICATION tokens are NOT all per-site. GSC `google-site-verification` is
+UNIQUE per property (per domain) - each site needs its own token, OR verify with no token via
+the "Google Analytics" method once the GA4 tag is live. Bing `msvalidate.01` is ACCOUNT-level
+- the same value verifies every site in your Bing account (or "Import from GSC"). So in the
+pipeline, Bing's token is genuinely reusable across sites; GSC's is not.
+
 NOTE on AI-bot access: Cloudflare can inject a managed "AI Crawl Control" block ABOVE the
 repo `robots.txt` (Disallow GPTBot/ClaudeBot/Google-Extended + Content-Signal ai-train=no).
 If the goal is AI-search visibility, the repo robots.txt alone is NOT enough — turn that
