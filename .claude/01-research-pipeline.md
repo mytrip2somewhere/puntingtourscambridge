@@ -12,6 +12,17 @@ searches), via the DataForSEO MCP server. Use the standard queue tier (batch res
 not real-time). Cost-control defaults: standard queue only, no live mode unless flagged,
 no unnecessary parameter multipliers.
 
+MCP MODULES: the server reads `ENABLED_MODULES` (in `~/.claude.json` > mcpServers >
+dataforseo > env). Keep `SERP,KEYWORDS_DATA,DATAFORSEO_LABS,AI_OPTIMIZATION`. The
+`AI_OPTIMIZATION` module is what exposes the LLM Mentions + AI keyword-search-volume +
+ChatGPT/Google-AI-Overview fan-out tools (see 1.1b). Adding a module requires a Claude
+restart to reload the server. If AI tools return "access denied", the DataForSEO plan
+needs the AI Optimization add-on enabled in the dashboard.
+
+PAYLOAD GOTCHA: Labs/SERP responses are huge (per-keyword monthly arrays) and overflow
+the tool result. They auto-save to a file; process with `jq` on disk and pull only
+compact `volume<TAB>keyword` rows into context. Never try to read the raw dump.
+
 ## 1.0 REQUIRED INPUTS (pause and ask Oleg before researching)
 - Primary keyword + any secondary keywords (or confirm a seed list).
 - The tour links to feature: Oleg sends GYG/Viator links (with affiliate params) from
@@ -26,6 +37,20 @@ feeds tour pages and category/comparison rankings.
 Pull: search volume, trends over time (seasonality), PAA nodes, autocomplete, related
 searches. Expand seeds into long-tail. Bucket every keyword by intent: transactional,
 comparison, informational, navigational. Apply the EMD note from Phase 0.
+
+## 1.1b AI SEARCH / LLM FAN-OUT LAYER (DataForSEO AI Optimization)
+Modern searchers ask ChatGPT and read Google AI Overviews, which "fan out" one question
+into many sub-queries. Capture that layer so pages answer what LLMs actually retrieve:
+- Google AI Overview fan-out (works today, any plan): run `serp_organic_live_advanced`
+  on the seed with `people_also_ask_click_depth`. PAA items carrying
+  `asynchronous_ai_overview: true` are the questions Google answers with an AI Overview —
+  own each one verbatim as an H2/FAQ. Also mine `people_also_search` + `related_searches`.
+- True LLM layer (needs `AI_OPTIMIZATION`): ChatGPT + Google-AIO fan-out queries, LLM
+  mention volume, and AI keyword search volume. ChatGPT fan-out data is US/English only.
+- Prioritize topics by blending: real Google search volume x fan-out presence (AIO/LLM) x
+  keyword difficulty (winnability, via `bulk_keyword_difficulty`) x affiliate intent x
+  gap-vs-existing-content. Save the source record under `research/`.
+This whole flow is packaged as the `/keyword-fanout` skill (`.claude/skills/keyword-fanout`).
 
 ## 1.2 REAL-USER-LANGUAGE LAYER (manual + forums)
 Add human texture the API misses: manual PAA branching, and forum/community mining
