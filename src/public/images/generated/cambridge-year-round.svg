@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 706" role="img" aria-label="Year wheel of Cambridge, England, showing average conditions for each month. Bars radiate from the centre, their length set by the Met Office 1991 to 2020 average daily maximum temperature for Cambridge Niab, and a dot beside each month is sized by that month's average sunshine hours. January 7.65 degrees Celsius, February 8.30, March 11.00, April 14.12, May 17.37, June 20.36, July 23.08, August 22.85, September 19.58, October 15.11, November 10.72, December 7.95. July is the warmest and sunniest month at 23.08 degrees and 190 sunshine hours. January is the coldest at 7.65 degrees with only 57 sunshine hours. September, at 19.58 degrees, is warmer than May at 17.37. The wheel is coloured by season: winter December to February in pale river blue, spring March to May in green, summer June to August in gold, autumn September to November in deep gold. A side panel describes what the River Cam is like in each season, an observation from the site's own guides rather than published data. Punting runs year round in Cambridge, every day except Christmas Day.">
+  <defs>
+    <style>
+      .t{font-family:Futura,'Trebuchet MS','Segoe UI',sans-serif;font-weight:800}
+      .lab{font-family:Futura,'Trebuchet MS','Segoe UI',sans-serif;font-weight:700}
+      .sub{font-family:ui-sans-serif,system-ui,Arial,sans-serif}
+      .bd{font-family:ui-sans-serif,system-ui,Arial,sans-serif;font-weight:700}
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="900" height="706" rx="16" fill="#f7f4ef"/>
+  <text x="40" y="46" class="t" font-size="24" fill="#14110f">Cambridge, the whole year in one turn</text>
+  <text x="40" y="70" class="sub" font-size="13.5" fill="#433d38">Average daily maximum temperature and sunshine, month by month, and what the Cam is like</text>
+
+  <!-- guide rings at 10C and 20C -->
+  <circle cx="300.0" cy="360.0" r="119.00" fill="none" stroke="#d8d0c4" stroke-width="1" stroke-dasharray="3 4"/>
+  <circle cx="300.0" cy="360.0" r="158.00" fill="none" stroke="#d8d0c4" stroke-width="1" stroke-dasharray="3 4"/>
+
+  <!-- month wedges: length = avg max temp -->
+  <path d="M301.95,280.02 L302.68,250.20 A109.84,109.84 0 0 1 352.58,263.57 L338.30,289.76 A80.00,80.00 0 0 0 301.95,280.02 Z" fill="#bfe0e6"/>
+  <path d="M341.68,291.72 L358.55,264.09 A112.37,112.37 0 0 1 395.91,301.45 L368.28,318.32 A80.00,80.00 0 0 0 341.68,291.72 Z" fill="#bfe0e6"/>
+  <path d="M370.24,321.70 L407.90,301.17 A122.90,122.90 0 0 1 422.86,357.00 L379.98,358.05 A80.00,80.00 0 0 0 370.24,321.70 Z" fill="#2f6f57"/>
+  <path d="M379.98,361.95 L435.03,363.30 A135.07,135.07 0 0 1 418.59,424.66 L370.24,398.30 A80.00,80.00 0 0 0 379.98,361.95 Z" fill="#2f6f57"/>
+  <path d="M368.28,401.68 L426.11,436.98 A147.74,147.74 0 0 1 376.98,486.11 L341.68,428.28 A80.00,80.00 0 0 0 368.28,401.68 Z" fill="#2f6f57"/>
+  <path d="M338.30,430.24 L376.31,499.95 A159.40,159.40 0 0 1 303.89,519.36 L301.95,439.98 A80.00,80.00 0 0 0 338.30,430.24 Z" fill="#e8a33d"/>
+  <path d="M298.05,439.98 L295.85,529.96 A170.01,170.01 0 0 1 218.62,509.27 L261.70,430.24 A80.00,80.00 0 0 0 298.05,439.98 Z" fill="#e8a33d"/>
+  <path d="M258.32,428.28 L211.89,504.35 A169.12,169.12 0 0 1 155.65,448.11 L231.72,401.68 A80.00,80.00 0 0 0 258.32,428.28 Z" fill="#e8a33d"/>
+  <path d="M229.76,398.30 L162.72,434.85 A156.36,156.36 0 0 1 143.68,363.82 L220.02,361.95 A80.00,80.00 0 0 0 229.76,398.30 Z" fill="#a9761f"/>
+  <path d="M220.02,358.05 L161.11,356.61 A138.93,138.93 0 0 1 178.02,293.50 L229.76,321.70 A80.00,80.00 0 0 0 220.02,358.05 Z" fill="#a9761f"/>
+  <path d="M231.72,318.32 L196.03,296.54 A121.81,121.81 0 0 1 236.54,256.03 L258.32,291.72 A80.00,80.00 0 0 0 231.72,318.32 Z" fill="#a9761f"/>
+  <path d="M261.70,289.76 L246.86,262.54 A111.00,111.00 0 0 1 297.29,249.03 L298.05,280.02 A80.00,80.00 0 0 0 261.70,289.76 Z" fill="#bfe0e6"/>
+
+  <!-- sunshine dots: radius = avg sunshine hours / 21 -->
+  <circle cx="349.18" cy="176.47" r="2.73" fill="#5b6b70"/>
+  <circle cx="434.35" cy="225.65" r="3.70" fill="#5b6b70"/>
+  <circle cx="483.53" cy="310.82" r="5.64" fill="#5b6b70"/>
+  <circle cx="483.53" cy="409.18" r="7.48" fill="#5b6b70"/>
+  <circle cx="434.35" cy="494.35" r="8.70" fill="#5b6b70"/>
+  <circle cx="349.18" cy="543.53" r="8.69" fill="#5b6b70"/>
+  <circle cx="250.82" cy="543.53" r="9.05" fill="#5b6b70"/>
+  <circle cx="165.65" cy="494.35" r="8.63" fill="#5b6b70"/>
+  <circle cx="116.47" cy="409.18" r="6.86" fill="#5b6b70"/>
+  <circle cx="116.47" cy="310.82" r="5.25" fill="#5b6b70"/>
+  <circle cx="165.65" cy="225.65" r="3.22" fill="#5b6b70"/>
+  <circle cx="250.82" cy="176.47" r="2.56" fill="#5b6b70"/>
+
+  <!-- month labels -->
+  <text x="361.60" y="134.11" text-anchor="middle" class="sub" font-size="12.5" fill="#433d38"><tspan class="lab" font-size="13" >Jan</tspan> 7.7&#176;</text>
+  <text x="468.29" y="195.71" text-anchor="middle" class="sub" font-size="12.5" fill="#433d38"><tspan class="lab" font-size="13" >Feb</tspan> 8.3&#176;</text>
+  <text x="529.89" y="302.40" text-anchor="middle" class="sub" font-size="12.5" fill="#433d38"><tspan class="lab" font-size="13" >Mar</tspan> 11.0&#176;</text>
+  <text x="529.89" y="425.60" text-anchor="middle" class="sub" font-size="12.5" fill="#433d38"><tspan class="lab" font-size="13" >Apr</tspan> 14.1&#176;</text>
+  <text x="468.29" y="532.29" text-anchor="middle" class="sub" font-size="12.5" fill="#433d38"><tspan class="lab" font-size="13" >May</tspan> 17.4&#176;</text>
+  <text x="361.60" y="593.89" text-anchor="middle" class="sub" font-size="12.5" fill="#433d38"><tspan class="lab" font-size="13" >Jun</tspan> 20.4&#176;</text>
+  <text x="238.40" y="593.89" text-anchor="middle" class="sub" font-size="12.5" fill="#433d38"><tspan class="lab" font-size="13" >Jul</tspan> 23.1&#176;</text>
+  <text x="131.71" y="532.29" text-anchor="middle" class="sub" font-size="12.5" fill="#433d38"><tspan class="lab" font-size="13" >Aug</tspan> 22.9&#176;</text>
+  <text x="70.11" y="425.60" text-anchor="middle" class="sub" font-size="12.5" fill="#433d38"><tspan class="lab" font-size="13" >Sep</tspan> 19.6&#176;</text>
+  <text x="70.11" y="302.40" text-anchor="middle" class="sub" font-size="12.5" fill="#433d38"><tspan class="lab" font-size="13" >Oct</tspan> 15.1&#176;</text>
+  <text x="131.71" y="195.71" text-anchor="middle" class="sub" font-size="12.5" fill="#433d38"><tspan class="lab" font-size="13" >Nov</tspan> 10.7&#176;</text>
+  <text x="238.40" y="134.11" text-anchor="middle" class="sub" font-size="12.5" fill="#433d38"><tspan class="lab" font-size="13" >Dec</tspan> 8.0&#176;</text>
+
+  <!-- hub -->
+  <circle cx="300.0" cy="360.0" r="74.00" fill="#214f3e"/>
+  <text x="300.0" y="334.0" text-anchor="middle" class="bd" font-size="11" fill="#bfe0e6">BAR LENGTH =</text>
+  <text x="300.0" y="350.0" text-anchor="middle" class="lab" font-size="13" fill="#ffffff">AVG MAX &#176;C</text>
+  <text x="300.0" y="372.0" text-anchor="middle" class="bd" font-size="11" fill="#bfe0e6">DOT SIZE =</text>
+  <text x="300.0" y="388.0" text-anchor="middle" class="lab" font-size="13" fill="#ffffff">SUN HOURS</text>
+  <text x="300.0" y="408.0" text-anchor="middle" class="sub" font-size="10" fill="#8fb9a6">Met Office 1991&#8211;2020</text>
+
+  <!-- side panel -->
+  <line x1="574" y1="112" x2="574" y2="582" stroke="#ddd5c8" stroke-width="1"/>
+  <text x="592" y="124" class="bd" font-size="12" fill="#14110f">WHAT THE CAM IS LIKE</text>
+  <rect x="592" y="139" width="11" height="11" rx="2.5" fill="#2f6f57"/>
+  <text x="611" y="150" class="lab" font-size="12.5" fill="#14110f">SPRING &#183; March to May</text>
+  <text x="592" y="168" class="bd" font-size="11" fill="#5b6b70">11.0 to 17.4&#176;C &#183; 118 to 183 sun hours</text>
+  <text x="592" y="188" class="sub" font-size="11.5" fill="#433d38">March is the driest month of the year.</text>
+  <text x="592" y="203" class="sub" font-size="11.5" fill="#433d38">The Backs green up and the river stays</text>
+  <text x="592" y="218" class="sub" font-size="11.5" fill="#433d38">calm on weekday mornings, though crowds</text>
+  <text x="592" y="233" class="sub" font-size="11.5" fill="#433d38">start building hard through May.</text>
+  <rect x="592" y="255" width="11" height="11" rx="2.5" fill="#e8a33d"/>
+  <text x="611" y="266" class="lab" font-size="12.5" fill="#14110f">SUMMER &#183; June to August</text>
+  <text x="592" y="284" class="bd" font-size="11" fill="#5b6b70">20.4 to 23.1&#176;C &#183; up to 190 sun hours</text>
+  <text x="592" y="304" class="sub" font-size="11.5" fill="#433d38">Warmest, sunniest, busiest. The sun sets</text>
+  <text x="592" y="319" class="sub" font-size="11.5" fill="#433d38">around 9:24pm on 21 June, so an evening</text>
+  <text x="592" y="334" class="sub" font-size="11.5" fill="#433d38">punt still gets hours of soft light after</text>
+  <text x="592" y="349" class="sub" font-size="11.5" fill="#433d38">the day crowds have gone home.</text>
+  <rect x="592" y="371" width="11" height="11" rx="2.5" fill="#a9761f"/>
+  <text x="611" y="382" class="lab" font-size="12.5" fill="#14110f">AUTUMN &#183; September to November</text>
+  <text x="592" y="400" class="bd" font-size="11" fill="#5b6b70">10.7 to 19.6&#176;C &#183; October is the wettest month</text>
+  <text x="592" y="420" class="sub" font-size="11.5" fill="#433d38">September still reaches 19.6&#176;C, warmer</text>
+  <text x="592" y="435" class="sub" font-size="11.5" fill="#433d38">than May. Colour comes to the Backs and</text>
+  <text x="592" y="450" class="sub" font-size="11.5" fill="#433d38">the summer visitors leave. Our guides&#8217;</text>
+  <text x="592" y="465" class="sub" font-size="11.5" fill="#433d38">quiet favourite of the year.</text>
+  <rect x="592" y="487" width="11" height="11" rx="2.5" fill="#bfe0e6"/>
+  <text x="611" y="498" class="lab" font-size="12.5" fill="#14110f">WINTER &#183; December to February</text>
+  <text x="592" y="516" class="bd" font-size="11" fill="#5b6b70">7.7 to 8.3&#176;C &#183; only 54 to 78 sun hours</text>
+  <text x="592" y="536" class="sub" font-size="11.5" fill="#433d38">Above freezing on average, but dark by</text>
+  <text x="592" y="551" class="sub" font-size="11.5" fill="#433d38">mid-afternoon: about 7h 42m of daylight</text>
+  <text x="592" y="566" class="sub" font-size="11.5" fill="#433d38">on 21 December. Punts run every day</text>
+  <text x="592" y="581" class="sub" font-size="11.5" fill="#433d38">except Christmas Day. Bring a blanket.</text>
+
+  <text x="592" y="608" class="sub" font-size="10.5" fill="#5b6b70">Temperature and sunshine: Met Office averages.</text>
+  <text x="592" y="622" class="sub" font-size="10.5" fill="#5b6b70">Crowd notes: our guides&#8217; own observation.</text>
+
+  <rect x="40" y="638" width="820" height="54" rx="12" fill="#14110f"/>
+  <text x="60" y="663" class="bd" font-size="13.5" fill="#ffffff">Warmest July 23.1&#176;C &#183; coldest January 7.7&#176;C &#183; driest March &#183; wettest October</text>
+  <text x="60" y="682" class="sub" font-size="12" fill="#ece4d8">September is warmer than May. Punting runs year round, every day except Christmas Day.</text>
+</svg>

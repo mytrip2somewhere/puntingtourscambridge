@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 516" role="img" aria-label="Five pillars of what Cambridge, England is known for, all standing on the River Cam. Pillar one, the university: founded 1209, second-oldest in the English-speaking world, 31 colleges and 126 Nobel Prizes. Pillar two, King's College Chapel: Henry VI laid the first stone in 1446, it was finished in 1515, and it holds the world's largest fan vault. Pillar three, highlighted in gold, the Backs and punting: the River Cam runs behind King's, Clare, Trinity and St John's, and a chauffeured punt covers it in 45 to 50 minutes. Pillar four, the Fitzwilliam Museum: founded 1816, free entry, Egyptian antiquities through to modern art. Pillar five, Silicon Fen: the Cambridge technology and life-science cluster, home to ARM and AstraZeneca. Footer: Cambridge is 49 minutes from London King's Cross on the fastest direct train, and the colleges, the chapel and the river all sit within a 20 to 30 minute walk of the station.">
+  <defs>
+    <style>
+      .t{font-family:Futura,'Trebuchet MS','Segoe UI',sans-serif;font-weight:800}
+      .lab{font-family:Futura,'Trebuchet MS','Segoe UI',sans-serif;font-weight:700;letter-spacing:0.6}
+      .sub{font-family:ui-sans-serif,system-ui,Arial,sans-serif}
+      .bd{font-family:ui-sans-serif,system-ui,Arial,sans-serif;font-weight:700}
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="900" height="516" rx="16" fill="#f7f4ef"/>
+  <text x="40" y="46" class="t" font-size="24" fill="#14110f">What Cambridge is actually known for</text>
+  <text x="40" y="70" class="sub" font-size="13.5" fill="#433d38">Five pillars, and the river every one of them stands on</text>
+
+  <!-- ============ PILLAR 1 : THE UNIVERSITY ============ -->
+  <rect x="40" y="110" width="152" height="28" rx="6" fill="#2f6f57"/>
+  <text x="116" y="129" text-anchor="middle" class="lab" font-size="11" fill="#f7f4ef">THE UNIVERSITY</text>
+  <rect x="46" y="138" width="140" height="218" fill="#ffffff" stroke="#e2dcd2" stroke-width="1.5"/>
+  <text x="116" y="192" text-anchor="middle" class="t" font-size="34" fill="#214f3e">1209</text>
+  <text x="116" y="210" text-anchor="middle" class="sub" font-size="10" fill="#5b6b70">founded</text>
+  <line x1="66" y1="224" x2="166" y2="224" stroke="#e2dcd2" stroke-width="1.5"/>
+  <text x="116" y="248" text-anchor="middle" class="sub" font-size="10.5" fill="#433d38">Second-oldest in the</text>
+  <text x="116" y="262" text-anchor="middle" class="sub" font-size="10.5" fill="#433d38">English-speaking world.</text>
+  <text x="116" y="282" text-anchor="middle" class="bd" font-size="10.5" fill="#214f3e">31 colleges.</text>
+  <text x="116" y="296" text-anchor="middle" class="bd" font-size="10.5" fill="#214f3e">126 Nobel Prizes.</text>
+  <text x="116" y="340" text-anchor="middle" class="sub" font-size="10" fill="#8fa3ab">scholars who left Oxford</text>
+  <rect x="40" y="356" width="152" height="16" rx="4" fill="#214f3e"/>
+
+  <!-- ============ PILLAR 2 : THE CHAPEL ============ -->
+  <rect x="207" y="110" width="152" height="28" rx="6" fill="#2f6f57"/>
+  <text x="283" y="129" text-anchor="middle" class="lab" font-size="11" fill="#f7f4ef">THE CHAPEL</text>
+  <rect x="213" y="138" width="140" height="218" fill="#ffffff" stroke="#e2dcd2" stroke-width="1.5"/>
+  <text x="283" y="192" text-anchor="middle" class="t" font-size="34" fill="#214f3e">1446</text>
+  <text x="283" y="210" text-anchor="middle" class="sub" font-size="10" fill="#5b6b70">first stone laid</text>
+  <line x1="233" y1="224" x2="333" y2="224" stroke="#e2dcd2" stroke-width="1.5"/>
+  <text x="283" y="248" text-anchor="middle" class="sub" font-size="10.5" fill="#433d38">Henry VI laid it himself.</text>
+  <text x="283" y="262" text-anchor="middle" class="sub" font-size="10.5" fill="#433d38">Finished in 1515.</text>
+  <text x="283" y="282" text-anchor="middle" class="bd" font-size="10.5" fill="#214f3e">The world&#8217;s largest</text>
+  <text x="283" y="296" text-anchor="middle" class="bd" font-size="10.5" fill="#214f3e">fan vault.</text>
+  <text x="283" y="340" text-anchor="middle" class="sub" font-size="10" fill="#8fa3ab">King&#8217;s College Chapel</text>
+  <rect x="207" y="356" width="152" height="16" rx="4" fill="#214f3e"/>
+
+  <!-- ============ PILLAR 3 : THE BACKS (highlight) ============ -->
+  <rect x="374" y="110" width="152" height="28" rx="6" fill="#e8a33d"/>
+  <text x="450" y="129" text-anchor="middle" class="lab" font-size="11" fill="#14110f">THE BACKS</text>
+  <rect x="380" y="138" width="140" height="218" fill="#ffffff" stroke="#e8a33d" stroke-width="2"/>
+  <text x="450" y="192" text-anchor="middle" class="t" font-size="26" fill="#a9761f">45-50 min</text>
+  <text x="450" y="210" text-anchor="middle" class="sub" font-size="10" fill="#5b6b70">chauffeured punt</text>
+  <line x1="400" y1="224" x2="500" y2="224" stroke="#f0dcbb" stroke-width="1.5"/>
+  <text x="450" y="248" text-anchor="middle" class="sub" font-size="10.5" fill="#433d38">The Cam runs behind</text>
+  <text x="450" y="262" text-anchor="middle" class="sub" font-size="10.5" fill="#433d38">King&#8217;s, Clare, Trinity</text>
+  <text x="450" y="276" text-anchor="middle" class="sub" font-size="10.5" fill="#433d38">and St John&#8217;s.</text>
+  <text x="450" y="296" text-anchor="middle" class="bd" font-size="10.5" fill="#a9761f">Only the river sees it.</text>
+  <text x="450" y="340" text-anchor="middle" class="sub" font-size="10" fill="#a9761f">you cannot walk to it</text>
+  <rect x="374" y="356" width="152" height="16" rx="4" fill="#a9761f"/>
+
+  <!-- ============ PILLAR 4 : THE FITZWILLIAM ============ -->
+  <rect x="541" y="110" width="152" height="28" rx="6" fill="#2f6f57"/>
+  <text x="617" y="129" text-anchor="middle" class="lab" font-size="11" fill="#f7f4ef">THE FITZWILLIAM</text>
+  <rect x="547" y="138" width="140" height="218" fill="#ffffff" stroke="#e2dcd2" stroke-width="1.5"/>
+  <text x="617" y="192" text-anchor="middle" class="t" font-size="34" fill="#214f3e">1816</text>
+  <text x="617" y="210" text-anchor="middle" class="sub" font-size="10" fill="#5b6b70">founded</text>
+  <line x1="567" y1="224" x2="667" y2="224" stroke="#e2dcd2" stroke-width="1.5"/>
+  <text x="617" y="248" text-anchor="middle" class="sub" font-size="10.5" fill="#433d38">Egyptian antiquities</text>
+  <text x="617" y="262" text-anchor="middle" class="sub" font-size="10.5" fill="#433d38">through to modern art.</text>
+  <text x="617" y="282" text-anchor="middle" class="bd" font-size="10.5" fill="#214f3e">Free entry.</text>
+  <text x="617" y="340" text-anchor="middle" class="sub" font-size="10" fill="#8fa3ab">the university&#8217;s museum</text>
+  <rect x="541" y="356" width="152" height="16" rx="4" fill="#214f3e"/>
+
+  <!-- ============ PILLAR 5 : SILICON FEN ============ -->
+  <rect x="708" y="110" width="152" height="28" rx="6" fill="#2f6f57"/>
+  <text x="784" y="129" text-anchor="middle" class="lab" font-size="11" fill="#f7f4ef">SILICON FEN</text>
+  <rect x="714" y="138" width="140" height="218" fill="#ffffff" stroke="#e2dcd2" stroke-width="1.5"/>
+  <text x="784" y="192" text-anchor="middle" class="t" font-size="34" fill="#214f3e">ARM</text>
+  <text x="784" y="210" text-anchor="middle" class="sub" font-size="10" fill="#5b6b70">and AstraZeneca</text>
+  <line x1="734" y1="224" x2="834" y2="224" stroke="#e2dcd2" stroke-width="1.5"/>
+  <text x="784" y="248" text-anchor="middle" class="sub" font-size="10.5" fill="#433d38">The tech and</text>
+  <text x="784" y="262" text-anchor="middle" class="sub" font-size="10.5" fill="#433d38">life-science cluster</text>
+  <text x="784" y="276" text-anchor="middle" class="sub" font-size="10.5" fill="#433d38">around the city.</text>
+  <text x="784" y="296" text-anchor="middle" class="bd" font-size="10.5" fill="#214f3e">Grew out of the same</text>
+  <text x="784" y="310" text-anchor="middle" class="bd" font-size="10.5" fill="#214f3e">university.</text>
+  <text x="784" y="340" text-anchor="middle" class="sub" font-size="10" fill="#8fa3ab">a working city, not a set</text>
+  <rect x="708" y="356" width="152" height="16" rx="4" fill="#214f3e"/>
+
+  <!-- ============ THE RIVER : everything stands on it ============ -->
+  <rect x="40" y="380" width="820" height="30" rx="15" fill="#bfe0e6"/>
+  <path d="M40,395 Q140,387 240,395 T440,395 T640,395 T860,395" fill="none" stroke="#8fc6d1" stroke-width="2"/>
+  <text x="450" y="399" text-anchor="middle" class="bd" font-size="12.5" fill="#1c5560">THE RIVER CAM &#183; SIX LICENSED PUNTING STATIONS</text>
+
+  <!-- ============ FOOTER ============ -->
+  <rect x="40" y="430" width="820" height="60" rx="12" fill="#14110f"/>
+  <text x="60" y="456" class="bd" font-size="13.5" fill="#ffffff">49 minutes from London King&#8217;s Cross on the fastest direct train</text>
+  <text x="60" y="476" class="sub" font-size="12.5" fill="#ece4d8">The colleges, the chapel and the river all sit within a 20 to 30 minute walk of Cambridge station.</text>
+</svg>

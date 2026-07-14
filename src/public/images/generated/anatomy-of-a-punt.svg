@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-label="Side view diagram of a traditional punt on a river, with its parts labelled. The punt is about 24 feet long and 3 feet wide with sides about 18 inches deep. Both ends are cut square and there is no keel, so the boat draws only a few inches of water even when fully laden. The underside slopes gently at each end, a feature called the swim. Passengers sit in the open middle on treads and seating, and capacity varies by operator. At one end is the till, also called the deck, a strengthened platform about six feet long. A punter stands on the till and pushes a pole against the riverbed, with the open end of the boat facing forward. The pole is about 12 to 16 feet long, weighs about 10 pounds, and is made of spruce wood or aluminium alloy tube. A punt is pushed off the riverbed, not rowed or paddled. In Cambridge punters stand on the till and punt with the open end forward, while in Oxford they stand inside the boat and punt with the till forward, which is why the till end is often called the Cambridge End.">
+  <defs>
+    <style>
+      .t{font-family:Futura,'Trebuchet MS','Segoe UI',sans-serif;font-weight:800}
+      .lab{font-family:Futura,'Trebuchet MS','Segoe UI',sans-serif;font-weight:700}
+      .sub{font-family:ui-sans-serif,system-ui,Arial,sans-serif}
+      .bd{font-family:ui-sans-serif,system-ui,Arial,sans-serif;font-weight:700}
+    </style>
+    <marker id="fwd" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#214f3e"/>
+    </marker>
+    <g id="pax">
+      <circle cx="0" cy="-38" r="7.5" fill="#2f6f57"/>
+      <path d="M-11,-27.5 Q0,-41 11,-27.5 L11,-6 L-11,-6 Z" fill="#2f6f57"/>
+    </g>
+  </defs>
+
+  <rect x="0" y="0" width="900" height="520" rx="16" fill="#f7f4ef"/>
+  <text x="40" y="44" class="t" font-size="24" fill="#14110f">Anatomy of a punt</text>
+  <text x="40" y="68" class="sub" font-size="13.5" fill="#433d38">About 24 ft long and 3 ft wide, sides about 18 in deep, and no keel at all.</text>
+
+  <!-- WATER -->
+  <rect x="28" y="300" width="844" height="96" fill="#bfe0e6"/>
+  <line x1="28" y1="300" x2="872" y2="300" stroke="#8fc4ce" stroke-width="2.5"/>
+  <path d="M60,368 q14,-6 28,0 t28,0" fill="none" stroke="#a5d3dc" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M790,352 q14,-6 28,0 t28,0" fill="none" stroke="#a5d3dc" stroke-width="2.5" stroke-linecap="round"/>
+
+  <!-- RIVERBED -->
+  <rect x="28" y="396" width="844" height="26" fill="#b9ad98"/>
+  <circle cx="520" cy="404" r="3.5" fill="#a2957f"/>
+  <circle cx="566" cy="412" r="2.5" fill="#a2957f"/>
+  <circle cx="626" cy="405" r="3" fill="#a2957f"/>
+  <circle cx="688" cy="413" r="2.5" fill="#a2957f"/>
+  <circle cx="782" cy="404" r="3.5" fill="#a2957f"/>
+  <circle cx="828" cy="413" r="3" fill="#a2957f"/>
+
+  <!-- PASSENGERS (occluded below the gunwale by the hull, drawn next) -->
+  <use href="#pax" x="250" y="292"/>
+  <use href="#pax" x="320" y="292"/>
+  <use href="#pax" x="390" y="292"/>
+  <use href="#pax" x="460" y="292"/>
+
+  <!-- HULL: square ends, flat bottom, a long shallow swim at each end -->
+  <path d="M180,272 L680,272 L680,300 L672,300 Q640,300 600,308 L260,308 Q220,300 188,300 L180,300 Z" fill="#e5c193" stroke="#a9761f" stroke-width="2" stroke-linejoin="round"/>
+  <line x1="180" y1="279" x2="680" y2="279" stroke="#a9761f" stroke-width="1.2" opacity="0.55"/>
+
+  <!-- THE TILL (the deck) -->
+  <rect x="555" y="266" width="125" height="9" rx="2.5" fill="#e8a33d" stroke="#a9761f" stroke-width="1.5"/>
+
+  <!-- THE PUNTER, standing on the till -->
+  <g stroke="#214f3e" stroke-width="5.5" stroke-linecap="round" fill="none">
+    <path d="M615,161 L619,214"/>
+    <path d="M619,214 L610,266"/>
+    <path d="M619,214 L629,266"/>
+    <path d="M615,167 L564,190"/>
+    <path d="M617,196 L600,232"/>
+  </g>
+  <circle cx="615" cy="152" r="9.5" fill="#214f3e"/>
+
+  <!-- THE POLE, planted on the riverbed -->
+  <line x1="556" y1="180" x2="742" y2="400" stroke="#a9761f" stroke-width="5" stroke-linecap="round"/>
+  <rect x="735" y="392" width="14" height="10" rx="2" fill="#5b6b70" transform="rotate(41 742 397)"/>
+  <circle cx="564" cy="190" r="4.5" fill="#14110f"/>
+  <circle cx="600" cy="232" r="4.5" fill="#14110f"/>
+
+  <!-- LEADERS -->
+  <g stroke="#8fa3ab" stroke-width="1.5" fill="none">
+    <path d="M100,160 L178,270"/>
+    <path d="M300,222 L322,243"/>
+    <path d="M544,152 L554,177"/>
+    <path d="M760,254 L682,268"/>
+    <path d="M250,328 L226,307"/>
+    <path d="M430,352 L430,311"/>
+  </g>
+
+  <!-- LABEL: square-cut ends -->
+  <text x="44" y="112" class="lab" font-size="13" fill="#14110f">Square-cut ends</text>
+  <text x="44" y="131" class="sub" font-size="11" fill="#433d38">Both bow and stern are cut square,</text>
+  <text x="44" y="146" class="sub" font-size="11" fill="#433d38">and the boat has no keel.</text>
+
+  <!-- LABEL: the open middle -->
+  <text x="300" y="196" text-anchor="middle" class="lab" font-size="13" fill="#14110f">The open middle</text>
+  <text x="300" y="214" text-anchor="middle" class="sub" font-size="11" fill="#433d38">Treads and seating. How many passengers depends on the operator.</text>
+
+  <!-- LABEL: the pole -->
+  <text x="540" y="112" text-anchor="end" class="lab" font-size="13" fill="#14110f">The pole</text>
+  <text x="540" y="131" text-anchor="end" class="sub" font-size="11" fill="#433d38">About 12 to 16 ft, and about 10 lb.</text>
+  <text x="540" y="146" text-anchor="end" class="sub" font-size="11" fill="#433d38">Spruce wood or aluminium alloy tube.</text>
+
+  <!-- LABEL: the till -->
+  <text x="872" y="196" text-anchor="end" class="lab" font-size="13" fill="#14110f">The till, or the deck</text>
+  <text x="872" y="214" text-anchor="end" class="sub" font-size="11" fill="#433d38">A strengthened deck about 6 ft long.</text>
+  <text x="872" y="230" text-anchor="end" class="bd" font-size="11" fill="#214f3e">In Cambridge you stand here, and punt</text>
+  <text x="872" y="245" text-anchor="end" class="bd" font-size="11" fill="#214f3e">with the open end forward.</text>
+
+  <!-- LABEL: direction of travel -->
+  <line x1="168" y1="340" x2="72" y2="340" stroke="#214f3e" stroke-width="2.5" marker-end="url(#fwd)"/>
+  <text x="120" y="329" text-anchor="middle" class="bd" font-size="11.5" fill="#214f3e">open end forward</text>
+
+  <!-- LABEL: the swim -->
+  <text x="250" y="336" text-anchor="middle" class="sub" font-size="11.5" fill="#2b4a50">the swim, at each end</text>
+
+  <!-- LABEL: flat bottom -->
+  <text x="430" y="360" text-anchor="middle" class="lab" font-size="13" fill="#14110f">Flat bottom, no keel</text>
+  <text x="430" y="378" text-anchor="middle" class="sub" font-size="11.5" fill="#2b4a50">The draw is only a few inches, even fully laden.</text>
+
+  <!-- LABEL: the riverbed -->
+  <text x="48" y="414" class="bd" font-size="12" fill="#3a3226">The riverbed. The pole pushes against this. A punt is not rowed or paddled.</text>
+
+  <!-- FOOTER -->
+  <rect x="40" y="444" width="820" height="60" rx="12" fill="#14110f"/>
+  <text x="60" y="470" class="bd" font-size="13.5" fill="#ffffff">Cambridge style: stand on the till, open end forward</text>
+  <text x="60" y="490" class="sub" font-size="12.5" fill="#ece4d8">In Oxford they stand inside the boat and punt with the till forward. Which is why the till end is often called the Cambridge End.</text>
+</svg>

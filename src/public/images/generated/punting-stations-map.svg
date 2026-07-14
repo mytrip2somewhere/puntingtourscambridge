@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-label="Map of the six licensed Cambridge punting stations along the River Cam, north to south. La Mimosa on Jesus Green sits downstream and does not reach the College Backs. Quayside at Magdalene Bridge, Trinity College, the Mill Pond on Silver Street and Mill Lane all reach the College Backs, a 45 to 50 minute chauffeured run. The Granta mill pond near Sheeps Green heads upriver to Grantchester, roughly 2 to 3 hours each way. Licensed by the Conservators of the River Cam.">
+  <defs>
+    <style>
+      .t{font-family:Futura,'Trebuchet MS','Segoe UI',sans-serif;font-weight:800}
+      .lab{font-family:Futura,'Trebuchet MS','Segoe UI',sans-serif;font-weight:700}
+      .sub{font-family:ui-sans-serif,system-ui,Arial,sans-serif}
+      .bd{font-family:ui-sans-serif,system-ui,Arial,sans-serif;font-weight:700}
+    </style>
+    <marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#214f3e"/>
+    </marker>
+    <marker id="ag" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#a9761f"/>
+    </marker>
+  </defs>
+
+  <rect x="0" y="0" width="900" height="520" rx="16" fill="#f7f4ef"/>
+  <text x="40" y="46" class="t" font-size="24" fill="#14110f">The six licensed Cambridge punting stations</text>
+  <text x="40" y="70" class="sub" font-size="13.5" fill="#433d38">North to south along the River Cam, and what each one actually reaches</text>
+
+  <!-- COLLEGE BACKS band -->
+  <rect x="232" y="96" width="404" height="286" rx="14" fill="#2f6f57" opacity="0.09"/>
+  <rect x="232" y="96" width="404" height="30" rx="10" fill="#2f6f57"/>
+  <text x="434" y="116" text-anchor="middle" class="bd" font-size="12.5" fill="#f7f4ef">THE COLLEGE BACKS &#183; 45&#8211;50 MIN CHAUFFEURED</text>
+
+  <!-- river -->
+  <path d="M40,268 Q160,244 280,262 T520,258 T760,268 T862,254" fill="none" stroke="#bfe0e6" stroke-width="30" stroke-linecap="round"/>
+
+  <!-- downstream arrow (left) -->
+  <line x1="120" y1="330" x2="52" y2="330" stroke="#5b6b70" stroke-width="2.5" marker-end="url(#ar)"/>
+  <text x="126" y="334" class="sub" font-size="12" fill="#5b6b70">downstream (north)</text>
+
+  <!-- upriver arrow (right) -->
+  <line x1="760" y1="330" x2="858" y2="330" stroke="#a9761f" stroke-width="2.5" marker-end="url(#ag)"/>
+  <text x="754" y="334" text-anchor="end" class="bd" font-size="12" fill="#a9761f">upriver to Grantchester</text>
+  <text x="858" y="352" text-anchor="end" class="sub" font-size="11.5" fill="#a9761f">2&#8211;3 hours each way</text>
+
+  <!-- 1. La Mimosa (not the Backs) -->
+  <circle cx="96" cy="258" r="11" fill="#8fa3ab" stroke="#f7f4ef" stroke-width="3"/>
+  <line x1="96" y1="243" x2="96" y2="196" stroke="#8fa3ab" stroke-width="2"/>
+  <text x="96" y="184" text-anchor="middle" class="lab" font-size="13" fill="#14110f">La Mimosa</text>
+  <text x="96" y="168" text-anchor="middle" class="sub" font-size="11" fill="#5b6b70">Jesus Green</text>
+  <text x="96" y="298" text-anchor="middle" class="sub" font-size="11" fill="#5b6b70">not the Backs</text>
+
+  <!-- 2. Quayside -->
+  <circle cx="270" cy="256" r="12" fill="#2f6f57" stroke="#f7f4ef" stroke-width="3"/>
+  <line x1="270" y1="240" x2="270" y2="196" stroke="#214f3e" stroke-width="2"/>
+  <text x="270" y="184" text-anchor="middle" class="lab" font-size="13" fill="#14110f">Quayside</text>
+  <text x="270" y="168" text-anchor="middle" class="sub" font-size="11" fill="#433d38">Magdalene Bridge</text>
+  <text x="270" y="300" text-anchor="middle" class="sub" font-size="11" fill="#214f3e">north end &#183; St John&#8217;s</text>
+
+  <!-- 3. Trinity College -->
+  <circle cx="410" cy="258" r="12" fill="#2f6f57" stroke="#f7f4ef" stroke-width="3"/>
+  <line x1="410" y1="273" x2="410" y2="326" stroke="#214f3e" stroke-width="2"/>
+  <text x="410" y="344" text-anchor="middle" class="lab" font-size="13" fill="#14110f">Trinity College</text>
+  <text x="410" y="360" text-anchor="middle" class="sub" font-size="11" fill="#433d38">self-hire &#183; open to the public</text>
+
+  <!-- 4. The Mill Pond -->
+  <circle cx="545" cy="258" r="12" fill="#2f6f57" stroke="#f7f4ef" stroke-width="3"/>
+  <line x1="545" y1="242" x2="545" y2="196" stroke="#214f3e" stroke-width="2"/>
+  <text x="545" y="184" text-anchor="middle" class="lab" font-size="13" fill="#14110f">The Mill Pond</text>
+  <text x="545" y="168" text-anchor="middle" class="sub" font-size="11" fill="#433d38">Silver Street</text>
+
+  <!-- 5. Mill Lane -->
+  <circle cx="620" cy="260" r="12" fill="#2f6f57" stroke="#f7f4ef" stroke-width="3"/>
+  <line x1="620" y1="275" x2="620" y2="326" stroke="#214f3e" stroke-width="2"/>
+  <text x="620" y="344" text-anchor="middle" class="lab" font-size="13" fill="#14110f">Mill Lane</text>
+  <text x="620" y="360" text-anchor="middle" class="sub" font-size="11" fill="#433d38">south end &#183; also upriver</text>
+
+  <!-- 6. Granta mill pond -->
+  <circle cx="762" cy="266" r="11" fill="#e8a33d" stroke="#f7f4ef" stroke-width="3"/>
+  <line x1="762" y1="251" x2="762" y2="206" stroke="#a9761f" stroke-width="2"/>
+  <text x="762" y="194" text-anchor="middle" class="lab" font-size="13" fill="#14110f">The Granta mill pond</text>
+  <text x="762" y="178" text-anchor="middle" class="sub" font-size="11" fill="#433d38">near Sheeps Green</text>
+
+  <!-- legend -->
+  <circle cx="52" cy="404" r="7" fill="#2f6f57"/>
+  <text x="66" y="409" class="sub" font-size="12" fill="#433d38">Reaches the College Backs</text>
+  <circle cx="262" cy="404" r="7" fill="#e8a33d"/>
+  <text x="276" y="409" class="sub" font-size="12" fill="#433d38">Upriver to Grantchester</text>
+  <circle cx="470" cy="404" r="7" fill="#8fa3ab"/>
+  <text x="484" y="409" class="sub" font-size="12" fill="#433d38">Downstream, not the Backs</text>
+
+  <!-- footer -->
+  <rect x="40" y="432" width="820" height="58" rx="12" fill="#14110f"/>
+  <text x="60" y="457" class="bd" font-size="13.5" fill="#ffffff">Licensed by the Conservators of the River Cam</text>
+  <text x="60" y="477" class="sub" font-size="12.5" fill="#ece4d8">Punts sold on King&#8217;s Parade or Market Square are not licensed. Buy at a station or an official listing.</text>
+</svg>

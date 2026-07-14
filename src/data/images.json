@@ -51,6 +51,22 @@
     "backs_hero": {
       "src": "/images/uploaded/college-backs-hero.jpg",
       "alt": "King's College Chapel seen from a punt on the River Cam"
+    },
+    "stations_hero": {
+      "src": "/images/uploaded/punting-stations-hero.jpg",
+      "alt": "Punts moored at a licensed Cambridge punting station beside the River Cam"
+    },
+    "cambridge_hero": {
+      "src": "/images/uploaded/cambridge-city-hero.jpg",
+      "alt": "King's College Chapel and the Cambridge skyline above the River Cam"
+    },
+    "what_is_punting_hero": {
+      "src": "/images/uploaded/what-is-punting-hero.jpg",
+      "alt": "A chauffeur poling a flat-bottomed punt along the River Cam in Cambridge"
+    },
+    "best_time_hero": {
+      "src": "/images/uploaded/best-time-cambridge-hero.jpg",
+      "alt": "Punts on the River Cam past the Cambridge College Backs in summer light"
     }
   },
   "author": {

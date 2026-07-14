@@ -122,6 +122,34 @@ collections:
                 fields:
                   - { name: src, label: "Photo", widget: image }
                   - { name: alt, label: "Alt text (include a keyword)", widget: string, required: true }
+              - name: stations_hero
+                label: "Where to punt guide — hero banner (16:9)"
+                widget: object
+                hint: "Top banner on the punting stations guide. Best shot: punts moored at a station (Quayside or Mill Pond). Page: /guides/where-to-punt-cambridge/"
+                fields:
+                  - { name: src, label: "Photo", widget: image }
+                  - { name: alt, label: "Alt text (include a keyword)", widget: string, required: true }
+              - name: cambridge_hero
+                label: "Is Cambridge worth visiting — hero banner (16:9)"
+                widget: object
+                hint: "Top banner on the Cambridge city guide. Best shot: King's College Chapel or the Cambridge skyline. Page: /guides/is-cambridge-worth-visiting/"
+                fields:
+                  - { name: src, label: "Photo", widget: image }
+                  - { name: alt, label: "Alt text (include a keyword)", widget: string, required: true }
+              - name: what_is_punting_hero
+                label: "What is punting — hero banner (16:9)"
+                widget: object
+                hint: "Top banner on the what-is-punting guide. Best shot: a chauffeur poling a punt, showing the pole. Page: /guides/what-is-punting/"
+                fields:
+                  - { name: src, label: "Photo", widget: image }
+                  - { name: alt, label: "Alt text (include a keyword)", widget: string, required: true }
+              - name: best_time_hero
+                label: "Best time to visit Cambridge — hero banner (16:9)"
+                widget: object
+                hint: "Top banner on the best-time-to-visit guide. Best shot: the Backs in strong seasonal light. Page: /guides/best-time-to-visit-cambridge/"
+                fields:
+                  - { name: src, label: "Photo", widget: image }
+                  - { name: alt, label: "Alt text (include a keyword)", widget: string, required: true }
           - name: author
             label: "👤 Author (Jordan)"
             widget: object
