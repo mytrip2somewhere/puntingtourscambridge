@@ -55,6 +55,15 @@
 
   {{ include "components/footer.html" }}
 
+  <!-- Sticky conversion bar (Phase 9 CRO): thin fixed overlay, reveals after first screen,
+       zero CLS, one button to the flagship tour's official listing. Compact real proof. -->
+  <div class="sticky-cta" id="stickyCta" role="region" aria-label="Book a Cambridge punting tour">
+    <div class="sticky-inner">
+      <span class="sticky-proof"><span class="stars" role="img" aria-label="Rated 4.7 out of 5"><span class="stars-fill" style="width:94%"></span></span> <strong>4.7</strong> · 1,521 reviews · free cancellation</span>
+      <a class="btn btn-primary" href="https://www.getyourguide.com/cambridge-england-l439/cambridge-shared-punting-tour-t137081/?partner_id=MME1WGW&utm_medium=online_publisher" rel="sponsored noopener" target="_blank">Book a Punting Tour &rarr;</a>
+    </div>
+  </div>
+
   <script>
     /* mobile menu toggle - minimal, no dependency (Phase 5 zero-heavy-JS) */
     (function () {
@@ -79,9 +88,29 @@
         c.addEventListener('click', function () {
           if (!d.value) { d.focus(); return; }
           b.href = base + (base.indexOf('?') > -1 ? '&' : '?') + 'date=' + d.value;
-          b.textContent = 'Available on ' + fmt(d.value) + ' — check the price →';
+          b.textContent = 'Available on ' + fmt(d.value) + ': check the price →';
           b.hidden = false; c.hidden = true;
           if (msg) msg.hidden = false;
+        });
+      });
+    })();
+    /* Sticky CTA reveal after the first screen (no CLS: it is a fixed overlay). */
+    (function () {
+      var sc = document.getElementById('stickyCta');
+      if (!sc) return;
+      var on = function () { sc.classList.toggle('visible', window.scrollY > 600); };
+      window.addEventListener('scroll', on, { passive: true }); on();
+    })();
+    /* GA4 outbound affiliate-click tracking (the KPI). Delegated listener so it covers
+       every current and future GYG/Viator link, including the sticky bar. */
+    (function () {
+      document.addEventListener('click', function (e) {
+        var a = e.target.closest && e.target.closest('a[href*="getyourguide.com"], a[href*="viator.com"]');
+        if (!a || typeof window.gtag !== 'function') return;
+        window.gtag('event', 'affiliate_click', {
+          link_url: a.href,
+          page_path: location.pathname,
+          link_text: (a.textContent || '').trim().slice(0, 80)
         });
       });
     })();
