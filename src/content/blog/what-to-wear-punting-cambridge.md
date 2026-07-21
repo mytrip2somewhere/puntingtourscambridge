@@ -2,8 +2,8 @@
 title: "What to Wear Punting in Cambridge (Every Season)"
 date: "2026-06-26"
 description: "What to wear and bring punting in Cambridge: dressing for the season and weather on the River Cam, sun, rain, and what to leave at home."
-hero: "/images/uploaded/blog/what-to-wear-punting-hero.jpg"
-hero_alt: "Visitors dressed for a sunny day in a punt on the River Cam"
+hero: "/images/uploaded/blog/what-to-wear-punting-cambridge-hero.avif"
+hero_alt: "Passengers under parasols on a shared punt on the River Cam, Cambridge"
 related_tour: "cambridge-shared-punting-tour"
 related_tour_label: "Cambridge Shared Punting Tour"
 related_tour_blurb: "Dressed and ready? The shared chauffeured tour is the easy way onto the water."
@@ -16,13 +16,17 @@ People overthink this one. They picture a delicate British boating outfit and a 
 
 **Dress for sitting still outdoors for an hour, not for a walk. Wear layers you can peel off, bring something warmer than the air feels because the water keeps it cool, and add a hat and sunglasses in summer for the glare off the river. Flat, grippy shoes beat anything with a heel, and a light waterproof in your bag covers the rain that turns up without much warning.**
 
+<img src="/images/uploaded/blog/what-to-wear-punting-cambridge-s1.avif" alt="A group enjoying a shared chauffeured punt on the River Cam, Cambridge" width="1080" height="810" loading="lazy">
+
 The thing people miss is that a punt is a still, low seat over moving water. You are not generating heat by walking, the river sits a few degrees below the air, and the breeze tracks straight down the channel. So even a warm Cambridge afternoon feels a notch cooler once you settle in. That is the single rule everything else hangs off: dress one layer warmer than the forecast suggests, and make that layer easy to take off when the sun comes out.
 
-![A pair of flat grippy shoes resting in a punt on the River Cam](/images/uploaded/blog/punting-shoes.jpg)
+![Passengers relaxed in a shared punt on the River Cam, dressed for a summer day in Cambridge](/images/uploaded/blog/what-to-wear-punting-cambridge-inline.avif)
 
 ## How should you dress for each season?
 
 **Spring and autumn want layers and a light waterproof. Summer wants sun cover and breathable clothes. Winter wants a proper coat, gloves, and a blanket, plus the acceptance that it will be short and bracing but quiet and beautiful.**
+
+<img src="/images/uploaded/blog/what-to-wear-punting-cambridge-s2.avif" alt="A chauffeur poling a shared punt on the River Cam, Cambridge" width="1080" height="810" loading="lazy">
 
 Cambridge sits in one of the drier, milder corners of England, but "milder" is relative and the [River Cam](https://en.wikipedia.org/wiki/River_Cam) doesn't care about the calendar. Here is how I tell people to dress across the year, with real local figures rather than guesses.
 
@@ -55,17 +59,23 @@ May is a good worked example. The Met Office station just outside the city recor
 
 **On a sunny day the river doubles the light, so cover up more than you would on a normal walk. A hat, sunglasses, and sunscreen are the summer essentials, and I'd put sunglasses near the top because the glare off the Cam is relentless even when the air is mild.**
 
+<img src="/images/uploaded/blog/what-to-wear-punting-cambridge-s3.avif" alt="A wooden punt on a leafy, willow-lined stretch of the River Cam, Cambridge" width="1080" height="810" loading="lazy">
+
 This catches first-timers out every summer. You sit low, the water reflects the sky straight up at you, and there is little shade along most of the [Backs](/guides/cambridge-college-backs/). People who'd happily wander town bare-headed end up squinting for an hour and pink across the nose by the end. A brimmed hat that won't blow off, polarised sunglasses if you have them, and sunscreen on the bits you forget, the tops of your ears, the back of your neck, are the small things that make a sunny trip comfortable rather than something you endure.
 
 ## What should you wear when it rains?
 
 **A light packable waterproof and grippy flat shoes handle Cambridge drizzle without drama, and most chauffeured trips run in light rain anyway. Skip the umbrella, since it is awkward in a moving punt, and keep your phone and anything precious zipped away.**
 
+<img src="/images/uploaded/blog/what-to-wear-punting-cambridge-s4.avif" alt="A chauffeur poling a punt with passengers on the River Cam, Cambridge" width="1080" height="810" loading="lazy">
+
 Rain here is usually the soft, passing kind rather than a downpour, and a punt under a grey sky has a quiet charm of its own. A hooded waterproof beats an umbrella every time on the water, because an umbrella fights the breeze and gets in the chauffeur's way. If the forecast looks properly wet, read [punting in the rain](/blog/punting-cambridge-in-the-rain/) before you decide, but a light shower is no reason to cancel. [Visit Cambridge](https://www.visitcambridge.org/place-categories/punting/) lists operators that run across the seasons, and the chauffeured trips are the most rain-tolerant of the lot.
 
 ## What should you bring, and what should you leave behind?
 
 **Bring water, sun cover, a light rain layer, and a phone in a secure pocket for photos. Leave the heels, the loose hat that blows off, and anything you would be heartbroken to drop in the river, because things do go over the side.**
+
+<img src="/images/uploaded/blog/what-to-wear-punting-cambridge-s5.avif" alt="A chauffeur poling a punt along a leafy stretch of the River Cam, Cambridge" width="1080" height="810" loading="lazy">
 
 Travel light. You are sitting in a shallow boat, so the river is one careless movement away from your phone or your sunglasses. I have fished more than a few pairs out of the shallows over the years, and the ones that sank are still down there. Pack what you'll use and zip the rest away.
 
@@ -83,6 +93,8 @@ For a self-poled trip you'll want to think a little harder about footwear and ba
 
 **The two days call for almost opposite priorities. A sunny trip is about cutting glare and heat; a wet one is about staying dry and keeping your footing. Pack for the day you're actually getting rather than the season in the abstract.**
 
+<img src="/images/uploaded/blog/what-to-wear-punting-cambridge-s6.avif" alt="A punt with passengers on the River Cam, Cambridge" width="1080" height="810" loading="lazy">
+
 | Sunny day | Rainy day |
 |---|---|
 | Brimmed hat and sunglasses | Hooded waterproof jacket |
@@ -95,3 +107,5 @@ Cambridge weather can hand you both in an afternoon, so the honest answer is to 
 ## So what does it come down to?
 
 You don't need a special outfit to punt the Cam. Dress one layer warmer than the air feels, add sun cover in summer and a waterproof when the sky looks uncertain, wear flat grippy shoes, and leave the precious stuff zipped away. Do that and the only thing left to think about is the view. If it's your first time on the water, the [first-timer's guide](/blog/what-to-expect-first-time-punting-cambridge/) walks you through the rest of the day, and when you're ready the [Cambridge Shared Punting Tour](/tours/cambridge-shared-punting-tour/) is the easy way on. You can <a href="https://www.getyourguide.com/cambridge-england-l439/cambridge-shared-punting-tour-t137081/?partner_id=MME1WGW&utm_medium=online_publisher" rel="sponsored noopener" target="_blank">check live availability and prices</a> on the operator's official GetYourGuide listing.
+
+<img src="/images/uploaded/blog/what-to-wear-punting-cambridge-s7.avif" alt="A peaceful willow-lined stretch of the River Cam, Cambridge" width="1080" height="810" loading="lazy">

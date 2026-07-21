@@ -2,8 +2,8 @@
 title: "Cambridge vs Oxford Punting: Which Is Better?"
 date: "2026-06-26"
 description: "Cambridge vs Oxford punting compared: the rivers, the scenery, the famous which-end-you-punt-from difference, prices, and which is better for visitors."
-hero: "/images/uploaded/blog/cambridge-vs-oxford-hero.jpg"
-hero_alt: "A punt on the River Cam beside the Cambridge College Backs"
+hero: "/images/uploaded/blog/cambridge-vs-oxford-punting-hero.avif"
+hero_alt: "The Mathematical Bridge at Queens' College over the River Cam, Cambridge"
 related_tour: "cambridge-shared-punting-tour"
 related_tour_label: "Cambridge Shared Punting Tour"
 related_tour_blurb: "Coming to Cambridge? The shared chauffeured tour is the classic Backs experience."
@@ -16,6 +16,8 @@ People plan a day in one city and end up asking me about the other. "Is Oxford p
 
 **Both are genuinely lovely, so you will not waste an afternoon either way. Cambridge gives you the more famous, college-packed view, the [College Backs](/guides/cambridge-college-backs/), where you drift right past King's, Trinity and St John's. Oxford's River Cherwell is quieter and more rural, with meadows rather than facades. And the classic difference everyone trots out is which END of the boat you punt from.**
 
+<img src="/images/uploaded/blog/cambridge-vs-oxford-punting-s1.avif" alt="A punt being poled under a stone bridge on the Cambridge College Backs" width="1080" height="810" loading="lazy">
+
 If you want the postcard, the one people picture when they hear the word punting, that is Cambridge. The river here threads behind the grandest colleges in a way no other stretch of water does. Oxford trades that for calm, green, semi-wild banks that feel further from a city than they are.
 
 Neither is "wrong." I have punted both and enjoyed both. The honest framing is that Cambridge is the iconic architectural experience and Oxford is the gentle countryside one, and the right pick depends on what you actually want from the hour on the water. If you are weighing routes and operators, our [tours page](/tours/) lays the Cambridge options out, and the [compare page](/compare/) sets them side by side.
@@ -23,6 +25,8 @@ Neither is "wrong." I have punted both and enjoyed both. The honest framing is t
 ## What is the difference between the rivers?
 
 **Cambridge punts run on the [River Cam](https://en.wikipedia.org/wiki/River_Cam), which curves directly behind the central colleges along the Backs. Oxford punts run mainly on the River Cherwell, a narrower, leafier stream that winds through meadows and parkland. The Cam is the architectural river; the Cherwell is the rural one.**
+
+<img src="/images/uploaded/blog/cambridge-vs-oxford-punting-s2.avif" alt="Punts on the River Cam past the Cambridge College Backs in summer" width="1080" height="810" loading="lazy">
 
 The Cam's central stretch is short and dense. In well under an hour you pass a remarkable run of colleges and historic bridges, with almost no dull water in between. That concentration is the whole appeal. There is rarely a moment where you are just floating past nothing.
 
@@ -39,6 +43,8 @@ The Cherwell is a different feel altogether. It is greener, wilder in places, an
 
 **The Backs is the stretch of the Cam running behind King's, Clare, Trinity and St John's, with open lawns sweeping down to the water and a string of historic bridges crossing it. It is the single most famous punting view in either city, and Oxford has nothing that lines up quite like it.**
 
+<img src="/images/uploaded/blog/cambridge-vs-oxford-punting-s3.avif" alt="Punts gliding under a stone bridge on the Cambridge College Backs" width="1080" height="810" loading="lazy">
+
 This is where Cambridge pulls ahead for most first-time visitors. A typical 45-minute guided Cambridge tour passes seven colleges and nine bridges along the Backs, all in one continuous, photogenic run. You see the back of King's College Chapel, the Bridge of Sighs at St John's, and the Mathematical Bridge at Queens', and a good chauffeur ties the history to each as you pass.
 
 Oxford's colleges are magnificent too, but the Cherwell does not glide past their fronts the way the Cam glides past the Backs. The river and the architecture are slightly separate things there. That single geographic fact is why Cambridge tends to win the "which is more iconic" question, and it feeds into whether the whole thing is [worth it](/blog/is-punting-in-cambridge-worth-it/) for a short visit.
@@ -47,6 +53,8 @@ Oxford's colleges are magnificent too, but the Cherwell does not glide past thei
 
 **In Cambridge you punt from the flat raised platform at one end of the boat, called the till. In Oxford the tradition is to stand at the other, sloped, slatted end. It is the oldest rivalry-flavoured fact in punting, and locals on both sides will happily tell you their way is correct.**
 
+<img src="/images/uploaded/blog/cambridge-vs-oxford-punting-s4.avif" alt="King's College Chapel seen from the River Cam, Cambridge College Backs" width="1080" height="810" loading="lazy">
+
 Practically, it makes little difference to how a chauffeured trip feels, since someone else is doing the work. But if you are self-punting, it matters a bit. Cambridge's flat till gives you a stable, level platform to stand on. Oxford punters stand on the sloped end, which has its own logic and its own defenders.
 
 If you ever plan to pole the boat yourself, this is worth knowing before you start, and I cover the practicalities in our [self-hire tips](/blog/self-hire-punting-cambridge-tips/). For the history of the boat itself and the two styles, the [punt (boat)](https://en.wikipedia.org/wiki/Punting_(boat)) overview is a good read.
@@ -54,6 +62,8 @@ If you ever plan to pole the boat yourself, this is worth knowing before you sta
 ## Which is better for a visitor, and what about price?
 
 **For a first visit built around the postcard view, Cambridge usually wins on scenery and density. Oxford wins if you want calm countryside over crowds. On price the two are broadly similar, with shared chauffeured tours roughly comparable; Cambridge shared tours start from around £25 per person in 2026.**
+
+<img src="/images/uploaded/blog/cambridge-vs-oxford-punting-s5.avif" alt="A Cambridge college beside the River Cam with a punt passing on the Backs" width="1080" height="810" loading="lazy">
 
 Crowds are the real trade-off. The Cam's central stretch is narrow and popular, and in high summer it gets genuinely busy with boats. The Cherwell spreads people out more, so if dodging traffic on the water matters to you, Oxford feels more peaceful. I am not going to pretend the Cam is empty in July; it is not.
 
@@ -88,6 +98,8 @@ That said, "busy" on the Cam is part of the atmosphere, and a good guide picks g
 
 **Both run as short shared chauffeured tours and as self-hire by the hour, and both have a clear peak from late spring through summer. Cambridge's signature trip is a compact run along the Backs of roughly 45 minutes; Oxford trips lean a touch more leisurely given the open river. Prices and shapes are close enough that scenery, not cost, should decide it.**
 
+<img src="/images/uploaded/blog/cambridge-vs-oxford-punting-s6.avif" alt="A honey-stone Cambridge college beside the River Cam with punts" width="1080" height="810" loading="lazy">
+
 The season is much the same in both cities. The water is at its best and busiest from roughly April to September, with high summer the peak for crowds and the shoulder months the sweet spot for space and light. If you are timing a Cambridge trip specifically, I go deeper in [best time of year for punting](/blog/best-time-of-year-punting-cambridge/).
 
 | Practicality | Cambridge | Oxford |
@@ -102,5 +114,7 @@ If Cambridge is your pick, the [shared chauffeured tour](/tours/cambridge-shared
 ## So, Cambridge or Oxford?
 
 **Choose Cambridge for the iconic College Backs and the most famous river view in England; choose Oxford for quiet, rural calm on the Cherwell. Both are worth doing, and if you are visiting Cambridge anyway, the Backs run is the one you came for.**
+
+<img src="/images/uploaded/blog/cambridge-vs-oxford-punting-s7.avif" alt="A Cambridge college and punts on the River Cam, College Backs" width="1080" height="810" loading="lazy">
 
 I am hardly neutral, given where I guide, but I try to be fair: if you only ever do one punt and you want the picture in your head to come true, Cambridge delivers it. If you want green peace over grandeur, Oxford is the gentler choice and no lesser for it. Plan the rest of your day around it with [things to do in Cambridge](/blog/things-to-do-in-cambridge/), and the [compare page](/compare/) helps you match the right tour to your afternoon.

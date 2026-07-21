@@ -1,75 +1,75 @@
 {
   "homepage": {
     "home_hero": {
-      "src": "/images/uploaded/photo from cambridge punting tour (1).jpg",
-      "alt": "A chauffeured punt gliding past King's College Chapel on the River Cam in Cambridge"
-    },
-    "jordan_thumb": {
-      "src": "/images/uploaded/Jordan Harrington - Cambridge-based punting guide.jpg",
-      "alt": "Jordan Harrington, Cambridge punting guide, at the pole of a punt"
+      "src": "/images/uploaded/home_hero.avif",
+      "alt": "Punts gliding along the River Cam past the Cambridge College Backs on a summer day"
     },
     "shared_card": {
-      "src": "/images/uploaded/photo from shared cambridge punting tour with four people group.jpg",
-      "alt": "Shared chauffeured punting tour on the River Cam past the College Backs"
+      "src": "/images/uploaded/shared_card.avif",
+      "alt": "A shared chauffeured punting tour on the River Cam in Cambridge"
     },
     "private_card": {
-      "src": "/images/uploaded/photo from private cambridge punting tour in the autumn season.jpg",
-      "alt": "Private punting tour passing a historic Cambridge college bridge"
+      "src": "/images/uploaded/private_card.avif",
+      "alt": "A private chauffeured punt being poled along the River Cam in Cambridge"
     },
     "student_card": {
-      "src": "/images/uploaded/photo from cambridge punting tour ran by a cambridge student for 4 tourists.jpg",
-      "alt": "Cambridge student guiding a shared punt along the Backs"
+      "src": "/images/uploaded/student_card.avif",
+      "alt": "A student guide poling a punt under a Cambridge college bridge on the River Cam"
     }
   },
   "tours": {
     "tours_hub_hero": {
-      "src": "/images/uploaded/photo from cambridge punting tour (1).jpg",
-      "alt": "Chauffeured punts on the River Cam along the Cambridge College Backs"
+      "src": "/images/uploaded/tours_hub_hero.avif",
+      "alt": "Chauffeured punts on the River Cam beside a Cambridge college on the College Backs"
     },
     "shared_hero": {
-      "src": "/images/uploaded/photo from cambridge punting tour (1).jpg",
-      "alt": "A shared chauffeured punt on the River Cam passing the College Backs in Cambridge"
+      "src": "/images/uploaded/shared_hero.avif",
+      "alt": "A shared Cambridge punting tour gliding along the River Cam under the colleges"
     },
     "private_hero": {
-      "src": "/images/uploaded/photo from private cambridge punting tour in the autumn season.jpg",
-      "alt": "A private punt gliding under a historic Cambridge college bridge"
+      "src": "/images/uploaded/private_hero.avif",
+      "alt": "A private punt on the River Cam passing a historic Cambridge college and bridge"
     },
     "student_hero": {
-      "src": "/images/uploaded/photo from cambridge punting tour ran by a cambridge student for 4 tourists.jpg",
-      "alt": "A Cambridge student chauffeuring a shared punt along the River Cam"
+      "src": "/images/uploaded/student_hero.avif",
+      "alt": "A student guide punting past a stone bridge on the Cambridge College Backs"
     }
   },
   "guides": {
     "guides_hub_hero": {
-      "src": "/images/uploaded/guides-hero.jpg",
-      "alt": "A punt on the River Cam beside the Cambridge College Backs"
+      "src": "/images/uploaded/guides_hub_hero.avif",
+      "alt": "Punts passing under a stone bridge on the River Cam, Cambridge College Backs"
     },
     "prices_hero": {
-      "src": "/images/uploaded/punting-prices-hero.jpg",
-      "alt": "Punts lined up at a Cambridge punting station on the River Cam"
+      "src": "/images/uploaded/prices_hero.avif",
+      "alt": "Wooden punts moored at a Cambridge punting station on the River Cam"
     },
     "backs_hero": {
-      "src": "/images/uploaded/college-backs-hero.jpg",
-      "alt": "King's College Chapel seen from a punt on the River Cam"
+      "src": "/images/uploaded/backs_hero.avif",
+      "alt": "King's College Chapel seen from the River Cam on the Cambridge College Backs"
     },
     "stations_hero": {
-      "src": "/images/uploaded/punting-stations-hero.jpg",
-      "alt": "Punts moored at a licensed Cambridge punting station beside the River Cam"
+      "src": "/images/uploaded/stations_hero.avif",
+      "alt": "Punts at a licensed punting station on the River Cam in central Cambridge"
     },
     "cambridge_hero": {
-      "src": "/images/uploaded/cambridge-city-hero.jpg",
-      "alt": "King's College Chapel and the Cambridge skyline above the River Cam"
+      "src": "/images/uploaded/cambridge_hero.avif",
+      "alt": "King's College Chapel and the River Cam in Cambridge, seen while punting"
     },
     "what_is_punting_hero": {
-      "src": "/images/uploaded/what-is-punting-hero.jpg",
-      "alt": "A chauffeur poling a flat-bottomed punt along the River Cam in Cambridge"
+      "src": "/images/uploaded/what_is_punting_hero.avif",
+      "alt": "A chauffeur poling a flat-bottomed punt with the long pole on the River Cam, Cambridge"
     },
     "best_time_hero": {
-      "src": "/images/uploaded/best-time-cambridge-hero.jpg",
-      "alt": "Punts on the River Cam past the Cambridge College Backs in summer light"
+      "src": "/images/uploaded/best_time_hero.avif",
+      "alt": "Punts on the River Cam past the Cambridge College Backs on a bright summer day"
     }
   },
   "author": {
+    "jordan_thumb": {
+      "src": "/images/uploaded/Jordan Harrington - Cambridge-based punting guide.jpg",
+      "alt": "Jordan Harrington, Cambridge punting guide, at the pole of a punt"
+    },
     "jordan_portrait": {
       "src": "/images/uploaded/Jordan Harrington - Cambridge-based punting guide.jpg",
       "alt": "Portrait of Jordan Harrington, Cambridge punting guide"

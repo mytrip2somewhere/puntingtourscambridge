@@ -2,8 +2,8 @@
 title: "The History of Punting in Cambridge"
 date: "2026-06-26"
 description: "How punting came to the River Cam in Cambridge: the origins of pleasure punting in the early 1900s, the flat-bottomed punt design, and how it became a Cambridge icon."
-hero: "/images/uploaded/blog/punting-history-hero.jpg"
-hero_alt: "A traditional wooden punt on the River Cam in Cambridge"
+hero: "/images/uploaded/blog/history-of-punting-cambridge-hero.avif"
+hero_alt: "The wooden bow of a punt with colleges behind on the River Cam, Cambridge"
 related_tour: "cambridge-shared-punting-tour"
 related_tour_label: "Cambridge Shared Punting Tour"
 related_tour_blurb: "See the history for yourself on a chauffeured tour of the College Backs."
@@ -15,6 +15,8 @@ People assume punting has always been part of Cambridge, that students have pole
 ## When did punting in Cambridge actually begin?
 
 **Pleasure punting on the River Cam started around 1900, at the very start of the twentieth century, not centuries earlier. Traditional Thames-style pleasure punts arrived in Cambridge roughly between 1902 and 1904, and the first punting company, Scudamore's, was founded in 1910 at the Mill Pond. Maurice Jack Scudamore is recorded building his first punt in a Chesterton boatyard in 1903.**
+
+<img src="/images/uploaded/blog/history-of-punting-cambridge-s1.avif" alt="Close view of a wooden punt on the River Cam, Cambridge" width="1080" height="810" loading="lazy">
 
 So the tradition that feels ancient is comfortably within living memory of the buildings around it. King's College Chapel was finished in 1515. The punts drifting beneath it are an Edwardian arrival, almost four hundred years younger than the stone they show off.
 
@@ -52,6 +54,8 @@ The punt itself is older than its Cambridge leisure use. As a working flat-botto
 
 **A punt is a flat-bottomed wooden boat with square ends, no keel and no curved hull, designed for shallow, slow-moving rivers. You do not row it. You stand at one end and push it along by planting a long pole on the riverbed, then steering with that same pole as it trails behind you like a rudder.**
 
+<img src="/images/uploaded/blog/history-of-punting-cambridge-s2.avif" alt="Wooden punts moored by a boathouse on the River Cam, Cambridge" width="1080" height="810" loading="lazy">
+
 The flat bottom is the whole point. A keeled rowing boat would scrape and stick in the shallow, weedy stretches of the Cam. The punt sits on top of the water rather than cutting into it, which is why it can glide over a riverbed that is sometimes only a few feet down. That same flatness is why it feels so stable once you stop expecting it to behave like a canoe.
 
 Poling looks effortless when a good chauffeur does it and faintly chaotic when a first-timer tries. You drop the pole, let it hit the bottom, push, then recover the pole hand over hand before the next stroke. Steering happens on the recovery, by dragging the pole through the water at an angle. Get the rhythm and the punt tracks straight. Miss it and you spin gently into the bank, which is most people's first ten minutes on a [self-hire boat](/blog/self-hire-punting-cambridge-tips/).
@@ -71,9 +75,11 @@ If you want the full picture of the boat and how the [River Cam](https://en.wiki
 
 **Once Scudamore's opened in 1910 and pleasure punts caught on with students and visitors, punting spread along the stretch of river behind the colleges and never left. The route past the great college lawns gave it a setting nothing else in England could match, and within a couple of generations a boat that arrived as a novelty had become the thing people most associate with a Cambridge summer.**
 
+<img src="/images/uploaded/blog/history-of-punting-cambridge-s3.avif" alt="A moored wooden punt on a green, tree-lined reach of the River Cam" width="1080" height="810" loading="lazy">
+
 The setting did most of the work. The boats happened to launch right beside [The Backs](https://en.wikipedia.org/wiki/The_Backs), the run of college grounds where the lawns of King's, Clare and Trinity slope down to the water. From a punt you see those colleges from behind, the side most visitors never reach on foot, drifting under bridges that people otherwise only cross. That angle is exactly what makes [the College Backs](/guides/cambridge-college-backs/) the heart of every tour today.
 
-![A punt being poled along the College Backs in Cambridge](/images/uploaded/blog/punting-history-backs.jpg)
+![A punt approaching a historic stone bridge on the River Cam, Cambridge College Backs](/images/uploaded/blog/history-of-punting-cambridge-inline.avif)
 
 What started as a few hired boats grew into a working trade, and the trade kept the old shape of the thing. The punts are still wooden, still flat-bottomed, still poled by hand. The Mill Pond where Scudamore's began is still one of the main launch points. A visitor in 1910 and a visitor in 2026 would recognise each other's afternoon, which is rare for anything in tourism.
 
@@ -91,5 +97,7 @@ The honest verdict, which I cover in full in [is punting in Cambridge worth it](
 ## Where can you see this history for yourself?
 
 **The simplest way is a chauffeured trip along the Backs, where a guide poles the boat the traditional way and tells you the stories as you pass each college.** The [Cambridge Shared Punting Tour](/tours/cambridge-shared-punting-tour/) runs the historic route past King's, Clare and Trinity, and you can <a href="https://www.getyourguide.com/cambridge-england-l439/cambridge-shared-punting-tour-t137081/?partner_id=MME1WGW&utm_medium=online_publisher" rel="sponsored noopener" target="_blank">check live availability and prices</a> on the operator's official GetYourGuide listing.
+
+<img src="/images/uploaded/blog/history-of-punting-cambridge-s4.avif" alt="A historic stone bridge over the River Cam on the Cambridge College Backs" width="1080" height="810" loading="lazy">
 
 If you would rather pole it yourself the way the Edwardians did, self-hire is open to you, though expect the first ten minutes to be humbling. Either way, see the routes and prices side by side on the [comparison page](/compare/), and if you are filling out the rest of the day, [things to do in Cambridge](/blog/things-to-do-in-cambridge/) pairs neatly with an hour on the water.

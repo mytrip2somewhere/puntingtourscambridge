@@ -2,8 +2,8 @@
 title: "Do You Need to Book Punting in Cambridge, or Can You Just Turn Up?"
 date: "2026-06-26"
 description: "Whether to book Cambridge punting ahead or just turn up: how busy it gets, how far ahead to book, walk-up tips, and the licensed punting stations."
-hero: "/images/uploaded/blog/booking-punting-hero.jpg"
-hero_alt: "Punts waiting at a Cambridge punting station on the River Cam"
+hero: "/images/uploaded/blog/do-you-need-to-book-punting-cambridge-hero.avif"
+hero_alt: "A punt setting off from a Cambridge punting station on the River Cam"
 related_tour: "cambridge-shared-punting-tour"
 related_tour_label: "Cambridge Shared Punting Tour"
 related_tour_blurb: "Booking ahead locks in your slot and shows the live price first."
@@ -15,6 +15,8 @@ The question I get asked more than any other, usually by someone already standin
 ## Do you need to book punting in Cambridge?
 
 **Off-peak, no. On a weekday or outside summer you can usually just turn up at a licensed station and step onto a shared punt within a short wait. In summer, and especially on Saturday and Sunday afternoons from May to September, you should book ahead, because that is when the river is at its busiest and walk-up queues are longest.**
+
+<img src="/images/uploaded/blog/do-you-need-to-book-punting-cambridge-s1.avif" alt="Wooden punts moored by a boathouse on the River Cam, Cambridge" width="1080" height="810" loading="lazy">
 
 That is the whole thing in two sentences, but the detail is where it actually helps you. Cambridge punting is not like a theatre with fixed seats that sell out completely. The shared tours run frequently, and operators add boats when demand climbs. What booking buys you in peak season is not so much guaranteed entry as a guaranteed time and a guaranteed price, and it spares you standing in a queue while the punt you wanted fills with someone else's group.
 
@@ -40,6 +42,8 @@ If you already know your dates and want certainty, the simplest move is to reser
 
 **You can almost always turn up on a weekday, on any day in the off-season roughly October through April, and in the mornings before the afternoon rush builds. The walk-up stations sell tickets on the spot, and outside the summer weekend peak the wait is short or none at all.**
 
+<img src="/images/uploaded/blog/do-you-need-to-book-punting-cambridge-s2.avif" alt="Punts and riverside buildings at a Cambridge punting station" width="1080" height="810" loading="lazy">
+
 This is the part people underestimate. For most of the year the river is calm and the stations have spare capacity. A weekday in spring or autumn, or a winter afternoon when the colleges look their starkest and most beautiful, you can wander up to a licensed station, buy a ticket, and be on the water quickly. Mornings are your friend even in summer, because the crowds tend to gather after lunch.
 
 Turning up also gives you a small advantage I think more people should use: you can see the conditions, the queue, and the punt before you commit. If the river is heaving, you can change your mind. If you want a feel for which months are calmest and which are worth the crowds, our guide to the [best time of year for punting in Cambridge](/blog/best-time-of-year-punting-cambridge/) goes month by month.
@@ -57,6 +61,8 @@ Turning up also gives you a small advantage I think more people should use: you 
 
 **If you are travelling in peak summer or want a specific time, book one to two weeks ahead. The data backs this up: Viator bookings average around ten days out and Tripadvisor shared tours average closer to eighteen. Outside the peak, a day or two is plenty, and often the morning of is fine.**
 
+<img src="/images/uploaded/blog/do-you-need-to-book-punting-cambridge-s3.avif" alt="The River Cam with punts and colleges near a punting station, Cambridge" width="1080" height="810" loading="lazy">
+
 There is no need to book months in advance for a standard shared tour. The averages above are not a deadline so much as a comfortable cushion. Booking a week or two ahead in summer means you walk straight to your boat at the time you chose, rather than taking whatever slot is left when you arrive at three on a Saturday. For a private punt or a larger group, give yourself a little more lead time, since those have fewer boats.
 
 **How far ahead to book, by time of year:**
@@ -73,6 +79,8 @@ For what each option actually costs across the stations and operators, our [Camb
 ## Where are the licensed punting stations?
 
 **There are six licensed punting stations in Cambridge, all authorised by the Conservators of the River Cam. They are La Mimosa at Jesus Green, Quayside, Trinity College, Mill Pond at Silver Street, Mill Lane, and Granta at Sheeps Green. Booking from a licensed station matters, because unlicensed touts on the street are a known problem here.**
+
+<img src="/images/uploaded/blog/do-you-need-to-book-punting-cambridge-s4.avif" alt="A chauffeur poling a shared punt on the River Cam, Cambridge" width="1080" height="810" loading="lazy">
 
 Knowing the official six is genuinely useful, because Cambridge has a long-running issue with street sellers who are not licensed and not insured. If someone approaches you away from a station with a deal that sounds too good, that is the thing to be wary of. The licensed stations split into two natural clusters: the central run around the colleges, and the Mill Pond and Granta end down by Silver Street and Sheeps Green, which is the gateway to the quieter Grantchester stretch.
 
@@ -92,6 +100,8 @@ You can confirm the licensing and the council's guidance on [Cambridge City Coun
 ## So which should you do?
 
 **Match it to your trip. If you are here off-peak or on a weekday, turn up and enjoy the freedom of it. If you are visiting on a summer weekend, or you want a particular time without a queue, book a week or two ahead and arrive relaxed.**
+
+<img src="/images/uploaded/blog/do-you-need-to-book-punting-cambridge-s5.avif" alt="A group enjoying a shared chauffeured punt on the River Cam, Cambridge" width="1080" height="810" loading="lazy">
 
 Both approaches are valid; this is not a case where one is right and the other foolish. The mistake I see is the opposite of overcaution: someone counting on a walk-up at half past two on a sweltering August Saturday, then losing an hour they did not have. If your dates fall in that window, take the guesswork out of it. And if you are still deciding whether the trip earns its place at all, our take on whether [punting in Cambridge is worth it](/blog/is-punting-in-cambridge-worth-it/) is the honest one.
 

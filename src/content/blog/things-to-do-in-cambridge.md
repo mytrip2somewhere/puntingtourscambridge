@@ -2,8 +2,8 @@
 title: "Things to Do in Cambridge: A Local Guide for 2026"
 date: "2026-06-26"
 description: "A Cambridge guide's pick of the best things to do: King's College Chapel, the Backs, the Fitzwilliam Museum, the market, and punting the River Cam."
-hero: "/images/uploaded/blog/things-to-do-cambridge-hero.jpg"
-hero_alt: "King's College Chapel and the Backs in Cambridge"
+hero: "/images/uploaded/blog/things-to-do-in-cambridge-hero.avif"
+hero_alt: "A honey-stone Cambridge college beside the River Cam with punts"
 related_tour: "cambridge-shared-punting-tour"
 related_tour_label: "Cambridge Shared Punting Tour"
 related_tour_blurb: "The one thing you cannot do on foot: see the colleges from the river on a punt."
@@ -16,9 +16,11 @@ I have spent the last five years on and around the River Cam, and the question I
 
 **The essentials are King's College Chapel, a walk along the Backs where the colleges meet the river, the free Fitzwilliam Museum, the open-air market in the centre, and the view from Great St Mary's tower. For the one thing you cannot do on foot, take a [punting tour](/tours/) along the Cam. Most visitors cover the highlights comfortably in a day.**
 
+<img src="/images/uploaded/blog/things-to-do-in-cambridge-s1.avif" alt="King's College Chapel seen from the River Cam, Cambridge College Backs" width="1080" height="810" loading="lazy">
+
 Start in the centre, because almost everything radiates from it. King's College Chapel is the building everyone pictures when they think of Cambridge, all soaring stone and fan-vaulted ceiling, and you can see it from the street, from the chapel itself, or from the river. A few minutes away, the market has run in the same square for centuries and is still the best cheap lunch in town. From there it is a short walk to the [Backs](https://en.wikipedia.org/wiki/The_Backs), the strip of grass and willow where the lawns of the old colleges run straight down to the water.
 
-![A punt drifting past the lawns of the Backs in Cambridge](/images/uploaded/blog/cambridge-backs-river.jpg)
+![A stone bridge over the River Cam on the Cambridge College Backs](/images/uploaded/blog/things-to-do-in-cambridge-inline.avif)
 
 The Fitzwilliam Museum is the one I push people toward when the weather turns, partly because it is genuinely world-class and partly because it costs nothing to walk in. For a view over the rooftops, climb the tower of Great St Mary's, the university church facing King's, and you get the whole skyline laid out. That mix, one great building, one museum, one market, one climb, and one stretch of river, is the efficient core of a Cambridge day.
 
@@ -54,6 +56,8 @@ The Fitzwilliam Museum is the one I push people toward when the weather turns, p
 
 **Punting along the Backs is the one experience here you genuinely cannot get any other way. You sit low in a flat wooden boat while a chauffeur poles you past the back of King's, Trinity and Clare, under bridges most people only ever cross on foot, with the stories filled in as you drift. Everything else in Cambridge you admire from the outside. This puts you inside the view.**
 
+<img src="/images/uploaded/blog/things-to-do-in-cambridge-s2.avif" alt="Riverside pubs and buildings along the River Cam, Cambridge" width="1080" height="810" loading="lazy">
+
 You can walk the Backs, and you should, but the path keeps you on the bank looking across. The river gives you the angle the colleges were built to be seen from, the one in every postcard, with the lawns sweeping up to the stone and the willows trailing into the water. From the seat you pass under the [Bridge of Sighs](/guides/cambridge-college-backs/) and the famous wooden Mathematical Bridge, and a good chauffeur will tell you which window was Newton's as you go.
 
 It is not quite turn-up-and-go in peak season. The central stretch gets busy from late morning, and the popular operators fill their slots, so it pays to plan. I went into [whether punting is worth it](/blog/is-punting-in-cambridge-worth-it/) honestly in a separate piece, and you can see the route and current pricing on the [Cambridge Shared Punting Tour](/tours/cambridge-shared-punting-tour/) page or <a href="https://www.getyourguide.com/cambridge-england-l439/cambridge-shared-punting-tour-t137081/?partner_id=MME1WGW&utm_medium=online_publisher" rel="sponsored noopener" target="_blank">check live availability and prices</a> on the operator's official GetYourGuide listing.
@@ -61,6 +65,8 @@ It is not quite turn-up-and-go in peak season. The central stretch gets busy fro
 ## How should you plan your time in Cambridge?
 
 **Half a day covers the core: King's, the market, a stretch of the Backs, and a punt. A full day lets you add the Fitzwilliam, the tower climb, and the Botanic Garden without rushing. The whole centre is walkable, so the limit is your appetite rather than distance.**
+
+<img src="/images/uploaded/blog/things-to-do-in-cambridge-s3.avif" alt="A red-brick Cambridge college and bridge over the River Cam" width="1080" height="810" loading="lazy">
 
 My usual advice is to anchor the day around a punting slot, because that is the one thing with a timetable and a queue, and build the free, flexible stops around it. See King's and the market in the morning while the light is good, take a punt over the middle of the day, then drop into the Fitzwilliam or climb the tower in the afternoon. If you have longer, the Botanic Garden on the edge of the centre is a calm escape from the crowds.
 
@@ -79,6 +85,8 @@ If a punting tour is on your list, book the slot first and slot the rest around 
 
 **Couples tend to want the Backs and a quiet punt at golden hour. Families do best with the market, the Botanic Garden, and a stable chauffeured punt. History lovers should give the Fitzwilliam and the colleges proper time. Cambridge handles all three in a single compact centre, which is its real advantage.**
 
+<img src="/images/uploaded/blog/things-to-do-in-cambridge-s4.avif" alt="A Cambridge college beside the River Cam with a punt passing on the Backs" width="1080" height="810" loading="lazy">
+
 The mistake I see is treating Cambridge like a checklist and racing between sights. It is small, but it rewards slowing down. Pick the two or three things that match the people you are with, do them properly, and leave room to sit by the river. That is the version of the day people remember, rather than the one where they ticked off six colleges and enjoyed none of them.
 
 | Visitor | Top picks | Why |
@@ -92,6 +100,8 @@ If you are weighing Cambridge against the other famous punting city, I compared 
 ## When is the best time to visit Cambridge?
 
 **Late spring and early autumn are the sweet spot: the colleges are open, the river is busy but not heaving, and the light is kind. Summer is the liveliest and the most crowded, winter is quiet and atmospheric but several colleges close or restrict access. For punting specifically, the shoulder months give you the best mix of weather and elbow room.**
+
+<img src="/images/uploaded/blog/things-to-do-in-cambridge-s5.avif" alt="A Cambridge college and punts on the River Cam, College Backs" width="1080" height="810" loading="lazy">
 
 Term times and exam periods change what you can see, since some colleges close their grounds to visitors during May and June. The river is at its most crowded from late morning to mid-afternoon in summer, so come early or in the early evening for softer light and fewer boats. I went into the seasonal detail in our guide to the [best time of year to go punting](/blog/best-time-of-year-punting-cambridge/), and it genuinely changes the experience.
 
