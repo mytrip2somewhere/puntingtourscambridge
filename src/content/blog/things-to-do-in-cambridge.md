@@ -62,6 +62,15 @@ You can walk the Backs, and you should, but the path keeps you on the bank looki
 
 It is not quite turn-up-and-go in peak season. The central stretch gets busy from late morning, and the popular operators fill their slots, so it pays to plan. I went into [whether punting is worth it](/blog/is-punting-in-cambridge-worth-it/) honestly in a separate piece, and you can see the route and current pricing on the [Cambridge Shared Punting Tour](/tours/cambridge-shared-punting-tour/) page or <a href="https://www.getyourguide.com/cambridge-england-l439/cambridge-shared-punting-tour-t137081/?partner_id=MME1WGW&utm_medium=online_publisher" rel="sponsored noopener" target="_blank">check live availability and prices</a> on the operator's official GetYourGuide listing.
 
+
+<div class="cta-box" id="cta-mid">
+<p class="cta-eyebrow">Book your punt</p>
+<h3>Ready to glide the College Backs?</h3>
+<p>Shared, private and student-guided punts run daily along the River Cam. See <a href="https://www.getyourguide.com/cambridge-england-l439/cambridge-shared-punting-tour-t137081/?partner_id=MME1WGW&utm_medium=online_publisher" rel="sponsored noopener" target="_blank"><strong>the live price</strong></a> and free-cancellation terms on the operator's official listing before you pay.</p>
+<a class="btn btn-primary" href="https://www.getyourguide.com/cambridge-england-l439/cambridge-shared-punting-tour-t137081/?partner_id=MME1WGW&utm_medium=online_publisher" rel="sponsored noopener" target="_blank">Check live availability &amp; prices &rarr;</a>
+<p class="cta-microproof"><span class="stars" role="img" aria-label="Rated 4.7 out of 5"><span class="stars-fill" style="width:94%"></span></span> <strong>4.7</strong> &middot; 1,521 reviews &middot; free cancellation up to 24 hours</p>
+</div>
+
 ## How should you plan your time in Cambridge?
 
 **Half a day covers the core: King's, the market, a stretch of the Backs, and a punt. A full day lets you add the Fitzwilliam, the tower climb, and the Botanic Garden without rushing. The whole centre is walkable, so the limit is your appetite rather than distance.**

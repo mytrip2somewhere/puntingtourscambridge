@@ -31,7 +31,7 @@ The other thing nobody tells you is how busy [The Backs](https://en.wikipedia.or
 I am not going to talk you out of self-hire if that is what you want, because the doing is half the fun. But be honest with yourself about why you are on the river. If the goal is to relax and take in King's College Chapel from the water, paying someone to punt is money well spent. If the goal is the challenge and the laughs, self-hire is the better buy.
 
 <figure class="infographic">
- <img src="/images/generated/self-hire-punting-cambridge-tips.svg" alt="Self-hire punting in Cambridge step by step: brief and board with non-slip shoes and a buoyancy aid; stand on the flat deck at the back; drop the pole straight down to the riverbed; push gently and let go before it leans back; trail the pole behind you as a rudder to steer; duck low under the bridges. Steer by trailing, not stabbing, and check the live price before you book." width="900" height="470" loading="lazy">
+ <img src="/images/generated/self-hire-punting-cambridge-tips.svg" alt="Self-hire punting in Cambridge step by step: brief and board with non-slip shoes and a buoyancy aid; stand on the flat deck at the back; drop the pole straight down to the riverbed; push gently and let go before it leans back; trail the pole behind you as a rudder to steer; duck low under the bridges. Steer by trailing, not stabbing, and <a href="https://www.getyourguide.com/cambridge-england-l439/cambridge-shared-punting-tour-t137081/?partner_id=MME1WGW&utm_medium=online_publisher" rel="sponsored noopener" target="_blank"><strong>check the live price</strong></a> before you book." width="900" height="470" loading="lazy">
  <figcaption class="small">The self-hire basics, in the order they actually happen.</figcaption>
 </figure>
 
@@ -44,6 +44,15 @@ I am not going to talk you out of self-hire if that is what you want, because th
 | Who it suits | Confident, patient groups after a laugh | First-timers, families, anyone wanting the view |
 
 *Jordan Harrington's read after five seasons watching both play out on the Cam.*
+
+
+<div class="cta-box" id="cta-mid">
+<p class="cta-eyebrow">Book your punt</p>
+<h3>Ready to glide the College Backs?</h3>
+<p>Shared, private and student-guided punts run daily along the River Cam. See the live price and free-cancellation terms on the operator's official listing before you pay.</p>
+<a class="btn btn-primary" href="https://www.getyourguide.com/cambridge-england-l439/cambridge-shared-punting-tour-t137081/?partner_id=MME1WGW&utm_medium=online_publisher" rel="sponsored noopener" target="_blank">Check live availability &amp; prices &rarr;</a>
+<p class="cta-microproof"><span class="stars" role="img" aria-label="Rated 4.7 out of 5"><span class="stars-fill" style="width:94%"></span></span> <strong>4.7</strong> &middot; 1,521 reviews &middot; free cancellation up to 24 hours</p>
+</div>
 
 ## What does self-hire punting cost?
 

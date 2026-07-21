@@ -20,7 +20,7 @@ The question I get asked more than any other, usually by someone already standin
 
 That is the whole thing in two sentences, but the detail is where it actually helps you. Cambridge punting is not like a theatre with fixed seats that sell out completely. The shared tours run frequently, and operators add boats when demand climbs. What booking buys you in peak season is not so much guaranteed entry as a guaranteed time and a guaranteed price, and it spares you standing in a queue while the punt you wanted fills with someone else's group.
 
-If you already know your dates and want certainty, the simplest move is to reserve the [Cambridge Shared Punting Tour](/tours/cambridge-shared-punting-tour/) ahead of time. You see the live price first, you pick your slot, and there is nothing to negotiate on the riverbank. For the full menu of what runs, our [tours hub](/tours/) lays out the options side by side.
+If you already know your dates and want certainty, the simplest move is to reserve the [Cambridge Shared Punting Tour](/tours/cambridge-shared-punting-tour/) ahead of time. You see <a href="https://www.getyourguide.com/cambridge-england-l439/cambridge-shared-punting-tour-t137081/?partner_id=MME1WGW&utm_medium=online_publisher" rel="sponsored noopener" target="_blank"><strong>the live price</strong></a> first, you pick your slot, and there is nothing to negotiate on the riverbank. For the full menu of what runs, our [tours hub](/tours/) lays out the options side by side.
 
 <figure class="infographic">
   <img src="/images/generated/do-you-need-to-book-punting-cambridge.svg" alt="Cambridge punting booking guide: turn up on quiet weekdays, book ahead for summer weekend afternoons, with six licensed stations marked along the River Cam." width="900" height="360" loading="lazy">
@@ -56,6 +56,15 @@ Turning up also gives you a small advantage I think more people should use: you 
 | Weekend, off-season | Turn up, go in the morning | Some footfall but rarely a long queue |
 | Weekday, summer (May to Sep) | Turn up early, or book if fixed on a time | Afternoons get busier |
 | Weekend afternoon, summer | Book ahead | The recognised peak, longest walk-up queues |
+
+
+<div class="cta-box" id="cta-mid">
+<p class="cta-eyebrow">Book your punt</p>
+<h3>Ready to glide the College Backs?</h3>
+<p>Shared, private and student-guided punts run daily along the River Cam. See the live price and free-cancellation terms on the operator's official listing before you pay.</p>
+<a class="btn btn-primary" href="https://www.getyourguide.com/cambridge-england-l439/cambridge-shared-punting-tour-t137081/?partner_id=MME1WGW&utm_medium=online_publisher" rel="sponsored noopener" target="_blank">Check live availability &amp; prices &rarr;</a>
+<p class="cta-microproof"><span class="stars" role="img" aria-label="Rated 4.7 out of 5"><span class="stars-fill" style="width:94%"></span></span> <strong>4.7</strong> &middot; 1,521 reviews &middot; free cancellation up to 24 hours</p>
+</div>
 
 ## How far ahead should you book?
 

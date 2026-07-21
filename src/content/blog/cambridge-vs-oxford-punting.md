@@ -39,6 +39,15 @@ The Cherwell is a different feel altogether. It is greener, wilder in places, an
 | Which end you punt from | The flat raised platform (the till) at one end | The sloped slatted end |
 | Overall vibe | Iconic, architectural, busy | Rural, calm, semi-wild |
 
+
+<div class="cta-box" id="cta-mid">
+<p class="cta-eyebrow">Book your punt</p>
+<h3>Ready to glide the College Backs?</h3>
+<p>Shared, private and student-guided punts run daily along the River Cam. See <a href="https://www.getyourguide.com/cambridge-england-l439/cambridge-shared-punting-tour-t137081/?partner_id=MME1WGW&utm_medium=online_publisher" rel="sponsored noopener" target="_blank"><strong>the live price</strong></a> and free-cancellation terms on the operator's official listing before you pay.</p>
+<a class="btn btn-primary" href="https://www.getyourguide.com/cambridge-england-l439/cambridge-shared-punting-tour-t137081/?partner_id=MME1WGW&utm_medium=online_publisher" rel="sponsored noopener" target="_blank">Check live availability &amp; prices &rarr;</a>
+<p class="cta-microproof"><span class="stars" role="img" aria-label="Rated 4.7 out of 5"><span class="stars-fill" style="width:94%"></span></span> <strong>4.7</strong> &middot; 1,521 reviews &middot; free cancellation up to 24 hours</p>
+</div>
+
 ## What is the College Backs, and does Oxford have an equivalent?
 
 **The Backs is the stretch of the Cam running behind King's, Clare, Trinity and St John's, with open lawns sweeping down to the water and a string of historic bridges crossing it. It is the single most famous punting view in either city, and Oxford has nothing that lines up quite like it.**

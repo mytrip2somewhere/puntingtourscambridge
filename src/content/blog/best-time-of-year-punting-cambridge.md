@@ -39,6 +39,15 @@ I've poled in all four, and each has a genuine case. Spring brings the gardens a
 
 Those temperatures track the long-term Cambridge averages, which run around 7.65°C maximum in January up to 17.37°C in May. It warms further into high summer, then eases back through autumn. The point is that even the coldest months sit above freezing on average, so winter punting is more about wind and short days than impossible cold. If a cold or wet day catches you out, it's genuinely still doable, and I wrote about exactly that in [punting in the rain](/blog/punting-cambridge-in-the-rain/).
 
+
+<div class="cta-box" id="cta-mid">
+<p class="cta-eyebrow">Book your punt</p>
+<h3>Ready to glide the College Backs?</h3>
+<p>Shared, private and student-guided punts run daily along the River Cam. See <a href="https://www.getyourguide.com/cambridge-england-l439/cambridge-shared-punting-tour-t137081/?partner_id=MME1WGW&utm_medium=online_publisher" rel="sponsored noopener" target="_blank"><strong>the live price</strong></a> and free-cancellation terms on the operator's official listing before you pay.</p>
+<a class="btn btn-primary" href="https://www.getyourguide.com/cambridge-england-l439/cambridge-shared-punting-tour-t137081/?partner_id=MME1WGW&utm_medium=online_publisher" rel="sponsored noopener" target="_blank">Check live availability &amp; prices &rarr;</a>
+<p class="cta-microproof"><span class="stars" role="img" aria-label="Rated 4.7 out of 5"><span class="stars-fill" style="width:94%"></span></span> <strong>4.7</strong> &middot; 1,521 reviews &middot; free cancellation up to 24 hours</p>
+</div>
+
 ## What is the best time of day to go punting?
 
 **Early morning, roughly 8 to 10 AM, or anything after 4 PM. Those windows give you a near-private river. The stretch from noon to 4 PM is the busiest of the day, so if you can avoid that block, do.**

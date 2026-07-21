@@ -50,6 +50,15 @@ The punt itself is older than its Cambridge leisure use. As a working flat-botto
   <p class="infogain-note">A current snapshot from primary and reference sources. Early dates vary slightly between accounts, so treat them as well-sourced rather than absolute.</p>
 </aside>
 
+
+<div class="cta-box" id="cta-mid">
+<p class="cta-eyebrow">Book your punt</p>
+<h3>Ready to glide the College Backs?</h3>
+<p>Shared, private and student-guided punts run daily along the River Cam. See <a href="https://www.getyourguide.com/cambridge-england-l439/cambridge-shared-punting-tour-t137081/?partner_id=MME1WGW&utm_medium=online_publisher" rel="sponsored noopener" target="_blank"><strong>the live price</strong></a> and free-cancellation terms on the operator's official listing before you pay.</p>
+<a class="btn btn-primary" href="https://www.getyourguide.com/cambridge-england-l439/cambridge-shared-punting-tour-t137081/?partner_id=MME1WGW&utm_medium=online_publisher" rel="sponsored noopener" target="_blank">Check live availability &amp; prices &rarr;</a>
+<p class="cta-microproof"><span class="stars" role="img" aria-label="Rated 4.7 out of 5"><span class="stars-fill" style="width:94%"></span></span> <strong>4.7</strong> &middot; 1,521 reviews &middot; free cancellation up to 24 hours</p>
+</div>
+
 ## What exactly is a punt, and how is it poled?
 
 **A punt is a flat-bottomed wooden boat with square ends, no keel and no curved hull, designed for shallow, slow-moving rivers. You do not row it. You stand at one end and push it along by planting a long pole on the riverbed, then steering with that same pole as it trails behind you like a rudder.**

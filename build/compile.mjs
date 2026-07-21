@@ -221,7 +221,7 @@ function blogPostInner(d, bodyHtml) {
           ? `\n    <p class="small" style="margin:.7rem 0 0">Affiliate link: if you book through it we may earn a commission at no extra cost to you. <a href="/disclosure/">How this works</a>.</p>`
           : "";
         return `\n  <aside class="blog-cta">
-    <h2>Ready to drive it yourself?</h2>
+    <h2>Ready to book your Cambridge punt?</h2>
     <p>${esc(d.related_tour_blurb || "Check live dates and prices on the operator's official listing.")}</p>
     <p class="blog-cta-btns">${book} ${details}</p>${disc}
   </aside>`;

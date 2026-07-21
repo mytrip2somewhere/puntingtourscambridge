@@ -61,9 +61,18 @@ There are a few people I gently steer toward different choices. Anyone picturing
 
 *Jordan Harrington's honest read after five seasons guiding on the Cam.*
 
+
+<div class="cta-box" id="cta-mid">
+<p class="cta-eyebrow">Book your punt</p>
+<h3>Ready to glide the College Backs?</h3>
+<p>Shared, private and student-guided punts run daily along the River Cam. See the live price and free-cancellation terms on the operator's official listing before you pay.</p>
+<a class="btn btn-primary" href="https://www.getyourguide.com/cambridge-england-l439/cambridge-shared-punting-tour-t137081/?partner_id=MME1WGW&utm_medium=online_publisher" rel="sponsored noopener" target="_blank">Check live availability &amp; prices &rarr;</a>
+<p class="cta-microproof"><span class="stars" role="img" aria-label="Rated 4.7 out of 5"><span class="stars-fill" style="width:94%"></span></span> <strong>4.7</strong> &middot; 1,521 reviews &middot; free cancellation up to 24 hours</p>
+</div>
+
 ## What does the price actually get you?
 
-**A shared chauffeured tour usually runs around 45 minutes on the central Backs stretch with a guide doing the punting and the talking. That is the sweet spot on value. Self-hire punts look cheaper by the hour, but you do the work, you miss the stories, and beginners often spend the time crashing into other boats rather than enjoying the view. Prices shift by season and operator, so always [check the live price](/guides/cambridge-punting-prices/) before you book.**
+**A shared chauffeured tour usually runs around 45 minutes on the central Backs stretch with a guide doing the punting and the talking. That is the sweet spot on value. Self-hire punts look cheaper by the hour, but you do the work, you miss the stories, and beginners often spend the time crashing into other boats rather than enjoying the view. Prices shift by season and operator, so always [<a href="https://www.getyourguide.com/cambridge-england-l439/cambridge-shared-punting-tour-t137081/?partner_id=MME1WGW&utm_medium=online_publisher" rel="sponsored noopener" target="_blank"><strong>check the live price</strong></a>](/guides/cambridge-punting-prices/) before you book.**
 
 <img src="/images/uploaded/blog/is-punting-in-cambridge-worth-it-s3.avif" alt="Punts gliding under a stone bridge on the Cambridge College Backs" width="1080" height="810" loading="lazy">
 
