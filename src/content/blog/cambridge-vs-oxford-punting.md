@@ -10,7 +10,7 @@ related_tour_blurb: "Coming to Cambridge? The shared chauffeured tour is the cla
 draft: false
 ---
 
-People plan a day in one city and end up asking me about the other. "Is Oxford punting basically the same?" comes up most weeks on the bank, usually from someone deciding where to spend a single free afternoon. The two are close cousins, and I will say up front that Oxford is lovely. But they are not the same trip, and the differences are easy to get wrong if you have only seen photos.
+People plan a day in one city and end up asking me about the other. "Is Oxford punting basically the same?" comes up most weeks on the bank, usually from someone deciding where to spend a single free afternoon. If the honest answer is that you want both, a <a href="https://www.getyourguide.com/london-l57/oxford-and-cambridge-t2095/?partner_id=MME1WGW&utm_medium=online_publisher" rel="sponsored noopener" target="_blank">guided coach day trip from London that visits Oxford and Cambridge in one day is worth a look here</a>. The two are close cousins, and I will say up front that Oxford is lovely. But they are not the same trip, and the differences are easy to get wrong if you have only seen photos.
 
 ## Is Cambridge or Oxford punting better?
 

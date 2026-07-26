@@ -71,10 +71,14 @@ to their real source (GYG / Viator listing), never claimed as the site's own.
 
 ## SOCIAL LINKS (footer icons: Instagram, TikTok, Facebook, YouTube)
 - Using platform-search fallbacks for now (swap for real account URLs when available):
-- Instagram: https://www.instagram.com/explore/tags/puntingtourscambridge/
+- Instagram (Google-scoped fallback; IG hashtag/keyword URLs are login-walled/404 for
+  logged-out visitors): https://www.google.com/search?q=%22Punting+Tours+Cambridge%22+instagram
 - TikTok: https://www.tiktok.com/search?q=Punting%20Tours%20Cambridge
-- Facebook: https://www.facebook.com/search/top?q=Punting%20Tours%20Cambridge
+- Facebook (Google-scoped fallback; FB search URLs 404 logged-out):
+  https://www.google.com/search?q=%22Punting+Tours+Cambridge%22+facebook
 - YouTube: https://www.youtube.com/results?search_query=Punting+Tours+Cambridge
+- All four verified loading logged-out in a real browser, 2026-07-22. Swap for real
+  account URLs when the accounts exist.
 
 ## FTC DISCLOSURE
 - Placement: footer, sitewide.
