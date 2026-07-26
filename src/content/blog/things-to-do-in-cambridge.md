@@ -115,3 +115,31 @@ If you are weighing Cambridge against the other famous punting city, I compared 
 Term times and exam periods change what you can see, since some colleges close their grounds to visitors during May and June. The river is at its most crowded from late morning to mid-afternoon in summer, so come early or in the early evening for softer light and fewer boats. I went into the seasonal detail in our guide to the [best time of year to go punting](/blog/best-time-of-year-punting-cambridge/), and it genuinely changes the experience.
 
 For up-to-date opening times and events across the city, [Visit Cambridge](https://www.visitcambridge.org/place-categories/punting/) keeps a current rundown. When you have your day mapped out, the [Cambridge Shared Punting Tour](/tours/cambridge-shared-punting-tour/) is the one I point most people toward, because it is the part of a Cambridge day that the streets simply cannot give you.
+
+## Where should you stay in Cambridge?
+
+**Stay central and the river, the colleges and the market are all a short walk apart, which matters in a city where the station sits a good 20 to 30 minutes out. Below are the closest bookable hotels to the Backs and the punting stations, roughly nearest first.** A room is a separate booking from a punt, and Cambridge rates climb on warm weekends, so check the live price for your dates.
+
+The closest upscale rooms to the water sit on Quayside, where the chauffeured punts push off. If you want to walk out of the lobby and almost straight onto a boat, this is the one.
+
+<p class="hotel-row"><span class="hr-name">The Varsity Hotel &amp; Spa</span> <a class="hotel-cta" href="https://expedia.tpk.ro/TsWXNE3U" rel="sponsored noopener" target="_blank">Check rates &rsaquo;</a></p>
+
+Cambridge's grand old hotel looks out over the green of Parker's Piece, a short walk from both the colleges and the river. It is the splurge pick.
+
+<p class="hotel-row"><span class="hr-name">University Arms</span> <a class="hotel-cta" href="https://expedia.tpk.ro/XBUhgmjN" rel="sponsored noopener" target="_blank">Check rates &rsaquo;</a></p>
+
+Central and an easy stroll from the Backs, a comfortable upper-mid base for a day of colleges and river.
+
+<p class="hotel-row"><span class="hr-name">Graduate Cambridge</span> <a class="hotel-cta" href="https://expedia.tpk.ro/4ZoMm53J" rel="sponsored noopener" target="_blank">Check rates &rsaquo;</a></p>
+
+Reliable and central, near Downing Street and the shops, with the river and both stations an easy walk away.
+
+<p class="hotel-row"><span class="hr-name">Hilton Cambridge City Centre</span> <a class="hotel-cta" href="https://expedia.tpk.ro/ibhma79D" rel="sponsored noopener" target="_blank">Check rates &rsaquo;</a></p>
+
+An independent hotel facing Parker's Piece with its own garden, central without sitting right in the crowds.
+
+<p class="hotel-row"><span class="hr-name">Gonville Hotel</span> <a class="hotel-cta" href="https://expedia.tpk.ro/JE2OD5Gt" rel="sponsored noopener" target="_blank">Check rates &rsaquo;</a></p>
+
+The most wallet-friendly of this central set, handy for the Fitzwilliam Museum and a flat walk into the middle of town.
+
+<p class="hotel-row"><span class="hr-name">Holiday Inn Express Cambridge</span> <a class="hotel-cta" href="https://expedia.tpk.ro/2eruHzp2" rel="sponsored noopener" target="_blank">Check rates &rsaquo;</a></p>

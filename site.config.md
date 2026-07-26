@@ -95,3 +95,8 @@ to their real source (GYG / Viator listing), never claimed as the site's own.
 - Punting context: chauffeured and shared/private tours on the River Cam past the College Backs
   (King's, Trinity, St John's, the Bridge of Sighs, the Mathematical Bridge). Lighter, heritage,
   relaxing tone, not adrenaline. Best season roughly spring to autumn.
+## HOTELS (Travelpayouts / Expedia, added 2026-07-22)
+Marker 453147. TP-minted expedia.tpk.ro short links (attribution-safe), placed as amber
+"Check rates" rows in the "Where to stay" section of the things-to-do page. All Expedia
+listings Grok-verified live 2026-07; NONE-results (du Vin, Tamburlaine, Premier Inn,
+Travelodge Central, Mustard Hotel) were skipped, not guessed.

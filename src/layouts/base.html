@@ -105,7 +105,7 @@
        every current and future GYG/Viator link, including the sticky bar. */
     (function () {
       document.addEventListener('click', function (e) {
-        var a = e.target.closest && e.target.closest('a[href*="getyourguide.com"], a[href*="viator.com"]');
+        var a = e.target.closest && e.target.closest('a[href*="getyourguide.com"], a[href*="viator.com"], a[href*="tpk.ro"]');
         if (!a || typeof window.gtag !== 'function') return;
         window.gtag('event', 'affiliate_click', {
           link_url: a.href,
